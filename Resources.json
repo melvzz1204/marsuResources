@@ -126,32 +126,91 @@
           ]
         }
       ],
-      "research": [
+     "research": [
         {
-          "research": [
+          "international": [
             {
               "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completionYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
+              "title": "Enhancing Examination Question Analysis: A Machine Learning Approach to Cognitive Level Prediction",
+              "facultyName": "Kierven A. Villaruel",
+              "photos": [
+                "https://drive.google.com/uc?id=11_BgfF61J1v5qSRxdXlBwX5wxgnRGXVN"
+              ]
+            },
+            {
+              "id": 2,
+              "title": "Fern Edibility Classification of Two Fern Species in the Philippines Using Convolutional Neural Network",
+              "facultyName": "Joshua M. Relatorres",
+              "photos": [
+                "https://drive.google.com/uc?id=11_BgfF61J1v5qSRxdXlBwX5wxgnRGXVN"
+              ]
+            },
+            {
+              "id": 3,
+              "title": "Landslide GIS Based Early Warning with Mobile Siren System for Incident Response Team",
+              "facultyName": "Kenneth L Omiping",
+              "photos": [
+                "https://drive.google.com/uc?id=11_BgfF61J1v5qSRxdXlBwX5wxgnRGXVN"
+              ]
+            },
+            {
+              "id": 4,
+              "title": "Multi-class Classification of Cyber Attacks with NSL-KDD: A Deep Learning Approach",
+              "facultyName": "Raphael Dale R. Ogbac",
+              "photos": [
+                "https://drive.google.com/uc?id=11_BgfF61J1v5qSRxdXlBwX5wxgnRGXVN"
+              ]
+            },
+            {
+              "id": 5,
+              "title": "Spotted!: ConvNet Based System for Identifying Missing Individuals",
+              "facultyName": "Beneden M. Logmao",
+              "photos": [
+                "https://drive.google.com/uc?id=11_BgfF61J1v5qSRxdXlBwX5wxgnRGXVN"
+              ]
+            },
+            {
+              "id": 6,
+              "title": "ICT Capacity Development Project of Barangay Newly Elected and Appointed Officials (BNEO)",
+              "facultyName": "Dr. Maria Nessa M. Solomon, Beneden M. Logmao",
+              "photos": [
+                "https://drive.google.com/uc?id=11_BgfF61J1v5qSRxdXlBwX5wxgnRGXVN"
+              ]
             }
           ],
           "extension": [
             {
               "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completioYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
+              "title": "Development of and Implementation of an Online Wildlife Permitting and Management System",
+              "facultyInvolved": [
+                "Dr. Ronjie Mar L. Malinao",
+                "Christine May L. Nabos",
+                "Kierven A. Villaruel",
+                "Art Jervin L. Magcamit",
+                "Villi Dane M. Go",
+                "Doreena C. Borja",
+                "Beneden M. Logmao",
+                "Dr. Julieta Q. Nabos",
+                "Dr. Maria Nessa M. Solomon",
+                "Lorimer L. Imperio",
+                "Jeffrey Marapia",
+                "Eunice G. De Luna-Malinao",
+                "Dr. Christopher J. Rebistual",
+                "Aldrin Requiz",
+                "Kevin H. Jasmin"
+              ],
+              "agencyInvolved": [
+                "Marinduque State University (MarSU)",
+                "DENR-PENRO"
+              ],
+              "photos": [
+                "https://drive.google.com/uc?id=1lv4bSoAFD0M-xpyV56z_Cz-IZpur-5Uf"
+              ]
             }
           ]
         }
       ],
+      
       "studentAchievement": [
         {
           "id": 1,
@@ -167,6 +226,73 @@
           "image": ""
         }
       ],
+       "studentOrganization": [
+          {
+            "id": 1,
+            "name": "KILBERT S. VILLANUEVA",
+            "position": "President"
+          },
+          {
+            "id": 2,
+            "name": "JABIEL ANGELO C. MADROÑO",
+            "position": "Vice President"
+          },
+          {
+            "id": 3,
+            "name": "JAMIE M. SOLINA",
+            "position": "Treasurer"
+          },
+          {
+            "id": 4,
+            "name": "JALLIEN MAE B. RESABA",
+            "position": "Secretary"
+          },
+          {
+            "id": 5,
+            "name": "CHRISHA MAE L. ROCERO",
+            "position": "Business Manager"
+          },
+          {
+            "id": 6,
+            "name": "CRISTEL SHIN M. MARTINEZ",
+            "position": "Business Manager"
+          },
+          {
+            "id": 7,
+            "name": "BEA O. MARCIANO",
+            "position": "Auditor"
+          },
+          {
+            "id": 8,
+            "name": "ERICH WYANE P. LASTICA",
+            "position": "P.I.O"
+          },
+          {
+            "id": 9,
+            "name": "LEONELLA H. LAMONTE",
+            "position": "P.I.O"
+          },
+          {
+            "id": 10,
+            "name": "MIKKO ANGELO M. PANUCULAN",
+            "position": "Peace Officer"
+          },
+          {
+            "id": 11,
+            "name": "ASHLEY ANN MATAYA",
+            "position": "Peace Officer"
+          },
+          {
+            "id": 12,
+            "name": "CHRISTIAN JAY V. FRANSISCO",
+            "position": "Escort"
+          },
+          {
+            "id": 13,
+            "name": "KRIS ANDREA P. RUZ",
+            "position": "Muse"
+          }
+        ],
       "studentPublication": [
         {
           "studentOrg": [
