@@ -1,5 +1,6 @@
 {
   "colleges": [
+    /*college of information and computing sciences*/
     {
       "id": 1,
       "collegeName": "College of Information and Computing Sciences",
@@ -626,6 +627,8 @@
         }
       ]
     },
+
+    /*college of education*/
      {
       "id": 2,
       "collegeName": "College of Education",
