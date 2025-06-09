@@ -6,11 +6,11 @@
       "collegeName": "College of Information and Computing Sciences",
       "collegeProfile": [
         {
-          "tagline":    "Building the nation, Molding the future",
+          "tagline":    "Creating Innovation Cultivating Success",
            "history":   "The College of Information and Computing Sciences is one of the premier colleges in the province for IT
                         Education and services. It aims to produce competitive IT professionals and IT-enabled individuals who
                         will encourage real innovation for the advancement in the digital era of the province and the country as a
-                        whole. \n 
+                        whole. \n
                         The college was established in 1998 at MSC Boac Campus through BOT Resolution No. 35, s. 1998 as
                         Institute of Information and Computing Sciences (IICS), a special program to offer Associate in Computer
                         Technology (ACT). Believing that the province needs IT Human Resources, after two years, IICS was
@@ -61,7 +61,7 @@
                           Integrate and promote awareness of the mandated government policies
                           in relevant courses
                           
-                          Inculcate the value of professional growth and lifelong learning."
+                          Inculcate the value of professional growth and lifelong learning.",
           "awards": [
             {
                 "id": 1,
@@ -515,12 +515,12 @@
         {
           "programOutcome": [
             {
-              /*ano to*/
+            
             }
           ],
           "studyPlan": [
             {
-              /*ano to*/
+              
             }
           ],
           "careerOpportunity": [
@@ -712,7 +712,7 @@
           ]
         },
         {
-          "programOutcome": [
+          "programOutcomes": [
             {
               /*ano to*/
             }
@@ -776,7 +776,7 @@
               "id": 1,
               "title": "",
               "publicationYear": "",
-              "completioYear": "",
+              "completionYear": "",
               "authors": "",
               "indices": "",
               "abstract": ""
@@ -811,7 +811,7 @@
           ]
         },
         {
-          "accomplishements": [
+          "accomplishments": [
             {
               "id": 1,
               "title": "",
