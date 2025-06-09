@@ -6,7 +6,7 @@
       "collegeName": "College of Information and Computing Sciences",
       "collegeProfile": [
         {
-          "tagline":    "Creating innovation, cultivating scuccess",
+          "tagline":    "Building the nation, Molding the future",
            "history":   "The College of Information and Computing Sciences is one of the premier colleges in the province for IT
                         Education and services. It aims to produce competitive IT professionals and IT-enabled individuals who
                         will encourage real innovation for the advancement in the digital era of the province and the country as a
@@ -43,25 +43,43 @@
                         education and public service with their mantra, `WORK IN SILENCE AND LET OUR SUCCESS MAKE OUR
                         NOISE!`
                         ",
-          "goals": "To Produce competitive IT professionals and IT enabled individuals who will encourage real innovation for the advancement in the digital era of the province and the country as a whole.",
+          "goals": "The teacher education degree programs aim to develop highly
+                    motivated and competent teachers specializing in the content and
+                    pedagogy for elementary education, secondary education, culture and
+                    arts education, technology and livelihood education, and other fields of
+                    specialization.",
+          "objectives" : "Develop elementary and secondary teachers who are personally and
+                          professionally equipped with 21st century skills which include critical
+                          thinking, creativity & innovation, collaboration, cross-cultural
+                          understanding, communication, computing technology, and career
+                          learning.
+                          Produce graduates who demonstrate desired values and morals in the
+                          practice of their profession.
+                          
+                          Develop mastery of subject matter and practice pedagogies in their
+                          fields of specialization.
+                          Integrate and promote awareness of the mandated government policies
+                          in relevant courses
+                          
+                          Inculcate the value of professional growth and lifelong learning."
           "awards": [
             {
                 "id": 1,
-                "title": "Best IT College in the Philippines",
-                "year": 2023,
-                "description": "Awarded by the Philippine IT Association for excellence in IT education."
+                "title": "BEST PERFORMING COLLEGE IN THE LICENSURE EXAMINATION",
+                "year": 2024,
+                "description": ""
             },
             {
                 "id": 2,
-                "title": "Excellence in Research",
-                "year": 2022,
-                "description": "Recognized for outstanding research contributions in the field of Information Technology."
+                "title": "BEST PERFORMING DEAN",
+                "year": 2024,
+                "description": ""
             },
             {
                 "id": 3,
-                "title": "Community Service Award",
-                "year": 2021,
-                "description": "For exceptional service to the local community through IT initiatives."
+                "title": "BEST PERFORMING COLLEGE",
+                "year": 2024,
+                "description": ""
             }
           ]
         }
