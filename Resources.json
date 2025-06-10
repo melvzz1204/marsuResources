@@ -1153,9 +1153,71 @@
           "faculty": [
             {
               "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
+              "image": "https://drive.google.com/drive/u/0/folders/1SuzFs_rAT3JGQ8tvBLxKMv2ex8kco3oH",
+              "name": "DR. VERNA LIZA L. CAPINA",
+              "designation": "Associate Professor V, College Dean",
+              "email": "capina.vernaliza@marsu.edu.ph",
+              "educationalAttainment": [
+                {
+                  "id": 1,
+                  "attainment": " Doctor of Business Administration"
+                }
+              ],
+              "publication": [
+                {
+                  "id":1,
+                  "title":""
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "image": "https://drive.google.com/drive/u/0/folders/1lwE9jBreKFjTHnn94qxLxeWqzG8ZhsN4",
+              "name": "GENEROSO E. UDANGA, MBA",
+              "designation": "Associate Professor V, Program Head",
+              "email": "udanga.generoso@marsu.edu.ph",
+              "educationalAttainment": [
+                {
+                  "id": 1,
+                  "attainment": ""
+                }
+              ],
+              "publication": [
+                {
+                  "id":1,
+                  "title":"OCONUT INDUSTRY, ENTREPRENEURSHIP, GOOD GOVERNANCE, SUSTAINABLE DEVELOPMENT GOALS"
+                },
+                {
+                  "id": 2,
+                  "title": " Published 10+ research papers on various subject matters including papers on the coconut industry and on local governance; received the Best Researcher-Dangal ng MSC Award 2023"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "image": "https://drive.google.com/drive/u/0/folders/1WAqJJhMXSSiwoCfBTYiaKI_mtsKdyjXU",
+              "name": "RONALYN M. MOTOL, MPA,MBA",
+              "designation": "Assistant Professor 1, Program Head",
+              "email": "motol.ronalynm@marsu.edu.ph",
+              "educationalAttainment": [
+                {
+                  "id": 1,
+                  "attainment": ""
+                }
+              ],
+              "publication": [
+                {
+                  "id":1,
+                  "title":""
+                }
+                
+              ]
+            },
+            {
+              "id": 4,
+              "image": "https://drive.google.com/drive/u/0/folders/1npxv2yJXpjThcBnScioi7yH5NHh_2gqQ",
+              "name": "RHODA N. MOLBOG, MBA, MPA",
+              "designation": "Assistant Professor 1, Program Head",
               "email": "",
               "educationalAttainment": [
                 {
@@ -1165,8 +1227,393 @@
               ],
               "publication": [
                 {
+                  "id":1,
+                  "title":""
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "image": "https://drive.google.com/drive/u/0/folders/1dj3VL1gUKYl6kF7pCaXemB-1ck1ojcCX",
+              "name": "DONABEL T. MAGAHIS, MBA",
+              "designation": "Assistant Professor IV, Program Head",
+              "email": "magahis.donabel@marsu.edu.ph",
+              "educationalAttainment": [
+                {
                   "id": 1,
+                  "attainment": ""
+                }
+              ],
+              "publication": [
+                {
+                  "id":1,
+                  "title":""
+                },
+                {
+                  "id": 2,
                   "title": ""
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "image": "https://drive.google.com/drive/u/0/folders/1X_xb3pDA8KUOlqzEaqresxfdQEjdIHgv",
+              "name": "RONALYN P. VILLALVA-REVILLOZA, MBA",
+              "designation": "INSTRUCTOR I",
+              "email": "villalva.ronalyn@marsu.edu.ph",
+              "educationalAttainment": [
+                {
+                  "id": 1,
+                  "attainment": ""
+                }
+              ],
+              "publication": [
+                {
+                  "id":1,
+                  "title":""
+                }
+              ]
+            },{
+              "id": 7,
+              "image": "https://drive.google.com/drive/u/0/folders/1vLwGcwZ3jCQd-pNYkLWN7yFGz-qcf8GE",
+              "name": "JUN JOSEPH JOHN S. REFUERZO, MBA",
+              "designation": "Instructor I, Assistant Program Head BSA/BSAIS",
+              "email": "refuerzo.jun@marsu.edu.ph",
+              "educationalAttainment": [
+                {
+                  "id": 1,
+                  "attainment": ""
+                }
+              ],
+              "publication": [
+                {
+                  "id":1,
+                  "title":""
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "image": "https://drive.google.com/drive/u/0/folders/1aCmjKTgFgwAbgasvOWkjgYCMVZ8MkR3S",
+              "name": "AZAEL MAY Q. PEÑAROYO-JOMADIAO, MBA",
+              "designation": "Instructor 1",
+              "email": "penaroyo.azaelmay@marsu.edu.ph",
+              "educationalAttainment": [
+                {
+                  "id": 1,
+                  "attainment": ""
+                }
+              ],
+              "publication": [
+                {
+                  "id":1,
+                  "title":""
+                }            
+              ]
+            },
+            {
+              "id": 9,
+              "image": "https://drive.google.com/drive/u/0/folders/1lP8uYJa84spepwg0yaVQrsTv-sGH_3CW",
+              "name": "MERRYROSE RED PALMA, PH.D.-BM",
+              "designation": "Associate Professor II",
+              "email": "palma.merryrose@marsu.edu.ph",
+              "educationalAttainment": [
+                {
+                  "id": 1,
+                  "attainment": ""
+                }
+              ],
+              "publication": [
+                {
+                  "id":1,
+                  "title":"",
+                }
+              ]
+            },
+            {
+              "id": 10,
+              "image": "https://drive.google.com/drive/u/0/folders/1fn-wrMoCHW44fz6wmBOGETnsBRcE5-yL",
+              "name": "LYNLE N. MENDOZA, MBA",
+              "designation": "Assistant Professor I",
+              "email": "mendoza.lynle@marsu.edu.ph",
+              "educationalAttainment": [
+                {
+                  "id": 1,
+                  "attainment": ""
+                }
+              ],
+              "publication": [
+                {
+                  "id":1,
+                  "title":"OCONUT INDUSTRY, ENTREPRENEURSHIP, GOOD GOVERNANCE, SUSTAINABLE DEVELOPMENT GOALS",
+                }
+              ]
+            },
+            {
+              "id":11,
+              "image": "https://drive.google.com/drive/u/0/folders/1x6frk7Jn_ujQGFTKsEAtYV1lqzyC9EFZ",
+              "name": "MARIFE R. MADLA, MBA, MPA",
+              "designation": "Assistant Professor II",
+              "email": "madla.marife@marsu.edu.ph",
+              "educationalAttainment": [
+                {
+                  "id": 1,
+                  "attainment": ""
+                }
+              ],
+              "publication": [
+                {
+                  "id":1,
+                  "title":"Be a Tree Hugger: “Encourages people to embrace and protect trees, symbolizing their commitment to environmental conservation”.",
+                },
+                {
+                  "id": 2,
+                  "title": "Hope Beyond Bars: Jail Visitation"
+                },
+                {
+                  "id": 3,
+                  "title": "Waves of Change: GAD Coastal Clean-up"
+                },
+                {
+                  "id": 4,
+                  "title": "GAD Grows: Planting Seeds of Equality-A tree Planting Drive"
+                }
+                
+              ]
+            },
+            {
+              "id": 12,
+              "image": "https://drive.google.com/drive/u/0/folders/196Af82UqRAV6TFGo3eicltlGqe9vGZNg",
+              "name": "MARGARETTE FORTEN GUILMO, MBA",
+              "designation": "INSTRUCTOR I",
+              "email": "guilmo.margarette@marsu.edu.ph",
+              "educationalAttainment": [
+                {
+                  "id": 1,
+                  "attainment": ""
+                }
+              ],
+              "publication": [
+                {
+                  "id":1,
+                  "title":""
+                }
+              ]
+            },
+            {
+              "id": 13,
+              "image": "https://drive.google.com/drive/u/0/folders/1B3gspnbzd7vi7UZEkdICLx-pFrtn3PLC",
+              "name": "MARK LOUIE TANZ BALATICO GALANG, MBA",
+              "designation": "Instructor I, Extension Coordinator",
+              "email": "galang.marklouietanz@marsu.edu.ph",
+              "educationalAttainment": [
+                {
+                  "id": 1,
+                  "attainment": ""
+                }
+              ],
+              "publication": [
+                {
+                  "id":1,
+                  "title":""
+                }
+              ]
+            },
+            {
+              "id": 14,
+              "image": "https://drive.google.com/drive/u/0/folders/1N90guthB0fyeXq5_8cpWIG16wHAhpXoR",
+              "name": "JOAN MARIE LANUZA-ECLIPSE, MBA",
+              "designation": "Instructor I",
+              "email": "eclipse.joanmarie@marsu.edu.ph",
+              "educationalAttainment": [
+                {
+                  "id": 1,
+                  "attainment": ""
+                }
+              ],
+              "publication": [
+                {
+                  "id":1,
+                  "title":""
+                }
+              ]
+            },
+            {
+              "id": 15,
+              "image": "https://drive.google.com/drive/u/0/folders/1W_nobxAnm7BsQods6jk75k2AZaKKHld_",
+              "name": "JENYZA B. DIMACALI-ROJO, MBA",
+              "designation": "Instructor I, Research Coordinator",
+              "email": "dimacalirojo.jenyza@marsu.edu.ph",
+              "educationalAttainment": [
+                {
+                  "id": 1,
+                  "attainment": ""
+                }
+              ],
+              "publication": [
+                {
+                  "id":1,
+                  "title":""
+                }
+              ]
+            },
+            {
+              "id": 16,
+              "image": "https://drive.google.com/drive/u/0/folders/1xijFG_hzhfWyu53HOwjHXeDKOGvnzBWT",
+              "name": "MICHAEL V. CAPIÑA, Ph.D.",
+              "designation": "Associate Professor V",
+              "email": "capina.michael@marsu.edu.ph",
+              "educationalAttainment": [
+                {
+                  "id": 1,
+                  "attainment": ""
+                }
+              ],
+              "publication": [
+                {
+                  "id":1,
+                  "title":""
+                }
+              ]
+            },
+            {
+              "id": 17,
+              "image": "https://drive.google.com/drive/u/0/folders/1uEvMwG_eOFLobtQzte6SHnKbfi_frBgt",
+              "name": "RECHILLE B. RICAFRENTE",
+              "designation": "University Lecturer",
+              "email": "ricafrente.rechille@marsu.edu.ph",
+              "educationalAttainment": [
+                {
+                  "id": 1,
+                  "attainment": "Master’s in Management major in International Tourism and Hospitality Management (ongoing)",
+                  "status": "Ongoing"
+                }
+              ],
+              "publication": [
+                {
+                  "id":1,
+                  "title":""
+                }
+              ]
+            },
+            {
+              "id": 18,
+              "image": "https://drive.google.com/drive/u/0/folders/1VX1-LZ1s512pDiZOjsIM7afFB-IkUKvG",
+              "name": "JEANIE MAY PALATINO",
+              "designation": "University Lecturer ",
+              "email": "palatino.jeaniemay@marsu.edu.ph",
+              "educationalAttainment": [
+                {
+                  "id": 1,
+                  "attainment": "Master in Management major in International Tourism and Hospitality Management"
+                }
+              ],
+              "publication": [
+                {
+                  "id":1,
+                  "title":""
+                }
+              ]
+            },
+            {
+              "id": 19,
+              "image": "https://drive.google.com/drive/u/0/folders/1yPfbhM4qPIkyZpyLsSU-P2H7K8Jlvf_7",
+              "name": "SOPHIA YVETE P. ORILLA",
+              "designation": "University Lecturer ",
+              "email": "orilla.sophiayvete@marsu.edu.ph",
+              "educationalAttainment": [
+                {
+                  "id": 1,
+                  "attainment": "Master of Arts in Communication ",
+                  "status": "Ongoing"
+                }
+              ],
+              "publication": [
+                {
+                  "id":1,
+                  "title":""
+                }
+              ]
+            },
+            {
+              "id": 20,
+              "image": "https://drive.google.com/drive/u/0/folders/1rk1qryLd-M8--ZIexKsPX70U-0EPANaw",
+              "name": "ALCHONA WAYNE MAIGTING-LABAGUIS",
+              "designation": "University Lecturer ",
+              "email": "maigting.alchonawayne@marsu.edu.ph",
+              "educationalAttainment": [
+                {
+                  "id": 1,
+                  "attainment": "Master of Arts in Applied Linguistics"
+                  
+                }
+              ],
+              "publication": [
+                {
+                  "id":1,
+                  "title":""
+                }
+              ]
+            },
+            {
+              "id": 21,
+              "image": "https://drive.google.com/drive/u/0/folders/1SiHGI0UJXZe5eklJSflK8qRbPSSPUJkW",
+              "name": "JEIMYLEEN ANGELI M. CAS",
+              "designation": "University Lecturer ",
+              "email": "cas.jeimyleenangeli@marsu.edu.ph",
+              "educationalAttainment": [
+                {
+                  "id": 1,
+                  "attainment": "Masters in Foreign Service (with units)"
+                }
+              ],
+              "publication": [
+                {
+                  "id":1,
+                  "title":""
+                }
+              ]
+            },
+            {
+              "id": 22,
+              "image": "https://drive.google.com/drive/u/0/folders/1SiHGI0UJXZe5eklJSflK8qRbPSSPUJkW",
+              "name": "CARLVIN RUSS V. PAR",
+              "designation": "Part time University Lecturer",
+              "email": "par.carlvinruss@marsu.edu.ph",
+              "educationalAttainment": [
+                {
+                  "id": 1,
+                  "attainment": "BSBA major in Human Resource Development and Management "
+                },
+                {
+                  "id": 1,
+                  "attainment": "MASTER IN PUBLIC ADMINISTRATION major in Organizational Studies ",
+                  "status": "Ongoing"
+                }
+              ],
+              "publication": [
+                {
+                  "id":1,
+                  "title":""
+                }
+              ]
+            },
+            {
+              "id": 23,
+              "image": "https://drive.google.com/drive/u/0/folders/1TNu16ugZEDi5wIbbs4NVpTq4KHRKA8pL",
+              "name": "RONIEL M. MACATOL, PhD",
+              "designation": "Part-Time Lecturer",
+              "email": "macatol.roniel@marsu.edu.ph",
+              "educationalAttainment": [
+                {
+                  "id": 1,
+                  "attainment": "Doctor of Philosophy in Management"
+                }
+              ],
+              "publication": [
+                {
+                  "id":1,
+                  "title":""
                 }
               ]
             }
