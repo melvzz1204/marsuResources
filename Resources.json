@@ -7,7 +7,12 @@
       "collegeProfile": [
         {
           "tagline": "Creating Innovation Cultivating Success",
-          "history": "The College of Information and Computing Sciences is one of the premier colleges in the province for IT Education and services. It aims to produce competitive IT professionals and IT-enabled individuals who will encourage real innovation for the advancement in the digital era of the province and the country as a whole. \n The college was established in 1998 at MSC Boac Campus through BOT Resolution No. 35, s. 1998 as Institute of Information and Computing Sciences (IICS), a special program to offer Associate in Computer Technology (ACT). Believing that the province needs IT Human Resources, after two years, IICS was adopted as the School of Information and Computing Sciences (SICS), offering two emerging degree programs Bachelor of Science in Information Management and Bachelor of Science in Information Technology to cater to the graduates of ACT. Bachelor of Science in Information Management was also offered in Sta. Cruz Campus. The Bachelor of Science in Information Management (BSIM) was renamed to the Bachelor of Science in Information Systems (BSIS) to adapt to CHED Memorandum Order No. 53 series of 2006.  \n After a decade, the Marinduque State College had an organizational restructuring wherein two of the big schools in the college were merged. The School of Industrial Technology and the School of Information and Computing Sciences convergence paved the way for the School of Technology's birth in 2016. After three years of being together, the two schools parted ways due to another organizational restructuring and SICS was re-birth in 2019.  \n In 2021, however, SICS was converted to the Institute of Information Systems and Technology (IIST) and became part of the College of Engineering, Information and Industrial Technology (CEIIT) together with the Institute of Engineering and Department of Industrial Technology to centralize the resources of these three into a single college. But once again, fate has plans for this institute and let it navigate its ship on its own. Finally, the former school was converted into a college, banning the name of the College of Information and Computing Sciences (CICS).  \n In 25 years of its existence, CICS has contributed significantly to MSC's mandates in Instruction, Research, Extension, and Production. Currently, both the BS in Information Systems and BS in Information Technology in Boac Campus are Level III Re-Accredited by the Accrediting Agency of Chartered Colleges and Universities in the Philippines (AACCUP), while the BS in Information Systems in Sta. Cruz Campus is Level II Re-Accredited. CICS has produced thousands of IT professionals serving in the province, other parts of the country, and even the global industry. Faculty and students are also actively engaged in research through various local and international presentations and publications. CICS also serves the community by providing relevant extension projects and activities.  \n For the years to come, CICS still commits to giving what their stakeholders deserve through quality education and public service with their mantra, `WORK IN SILENCE AND LET OUR SUCCESS MAKE OUR NOISE!`",
+          "history": "The College of Information and Computing Sciences is one of the premier colleges in the province for IT Education and services. It aims to produce competitive IT professionals and IT-enabled individuals who will encourage real innovation for the advancement in the digital era of the province and the country as a whole. \n
+           The college was established in 1998 at MSC Boac Campus through BOT Resolution No. 35, s. 1998 as Institute of Information and Computing Sciences (IICS), a special program to offer Associate in Computer Technology (ACT). Believing that the province needs IT Human Resources, after two years, IICS was adopted as the School of Information and Computing Sciences (SICS), offering two emerging degree programs Bachelor of Science in Information Management and Bachelor of Science in Information Technology to cater to the graduates of ACT. Bachelor of Science in Information Management was also offered in Sta. Cruz Campus. The Bachelor of Science in Information Management (BSIM) was renamed to the Bachelor of Science in Information Systems (BSIS) to adapt to CHED Memorandum Order No. 53 series of 2006.  \n 
+          After a decade, the Marinduque State College had an organizational restructuring wherein two of the big schools in the college were merged. The School of Industrial Technology and the School of Information and Computing Sciences convergence paved the way for the School of Technology's birth in 2016. After three years of being together, the two schools parted ways due to another organizational restructuring and SICS was re-birth in 2019.  \n 
+          In 2021, however, SICS was converted to the Institute of Information Systems and Technology (IIST) and became part of the College of Engineering, Information and Industrial Technology (CEIIT) together with the Institute of Engineering and Department of Industrial Technology to centralize the resources of these three into a single college. But once again, fate has plans for this institute and let it navigate its ship on its own. Finally, the former school was converted into a college, banning the name of the College of Information and Computing Sciences (CICS).  \n
+           In 25 years of its existence, CICS has contributed significantly to MSC's mandates in Instruction, Research, Extension, and Production. Currently, both the BS in Information Systems and BS in Information Technology in Boac Campus are Level III Re-Accredited by the Accrediting Agency of Chartered Colleges and Universities in the Philippines (AACCUP), while the BS in Information Systems in Sta. Cruz Campus is Level II Re-Accredited. CICS has produced thousands of IT professionals serving in the province, other parts of the country, and even the global industry. Faculty and students are also actively engaged in research through various local and international presentations and publications. CICS also serves the community by providing relevant extension projects and activities.  \n 
+           For the years to come, CICS still commits to giving what their stakeholders deserve through quality education and public service with their mantra, `WORK IN SILENCE AND LET OUR SUCCESS MAKE OUR NOISE!`",
           "goals": "The teacher education degree programs aim to develop highly motivated and competent teachers specializing in the content and pedagogy for elementary education, secondary education, culture and arts education, technology and livelihood education, and other fields of specialization.",
           "objectives": "Develop elementary and secondary teachers who are personally and professionally equipped with 21st century skills which include critical thinking, creativity & innovation, collaboration, cross-cultural understanding, communication, computing technology, and career learning. Produce graduates who demonstrate desired values and morals in the practice of their profession. Develop mastery of subject matter and practice pedagogies in their fields of specialization. Integrate and promote awareness of the mandated government policies in relevant courses Inculcate the value of professional growth and lifelong learning.",
           "awards": [
@@ -36,6 +41,7 @@
         {
           "id": 1,
           "programName": "Bachelor of Science in Information Systems",
+          "programDescription":"",
           "curriculum": [
             {
               "id": 1,
@@ -115,7 +121,12 @@
           ]
         },
         {
-          "programOutcome": [],
+          "programOutcome": [
+            {
+              "id": 1,
+              "outcome": "Demonstrate broad and coherent knowledge and understanding in the core areas of information systems, including systems analysis and design, database management, networking, and information security.\nApply critical thinking and problem-solving skills to analyze complex information systems problems and develop effective solutions.\nDesign, implement, and manage information systems that meet organizational needs while adhering to ethical standards and legal requirements.\nCommunicate effectively with diverse audiences, both orally and in writing, to convey technical information related to information systems.\nWork collaboratively in teams to achieve common goals in the development and implementation of information systems projects.\nDemonstrate a commitment to lifelong learning by staying current with emerging technologies and trends in the field of information systems."
+            }
+          ],
           "studyPlan": [],
           "careerOpportunity": [
             {
@@ -281,6 +292,7 @@
         {
           "id": 1,
           "programName": "",
+          "programDescription":"",
           "curriculum": [
             {
               "id": 1,
@@ -306,7 +318,8 @@
         {
           "programOutcome": [
             {
-              /*ano to*/
+              "id": 1,
+              "outcomes":""
             }
           ],
           "studyPlan": [
@@ -464,9 +477,15 @@
       "collegeName": "College of Industrial Technology",
       "collegeProfile": [
         {
-          "tagline": "",
-          "history": "",
-          "goals": "",
+          "tagline": "ARTISAN AKO, MAHUSAY AKO",
+          "history": "When Marinduque State College was established in 1952 as Marinduque School of Arts and Trades by virtue of Republic Act 805, the School had been operating the two-year Technical Curricula. During that year, Industrial Technology was a separate section which was headed by  Mr. Respicio A. Javier. The following courses were offered at the time: Technical Automotive Mechanics, Technical Building Construction, Technical Drafting, Technical Electricity, Technical Cosmetology, Garments Trades and Technical Food Trades.
+                      In Academic Year 1975 – 1976 the Department of Education Culture and Sports (DECS) Order No. 28 s. 1975 authorized the school to offer the four-year Bachelor of Science in Industrial Technology Curriculum (BSIT).
+                      During the term of College President Dr. Rodrigo G. Monterey Sr., a new organizational structure was created that paved the way for the merging of the two largest sections of the College: Engineering and Technology to become the School of Engineering and Technology (SET).
+                      By AY 2005 – 2006, during the term of College President Dr. Romulo H. Malvar, Technology was separated from Engineering and became a separate School, the School of Industrial Technology (SIT) that offered a two-year craftsmanship curriculum, a three year Technician program and a four-year Bachelors’ degree.
+                      During the term of College President Dr. Merian P.  Catajay-Mani, a new organizational structure was created with the School of Industrial Technology merging with the School of Information and Computing Sciences and became known as the School of Technology (STech), but by 2020, the Industrial Technology program was again separated to become what it is today, the School of Industrial Technology.
+                      Graduates of the Bachelor of Science in Industrial Technology are expected to become highly-skilled and ethically and socially responsible industrial technologists.
+                      ",
+          "goals": "Produce highly skilled industrial technologist; trained in their respective disciplines, socially responsible for the innovative state of the art technology and be globally competitive",
           "awards": [
             {
               "id": 1,
@@ -481,6 +500,7 @@
         {
           "id": 1,
           "programName": "",
+          "programDescription":"",
           "curriculum": [
             {
               "id": 1,
@@ -506,7 +526,8 @@
         {
           "programOutcome": [
             {
-              /*ano to*/
+              "id": 1,
+              "outcome": ""
             }
           ],
           "studyPlan": [
@@ -652,8 +673,13 @@
       "collegeName": "College of Environmental Studies",
       "collegeProfile": [
         {
-          "tagline": "",
-          "history": "",
+          "tagline": "Soar High Enbaysay",
+          "history": "The Bachelor of Science in Environmental Science (BSES) program was granted to Marinduque State University (MarSU), then Marinduque State College (MSC), in AY 2013–2014 per CHED IV-B Order No. 0012, s. 2013. Initially offered at the School of Fisheries (Gasan Campus), the program was transferred to the School of Arts and Sciences (Boac Campus) in 2015 with 32 enrollees. The program was first headed by Assoc. Prof. Emma Cabildo. The pioneering class graduated under the School of Agriculture, Fisheries, and Natural Sciences (SAFNS) in 2019.
+                      BOT Resolution No. 25, s. 2013, confirmed the offering of new programs at MSC, including the BSES, which took effect in AY 2013–2014. \n
+                       The program was evaluated by CHED’s Regional Quality Assessment Team (RQAT) and was granted a Certificate of Program Compliance, effective AY 2019-2020. Due to the growing relevance of the field, the School of Environmental Sciences was created as per BOT Res. No. 12, s. 2020. Former MSC President Dr. Merian P. Catajay-Mani (2015-2020) designated Dr. Evangeline B. Mandia as the first Dean of the School of Environmental Sciences, beginning on May 18, 2020, per BOT Res No. 15 s. 2020. \n
+                      On September 1, 2021, the School of Environmental Sciences was renamed the Department of Environmental Sciences under the newly formed College of Natural and Allied Health Sciences (CNAHS). MSC President Prof. Dr. Diosdado P. Zulueta designated Inst. Christian Russel M. Rabi as the Department Head on September 1, 2021, per MSC Office of the President Memorandum No. 536 s. 2021.
+                      Recently, Dr. Evangeline B. Mandia was designated as the Dean of the newly-named College of Environmental Studies, as approved by MSC BOT Res. 33, S. 2023, which took effect on February 7, 2023, SY 2023-2024. Inst. Ronnel C. Nolos was designated as the new program head starting January 2024. Currently, the research-driven school has seven core faculty members and more than 200 students.
+                      ",
           "goals": "",
           "awards": [
             {
@@ -668,7 +694,12 @@
       "programOffer": [
         {
           "id": 1,
-          "programName": "",
+          "programName": "BACHELOR OF SCIENCE IN ENVIRONMENTAL SCIENCE",
+          "programDescription": "The Bachelor of Science in Environmental Science is based on the major disciplines
+          of science, such as biology, chemistry, physics, earth and marine sciences, and
+          mathematics. In addition, the BS ES program includes training in the social science in
+          order that its graduates will be equipped to understand the important roles of ethics,
+          society, and culture in the environment (CMO No. 35 s. 2005)."
           "curriculum": [
             {
               "id": 1,
@@ -694,7 +725,32 @@
         {
           "programOutcome": [
             {
-              /*ano to*/
+              "id": 1,
+              "outcome": "Demonstrate broad and coherent knowledge and understanding in the core areas of
+                          physical and natural sciences.
+                          Apply critical and problem-solving skills using the scientific method.
+                          Interpret relevant scientific data and make judgements that include reflection on
+                          relevant scientific and ethical issues.
+                          Carry out basic mathematical and statistical computations and use appropriate
+                          technologies in (a) the analysis of data; and (b) in pattern recognition, generalization,
+                          abstraction, critical analysis, and problem solving.
+                          Communicate information, ideas problems and solutions, both, orally and in writing to
+                          other scientists, decision makers and the public.
+                          Relate science and mathematics to the other disciplines.
+                          Design and perform safe and responsible techniques and procedures in laboratory or
+                          field practices.
+                          Critically evaluate input from others.
+                          Appreciate the limitations and implications of science in everyday life.
+                          Commit to the integrity of data.
+                          Demonstrate broad and coherent knowledge and understanding in the core areas of
+                          environmental science.
+                          Disseminate effectively knowledge pertaining to sound environmental protection,
+                          conservation, utilization, and management.
+                          Demonstrate the ability to contribute to the protection and management of the
+                          environment; and
+                          Analyze local environmental issues and problems in the regional and global context.
+                          Apply appropriate knowledge and innovation related to the environment."
+                                                    
             }
           ],
           "studyPlan": [
@@ -840,9 +896,13 @@
       "collegeName": "College of Business Administration",
       "collegeProfile": [
         {
-          "tagline": "",
-          "history": "",
-          "goals": "",
+          "tagline": "PUSO AT KATAPATAN, PARA SA KATARUNGAN AT BAYAN",
+          "history": "Back when this college was still the Institute of Criminal Justice Education, in assuring our clients and stakeholders of the standard of education offered by BS LEAd program, it was subjected to accreditation visits and is now Level II Re-Accredited Program by AACCUP, Inc. However, consistent findings of accreditation visits showed the non-issuance of Certificate of Program Compliance (COPC) of BS LEAd program due to non-availability of applicable CMO on policies, standards and guidelines for BS Law Enforcement Administration program. 
+          Hence, with the absence of these guidelines and the implementation of the Philippine Qualification Framework (PQF), the institution's offering of BS LEAd would place the program outside the PQF's coverage, potentially disadvantaging our graduates in terms of local and international recognition. \n
+          Further, on 18 October 2021, CHED MIMAROPA Director, Atty. Joselito C. Alisuag, Ph.D., CESE, communicated his recommendation of gradually phasing out the program and to transition to one with PSG such as the BS CRIM (CMO. #5 s. of 2018) or BS ISM (CMO. #6 s. of 2018). With those concerns, on 06 February 2023, the MSC Board of Trustees, through MSC BOT Resolution No. 23, s. 2023, has approved the gradual phase-out of BS LEAd effective AY 2023-2024. \n
+          Thus, the College of Criminal Justice Education was established at the beginning of Academic Year 2024–2025. It was created by virtue of MSC-BOT Resolution No. 122, series of 2023, which highlights the operationalization of the CCJE as a separate academic unit from the College of Governance. This was also in response to the recommendation and results of the CHED RQAT Visit – Report on the Result of Preliminary Assessment (RRPA) No. 006, series of 2023, which coincided with the opening of a new program, the Bachelor of Science in Criminology. This move aims to comply with the requirements of CHED Memorandum Order No. 5, series of 2018 – Policies, Standards, and Guidelines for the Bachelor of Science in Criminology (BS Criminology) Program.
+          ",
+          "goals": "To equip students a well-rounded education that covers practical skills, criminological theories, criminal justice system, law enforcement procedures and legal framework that will prepare them with honor and pride for careers in the delivery of public service",
           "awards": [
             {
               "id": 1,
