@@ -1,848 +1,167 @@
 {
+  "version": "1.0.0",
+  "lastUpdated": "2025-06-10T00:00:00Z",
   "colleges": [
-    /*college of information and computing sciences*/
     {
       "id": 1,
-      "collegeName": "College of Information and Computing Sciences",
-      "collegeProfile": [
-        {
-          "tagline":    "Building the nation, Molding the future",
-           "history":   "The College of Information and Computing Sciences is one of the premier colleges in the province for IT
-                        Education and services. It aims to produce competitive IT professionals and IT-enabled individuals who
-                        will encourage real innovation for the advancement in the digital era of the province and the country as a
-                        whole. \n 
-                        The college was established in 1998 at MSC Boac Campus through BOT Resolution No. 35, s. 1998 as
-                        Institute of Information and Computing Sciences (IICS), a special program to offer Associate in Computer
-                        Technology (ACT). Believing that the province needs IT Human Resources, after two years, IICS was
-                        adopted as the School of Information and Computing Sciences (SICS), offering two emerging degree
-                        programs Bachelor of Science in Information Management and Bachelor of Science in Information
-                        Technology to cater to the graduates of ACT. Bachelor of Science in Information Management was also
-                        offered in Sta. Cruz Campus. The Bachelor of Science in Information Management (BSIM) was renamed to
-                        the Bachelor of Science in Information Systems (BSIS) to adapt to CHED Memorandum Order No. 53 series
-                        of 2006.  \n 
-                        After a decade, the Marinduque State College had an organizational restructuring wherein two of the big
-                        schools in the college were merged. The School of Industrial Technology and the School of Information
-                        and Computing Sciences convergence paved the way for the School of Technology's birth in 2016. After
-                        three years of being together, the two schools parted ways due to another organizational restructuring
-                        and SICS was re-birth in 2019.  \n 
-                        In 2021, however, SICS was converted to the Institute of Information Systems and Technology (IIST) and
-                        became part of the College of Engineering, Information and Industrial Technology (CEIIT) together with
-                        the Institute of Engineering and Department of Industrial Technology to centralize the resources of these
-                        three into a single college. But once again, fate has plans for this institute and let it navigate its ship on its
-                        own. Finally, the former school was converted into a college, banning the name of the College of
-                        Information and Computing Sciences (CICS).  \n 
-                        In 25 years of its existence, CICS has contributed significantly to MSC's mandates in Instruction, Research,
-                        Extension, and Production. Currently, both the BS in Information Systems and BS in Information
-                        Technology in Boac Campus are Level III Re-Accredited by the Accrediting Agency of Chartered Colleges
-                        and Universities in the Philippines (AACCUP), while the BS in Information Systems in Sta. Cruz Campus is
-                        Level II Re-Accredited. CICS has produced thousands of IT professionals serving in the province, other parts
-                        of the country, and even the global industry. Faculty and students are also actively engaged in research
-                        through various local and international presentations and publications. CICS also serves the community
-                        by providing relevant extension projects and activities.  \n 
-                        For the years to come, CICS still commits to giving what their stakeholders deserve through quality
-                        education and public service with their mantra, `WORK IN SILENCE AND LET OUR SUCCESS MAKE OUR
-                        NOISE!`
-                        ",
-          "goals": "The teacher education degree programs aim to develop highly
-                    motivated and competent teachers specializing in the content and
-                    pedagogy for elementary education, secondary education, culture and
-                    arts education, technology and livelihood education, and other fields of
-                    specialization.",
-          "objectives" : "Develop elementary and secondary teachers who are personally and
-                          professionally equipped with 21st century skills which include critical
-                          thinking, creativity & innovation, collaboration, cross-cultural
-                          understanding, communication, computing technology, and career
-                          learning.
-                          Produce graduates who demonstrate desired values and morals in the
-                          practice of their profession.
-                          
-                          Develop mastery of subject matter and practice pedagogies in their
-                          fields of specialization.
-                          Integrate and promote awareness of the mandated government policies
-                          in relevant courses
-                          
-                          Inculcate the value of professional growth and lifelong learning."
-          "awards": [
-            {
-                "id": 1,
-                "title": "BEST PERFORMING COLLEGE IN THE LICENSURE EXAMINATION",
-                "year": 2024,
-                "description": ""
-            },
-            {
-                "id": 2,
-                "title": "BEST PERFORMING DEAN",
-                "year": 2024,
-                "description": ""
-            },
-            {
-                "id": 3,
-                "title": "BEST PERFORMING COLLEGE",
-                "year": 2024,
-                "description": ""
+      "name": { "en": "College of Information and Computing Sciences" },
+      "profile": {
+        "tagline": { "en": "Creating innovation, Cultivating success" },
+        "history": {
+          "en": "The College of Information and Computing Sciences is one of the premier colleges in the province for IT Education and services. It aims to produce competitive IT professionals and IT-enabled individuals who will encourage real innovation for the advancement in the digital era of the province and the country as a whole.\nThe college was established in 1998 at MSC Boac Campus through BOT Resolution No. 35, s. 1998 as Institute of Information and Computing Sciences (IICS), a special program to offer Associate in Computer Technology (ACT). Believing that the province needs IT Human Resources, after two years, IICS was adopted as the School of Information and Computing Sciences (SICS), offering two emerging degree programs Bachelor of Science in Information Management and Bachelor of Science in Information Technology to cater to the graduates of ACT. Bachelor of Science in Information Management was also offered in Sta. Cruz Campus. The Bachelor of Science in Information Management (BSIM) was renamed to the Bachelor of Science in Information Systems (BSIS) to adapt to CHED Memorandum Order No. 53 series of 2006.\nAfter a decade, the Marinduque State College had an organizational restructuring wherein two of the big schools in the college were merged. The School of Industrial Technology and the School of Information and Computing Sciences convergence paved the way for the School of Technology's birth in 2016. After three years of being together, the two schools parted ways due to another organizational restructuring and SICS was re-birth in 2019.\nIn 2021, however, SICS was converted to the Institute of Information Systems and Technology (IIST) and became part of the College of Engineering, Information and Industrial Technology (CEIIT) together with the Institute of Engineering and Department of Industrial Technology to centralize the resources of these three into a single college. But once again, fate has plans for this institute and let it navigate its ship on its own. Finally, the former school was converted into a college, banning the name of the College of Information and Computing Sciences (CICS).\nIn 25 years of its existence, CICS has contributed significantly to MSC's mandates in Instruction, Research, Extension, and Production. Currently, both the BS in Information Systems and BS in Information Technology in Boac Campus are Level III Re-Accredited by the Accrediting Agency of Chartered Colleges and Universities in the Philippines (AACCUP), while the BS in Information Systems in Sta. Cruz Campus is Level II Re-Accredited. CICS has produced thousands of IT professionals serving in the province, other parts of the country, and even the global industry. Faculty and students are also actively engaged in research through various local and international presentations and publications. CICS also serves the community by providing relevant extension projects and activities.\nFor the years to come, CICS still commits to giving what their stakeholders deserve through quality education and public service with their mantra, 'WORK IN SILENCE AND LET OUR SUCCESS MAKE OUR NOISE!'"
+        },
+        "goals": {
+          "en": "To produce competitive IT professionals and IT enabled individuals who will encourage real innovation for the advancement in the digital era of the province and the country as a whole."
+        },
+        "awards": [
+          {
+            "id": 1,
+            "title": { "en": "Best IT College in the Philippines" },
+            "year": 2023,
+            "description": {
+              "en": "Awarded by the Philippine IT Association for excellence in IT education."
             }
-          ]
-        }
-      ],
-      "programOffer": [
+          }
+        ]
+      },
+      "programIds": [1]
+    }
+  ],
+  "programs": [
+    {
+      "id": 1,
+      "collegeId": 1,
+      "name": { "en": "Bachelor of Science in Information Technology" },
+      "curriculum": [
         {
           "id": 1,
-          "programName": "Bachelor of Science in Information Systems",
-          "curriculum": [
+          "year": "1st Year",
+          "semesters": [
             {
               "id": 1,
-              "Year": "1st Year",
-              "Semester": [
+              "name": "1st Semester",
+              "courses": [
                 {
-                    "id": 1,
-                    "SemesterName": "1st Semester",
-                    "CourseSubject": [
-                        {
-                            "id": 1,
-                            "courseName": "introduction to computing",
-                            "courseCode": "CC101",
-                            "units": 3,
-                            "prerequisite": "None"
-                        },
-                        {
-                            "id": 2,
-                            "courseName": "mathematics in the modern world",
-                            "courseCode": "ISP101",
-                            "units": 3,
-                            "prerequisite": "None"
-                        },
-                        {
-                          "id": 3,
-                            "courseName": "Science, Technology and Society",
-                            "courseCode": "GE-STS",
-                            "units": 3,
-                            "prerequisite": "None"
-                        },
-                        {
-                            "id": 4,
-                            "courseName": "Purposive Communication",
-                            "courseCode": "GE-PurCom",
-                            "units": 3,
-                            "prerequisite": "None"
-                        },
-                           {
-                            "id": 5,
-                            "courseName": "Arts Appreciation",
-                            "courseCode": "GE-ArtApp",
-                            "units": 3,
-                            "prerequisite": "None"
-                        },
-                        {
-                            "id": 6,
-                            "courseName": "Understanding the self",
-                            "courseCode": "GE-UTS",
-                            "units": 3,
-                            "prerequisite": "None"
-                        },
-                        {
-                            "id": 7,
-                            "courseName": "Logic and critical Thinking",
-                            "courseCode": "GEE101",
-                            "units": 3,
-                            "prerequisite": "None"
-                        },
-                        {
-                            "id": 8,
-                            "courseName": "Movement Competency Training",
-                            "courseCode": "PATHFIT",
-                            "units": 2,
-                            "prerequisite": "None"
-                        },
-                        {
-                            "id": 9,
-                            "courseName": "National Service Training Program 1",
-                            "courseCode": "NSTP1",
-                            "units": 3,
-                            "prerequisite": "None"
-                        }
-                    ]
+                  "id": 1,
+                  "name": { "en": "Introduction to Computing" },
+                  "code": "CC101",
+                  "units": 3,
+                  "prerequisite": null
                 }
               ]
-            },
-            {
-              "id": 2,
-              "Year": "1st Year",
-              "Semester": [
-                {
-                    "id": 2,
-                    "SemesterName": "2nd Semester",
-                    "CourseSubject": [
-                        {
-                            "id": 1,
-                            "courseName": "Computer Programming 1",
-                            "courseCode": "CC102",
-                            "units": 3,
-                            "prerequisite": "CC101"
-                        },
-                        {
-                          "id": 2,
-                            "courseName": "Fundamentals of Information System",
-                            "courseCode": "ISP101",
-                            "units": 3,
-                            "prerequisite": "CC101"
-                        },
-                             {
-                          "id": 3,
-                            "courseName": "Organization and Management Concepts",
-                            "courseCode": "ISP103",
-                            "units": 3,
-                            "prerequisite": "None"
-                        },
-                        {
-                          "id": 4,
-                            "courseName": "Business Process Management",
-                            "courseCode": "ISP102",
-                            "units": 3,
-                            "prerequisite": "None"
-                        },
-                           {
-                          "id": 5,
-                            "courseName": "Living In IT Era",
-                            "courseCode": "GEE102",
-                            "units": 3,
-                            "prerequisite": "None"
-                        },
-                        {
-                            "id": 6,
-                            "courseName": "Modern Communication and Technical Writing",
-                            "courseCode": "GEE103",
-                            "units": 3,
-                            "prerequisite": "None"
-                        },
-                        {
-                            "id": 7,
-                            "courseName": "Ethics",
-                            "courseCode": "GE-Ethics",
-                            "units": 3,
-                            "prerequisite": "None"
-                        },
-                        {
-                            "id": 8,
-                            "courseName": "Exercise-base Fitness Activities",
-                            "courseCode": "PATHFIT2",
-                            "units": 3,
-                            "prerequisite": "PATHFIT1"
-                        },
-                        {
-                          "id": 9,
-                            "courseName": "National Service Training Program 2",
-                            "courseCode": "NSTP",
-                            "units": 2,
-                            "prerequisite": "NSTP1"
-                        }
-                    ]
-                }
-              ]
-            },
-            {
-              "id": 3,
-              "Year": "2nd Year",
-              "Semester": [
-                {
-                    "id": 3,
-                    "SemesterName": "1st Semester",
-                    "CourseSubject": [
-                        {
-                            "id": 1,
-                            "courseName": "Computer Programming 2",
-                            "courseCode": "CC201",
-                            "units": 3,
-                            "prerequisite": "CC102"
-                        },
-                        {
-                          "id": 2,
-                            "courseName": "Information Management",
-                            "courseCode": "CC202",
-                            "units": 3,
-                            "prerequisite": "CC101"
-                        },
-                        {
-                          "id": 3,
-                            "courseName": "SyProfessional Issues in Information Systemn",
-                            "courseCode": "ISP201",
-                            "units": 3,
-                            "prerequisite": "GE-Ethics"
-                        },
-                        {
-                          "id": 4,
-                            "courseName": "Information technology Infrastructure and Network Technology",
-                            "courseCode": "ISP203",
-                            "units": 3,
-                            "prerequisite": "cc101"
-                        },
-                           {
-                          "id": 5,
-                            "courseName": "Elective 1: Presentation Skills Using Information Technology",
-                            "courseCode": "ISE201",
-                            "units": 3,
-                            "prerequisite": "gEE103"
-                           },
-                                {
-                          "id": 6,
-                            "courseName": "Reading in Philippine History",
-                            "courseCode": "GE-RPH",
-                            "units": 3,
-                            "prerequisite": "None"
-                           },
-                                     {
-                          "id": 6,
-                            "courseName": "Sports",
-                            "courseCode": "PATHFIT3",
-                            "units": 3,
-                            "prerequisite": "PATHFIT2"
-                           }
-                    ]
-                },
-                {
-                    "id": 4,
-                    "SemesterName": "2nd Semester",
-                    "CourseSubject": [
-                        {
-                            "id": 1,
-                            "courseName": "Data Structure and Algorithms",
-                            "courseCode": "CC203",
-                            "units": 3,
-                            "prerequisite": "CC201"
-                        },
-                        {
-                          "id": 2,
-                            "courseName": "Systems Analysis and Design",
-                            "courseCode": "ISP204",
-                            "units": 3,
-                            "prerequisite": "All Courses passed prior in all previous semesters"
-                        },
-                        {
-                          "id": 3,
-                            "courseName": "Quantitative Methods",
-                            "courseCode": "ISP205",
-                            "units": 3,
-                            "prerequisite": "GE-MMW"
-                        },
-                           {
-                          "id": 4,
-                            "courseName": "Introduction to Human-Computer Interaction",
-                            "courseCode": "ISP206",
-                            "units": 3,
-                            "prerequisite": "CC101"
-                           },
-                                {
-                          "id": 5,
-                            "courseName": "Evaluation of Business Performance",
-                            "courseCode": "ISP207",
-                            "units": 3,
-                            "prerequisite": "ISP102, ISP103, CC202"
-                           },
-                                     {
-                          "id": 6,
-                            "courseName": "The Contemporary World",
-                            "courseCode": "GE202",
-                            "units": 3,
-                            "prerequisite": "None"
-                           },
-                           {
-                          "id": 7,
-                            "courseName": "Life and Works of Rizal",
-                            "courseCode": "GEM-Rizal",
-                            "units": 3,
-                            "prerequisite": "None"
-                           },
-                           {
-                          "id": 8,
-                            "courseName": "Sports",
-                            "courseCode": "PATHFIT4",
-                            "units": 3,
-                            "prerequisite": "PATHFIT3"
-                           }
-                    ]
-                }
-              ]       
-            },
-            {
-              "id": 4,
-              "Year": "3rd Year",
-              "Semester": [
-                {
-                    "id": 5,
-                    "SemesterName": "1st Semester",
-                    "CourseSubject": [
-                        {
-                            "id": 1,
-                            "courseName": "Application Development and Emerging Technologies",
-                            "courseCode": "CC301",
-                            "units": 3,
-                            "prerequisite": "CC201, Com prog 2"
-                        },
-                        {
-                          "id": 2,
-                            "courseName": "Financial Management",
-                            "courseCode": "ISP301",
-                            "units": 3,
-                            "prerequisite": "None"
-                        },
-                        {
-                          "id": 3,
-                            "courseName": "Information System Project Management 1",
-                            "courseCode": "ISP302",
-                            "units": 3,
-                            "prerequisite": "All Courses passed prior in all previous semester"
-                        },
-                           {
-                          "id": 4,
-                            "courseName": "Methods of Research in Information System",
-                            "courseCode": "ISP304",
-                            "units": 3,
-                            "prerequisite": "All Courses passed prior in all previous semester"
-                           },
-                                {
-                          "id": 5,
-                            "courseName": "Elective 2: Web System and Technologys",
-                            "courseCode": "ISE301",
-                            "units": 3,
-                            "prerequisite": "CC201"
-                           },
-                                   {
-                          "id": 6,
-                            "courseName": "Elective 3: Advance Database System",
-                            "courseCode": "ISE302",
-                            "units": 3,
-                            "prerequisite": "CC202"
-                           }                       
-                    ]
-                },
-                {
-                    "id": 6,
-                    "SemesterName": "2nd Semester",
-                    "CourseSubject": [
-                        {
-                            "id": 1,
-                            "courseName": "Capstone Project 1 – Proposal Writing and Presentation",
-                            "courseCode": "ISCAP301",
-                            "units": 3,
-                            "prerequisite": "All Courses passed prior in all previous semester"
-                        },
-                        {
-                          "id": 2,
-                            "courseName": "Information System Project Management 2",
-                            "courseCode": "ISP305",
-                            "units": 3,
-                            "prerequisite": "ISP303"
-                        },
-                        {
-                          "id": 3,
-                            "courseName": "Enterprise Resource Plan",
-                            "courseCode": "ISP306",
-                            "units": 3,
-                            "prerequisite": "ISP302, ISP104"
-                        },
-                           {
-                          "id": 4,
-                            "courseName": "Data Mining",
-                            "courseCode": "ISP307",
-                            "units": 3,
-                            "prerequisite": "ISP302"
-                           },
-                                {
-                          "id": 5,
-                            "courseName": "Elective 4: Seminar in Special Information System Topict",
-                            "courseCode": "ISE303",
-                            "units": 3,
-                            "prerequisite": "ISP101"
-                           }                
-                    ]
-                }
-              ]
-            },
-            {
-              "id": 5,
-              "Year": "4th Year",
-              "Semester": [
-                {
-                    "id": 7,
-                    "SemesterName": "1st Semester",
-                    "CourseSubject": [
-                        {
-                            "id": 1,
-                            "courseName": "Capstone Project 2 – Development and Implementation",
-                            "courseCode": "iSCAP401",
-                            "units": 3,
-                            "prerequisite": "ISCAP301"
-                        },
-                        {
-                          "id": 2,
-                            "courseName": "Capstone Project 2- Development and Implementation",
-                            "courseCode": "ISP401",
-                            "units": 3,
-                            "prerequisite": "All Courses passed prior in all previous semester"
-                        },
-                        {
-                          "id": 3,
-                            "courseName": "Information Audit and Control",
-                            "courseCode": "ISP402",
-                            "units": 3,
-                            "prerequisite": "All Courses passed prior in all previous semester"
-                        },
-                           {
-                          "id": 4,
-                            "courseName": "Information System Elective 5: Information System in the Public Sector",
-                            "courseCode": "ISE401",
-                            "units": 3,
-                            "prerequisite": ""
-                           }                
-                    ]
-                },
-                {
-                    "id": 8,
-                    "SemesterName": "2nd Semester",
-                    "CourseSubject": [
-                        {
-                            "id": 1,
-                            "courseName": "On the Job Training – 486 Hours",
-                            "courseCode": "ISOJT",
-                            "units": "6",
-                            "prerequisite": "All Courses passed prior in all previous semester"
-                        }
-                    ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "programOutcome": [
-            {
-              /*ano to*/
-            }
-          ],
-          "studyPlan": [
-            {
-              /*ano to*/
-            }
-          ],
-          "careerOpportunity": [
-            {
-              "id": 1,
-              "career": "",
-              "description": "",
-              "salaryRange": ""
             }
           ]
         }
       ],
-      "workForce": [
-        {
-          "faculty": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": "",
-              "attainment": "",
-              "publication": ""
-            }
-          ]
-        },
-        {
-          "staff": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": ""
-            }
-          ]
-        }
-      ],
-      "research": [
-        {
-          "research": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completionYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ],
-          "extension": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completioYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ]
-        }
-      ],
-      "studentAchievement": [
+      "outcomes": [],
+      "studyPlans": [],
+      "careerOpportunities": [
         {
           "id": 1,
-          "type": "",
-          "description": ""
-        }
-      ],
-      "studentProfile": [
-        {
-          "id": 1,
-          "programName": "",
-          "rate": "",
-          "image": ""
-        }
-      ],
-      "studentPublication": [
-        {
-          "studentOrg": [
-            {
-              "id": 1,
-              "name": "",
-              "designation": "",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "accomplishements": [
-            {
-              "id": 1,
-              "title": "",
-              "description": "",
-              "image": ""
-            }
-          ]
-        }
-      ],
-      "alumni": [
-        {
-          "tracer": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "career": ""
-            }
-          ]
-        },
-        {
-          "testimonials": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "story": ""
-            }
-          ]
+          "career": { "en": "" },
+          "description": { "en": "" },
+          "salaryRange": ""
         }
       ]
-    },
-
-    /*college of education*/
-     {
-      "id": 2,
-      "collegeName": "College of Education",
-      "collegeProfile": [
-        {
-          "tagline": "",
-           "history":   "The College of Education at Marinduque State University has a rich history, with the university
-                        beginning as the Marinduque School of Arts and Trades (MSAT) in 1952, offering vocational and
-                        technical programs. It evolved significantly over the years, introducing the Bachelor of Science in
-                        Industrial Education (BSIE) in 1976 under the Professional Industrial Education Department (PIED),
-                        which laid the foundation for the School of Education. Through legislative actions, the institution
-                        transformed into the Marinduque Institute of Science and Technology (MSIT) in 1983 and later
-                        Marinduque State College (MSC) in 1992, expanding its programs. /n
-                        The BSIE curriculum was enhanced into the Bachelor of Secondary Education (BSEd) with
-                        specializations in Industrial Arts, Mathematics, Social Studies, and Science, further solidifying the
-                        institution's role in producing competent educators. In 1992, the integration of Marinduque Community
-                        College (MCC) in Sta. Cruz into MSC expanded the School of Education’s reach, incorporating the
-                        Bachelor of Elementary Education (BEEd). /n
-                        The college continued to refine its offerings, introducing Music, Arts, Physical Education, and Health
-                        (MAPHE) in 2006-2007 and launching the Bachelor of Secondary Education major in Music
-                        Education in 2009. With evolving educational reforms, the College of Education aligned its curriculum
-                        with CHED guidelines, offering BSEd programs with specialization in Mathematics, Science, and
-                        Social Studies; Bachelor of Culture and Arts Education, and Bachelor of Technology and Livelihood
-                        Education by 2018-2019. /n
-                        The BEEd program remains housed in the Sta. Cruz branch, emphasizing the institution’s commitment
-                        to quality teacher education and academic excellence.
-                        ",
-          "goals": "Placeholder",
-          "awards": [
-            {
-                "id": 1,
-                "title": "",
-                "year": 2023,
-                "description": ""
-            }
-          ]
-        }
-      ],
-      "programOffer": [
-        {
-          "id": 1,
-          "programName": "",
-          "curriculum": [
-            {
-              "id": 1,
-              "Year": "1st Year",
-              "Semester": [
-                {
-                    "id": 1,
-                    "SemesterName": "1st Semester",
-                    "CourseSubject": [
-                        {
-                            "id": 1,
-                            "courseName": "",
-                            "courseCode": "",
-                            "units": 3,
-                            "prerequisite": "None"
-                        }
-                    ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "programOutcome": [
-            {
-              /*ano to*/
-            }
-          ],
-          "studyPlan": [
-            {
-              /*ano to*/
-            }
-          ],
-          "careerOpportunity": [
-            {
-              "id": 1,
-              "career": "",
-              "description": "",
-              "salaryRange": ""
-            }
-          ]
-        }
-      ],
-      "workForce": [
-        {
-          "faculty": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": "",
-              "attainment": "",
-              "publication": ""
-            }
-          ]
-        },
-        {
-          "staff": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": ""
-            }
-          ]
-        }
-      ],
-      "research": [
-        {
-          "research": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completionYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ],
-          "extension": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completioYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ]
-        }
-      ],
-      "studentAchievement": [
-        {
-          "id": 1,
-          "type": "",
-          "description": ""
-        }
-      ],
-      "studentProfile": [
-        {
-          "id": 1,
-          "programName": "",
-          "rate": "",
-          "image": ""
-        }
-      ],
-      "studentPublication": [
-        {
-          "studentOrg": [
-            {
-              "id": 1,
-              "name": "",
-              "designation": "",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "accomplishements": [
-            {
-              "id": 1,
-              "title": "",
-              "description": "",
-              "image": ""
-            }
-          ]
-        }
-      ],
-      "alumni": [
-        {
-          "tracer": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "career": ""
-            }
-          ]
-        },
-        {
-          "testimonials": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "story": ""
-            }
-          ]
-        }
-      ]
+    }
+  ],
+  "faculty": [
+    {
+      "id": 1,
+      "collegeId": 1,
+      "image": "",
+      "name": { "en": "" },
+      "designation": { "en": "" },
+      "email": "",
+      "attainment": { "en": "" },
+      "publications": []
+    }
+  ],
+  "staff": [
+    {
+      "id": 1,
+      "collegeId": 1,
+      "image": "",
+      "name": { "en": "" },
+      "designation": { "en": "" },
+      "email": ""
+    }
+  ],
+  "research": [
+    {
+      "id": 1,
+      "collegeId": 1,
+      "title": { "en": "" },
+      "publicationYear": "",
+      "completionYear": "",
+      "authors": [],
+      "indices": [],
+      "abstract": { "en": "" }
+    }
+  ],
+  "extensions": [
+    {
+      "id": 1,
+      "collegeId": 1,
+      "title": { "en": "" },
+      "publicationYear": "",
+      "completionYear": "",
+      "authors": [],
+      "indices": [],
+      "abstract": { "en": "" }
+    }
+  ],
+  "studentAchievements": [
+    {
+      "id": 1,
+      "collegeId": 1,
+      "type": { "en": "" },
+      "description": { "en": "" }
+    }
+  ],
+  "studentProfiles": [
+    {
+      "id": 1,
+      "collegeId": 1,
+      "programId": 1,
+      "rate": "",
+      "image": ""
+    }
+  ],
+  "studentOrganizations": [
+    {
+      "id": 1,
+      "collegeId": 1,
+      "name": { "en": "" },
+      "designation": { "en": "" },
+      "image": ""
+    }
+  ],
+  "studentAccomplishments": [
+    {
+      "id": 1,
+      "collegeId": 1,
+      "title": { "en": "" },
+      "description": { "en": "" },
+      "image": ""
+    }
+  ],
+  "alumni": [
+    {
+      "id": 1,
+      "collegeId": 1,
+      "image": "",
+      "name": { "en": "" },
+      "career": { "en": "" }
+    }
+  ],
+  "alumniTestimonials": [
+    {
+      "id": 1,
+      "alumniId": 1,
+      "image": "",
+      "name": { "en": "" },
+      "story": { "en": "" }
     }
   ]
 }
