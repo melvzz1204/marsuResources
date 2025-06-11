@@ -942,99 +942,10 @@
         {
           "tracer": [
             {
-              "graduates_summary": {
-                "total_graduates": 586,
-                "total_respondents": 534,
-                "response_rate": "90.8%",
-                "programs": {
-                  "BSIT": {
-                    "graduates": 431,
-                    "respondents": 429
-                  },
-                  "BSIS": {
-                    "graduates": 103,
-                    "respondents": 103
-                  }
-                }
-              },
-              "employment_rates": {
-                "overall": {
-                  "BSIT": "80.0%",
-                  "BSIS": "80.2%"
-                },
-                "by_graduation_year": {
-                  "2018-2019": {
-                    "BSIT": "90.4%",
-                    "BSIS": "84.4%"
-                  },
-                  "2019-2020": {
-                    "BSIT": "86.3%",
-                    "BSIS": "64.7%"
-                  },
-                  "2021-2022": {
-                    "BSIT": "82.1%",
-                    "BSIS": "82.8%"
-                  },
-                  "2022-2023": {
-                    "BSIT": "71.5%",
-                    "BSIS": "76.0%"
-                  }
-                }
-              },
-              "employment_characteristics": {
-                "job_status": {
-                  "BSIT": {
-                    "regular_permanent": "44%",
-                    "contractual": "35%",
-                    "temporary": "11%",
-                    "self_employed": "6%",
-                    "casual": "4%"
-                  },
-                  "BSIS": {
-                    "regular_permanent": "40%",
-                    "contractual": "37%",
-                    "temporary": "12%",
-                    "casual": "6%",
-                    "self_employed": "5%"
-                  }
-                },
-                "top_occupations": {
-                  "BSIT": [
-                    "Clerks (26%)",
-                    "Technicians and Associate Professionals (18.7%)",
-                    "Service, Shop, and Sales Workers (16.8%)"
-                  ],
-                  "BSIS": [
-                    "Professionals (20%)",
-                    "Service, Shop, and Sales Workers (20%)",
-                    "Clerks (18.7%)"
-                  ]
-                }
-              },
-              "curriculum_relevance": {
-                "BSIT": {
-                  "relevant": "81.0%",
-                  "not_relevant": "19.0%"
-                },
-                "BSIS": {
-                  "relevant": "75.7%",
-                  "not_relevant": "24.3%"
-                }
-              },
-              "industry_distribution": {
-                "top_industries": {
-                  "BSIT": [
-                    "Various IT Companies (24%)",
-                    "Community/Social/Personal Services (15.5%)",
-                    "Education (7.8%)"
-                  ],
-                  "BSIS": [
-                    "Various IT Companies (23.2%)",
-                    "Financial Services (14.3%)",
-                    "Community/Social/Personal Services (12.5%)"
-                  ]
-                }
-              }
+              "id": 1,
+              "image": "",
+              "name": "",
+              "career": ""
             }
           ]
         },
