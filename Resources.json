@@ -1,480 +1,479 @@
 {
   "colleges": [
     /*cics*/
+   {
+  "id": 1,
+  "collegeName": "College of Information and Computing Sciences",
+  "collegeProfile": [
     {
-      "id": 1,
-      "collegeName": "College of Information and Computing Sciences",
-      "collegeProfile": [
-        {
-          "tagline": "Creating Innovation Cultivating Success",
-          "history": "The College of Information and Computing Sciences is one of the premier colleges in the province for IT Education and services. It aims to produce competitive IT professionals and IT-enabled individuals who will encourage real innovation for the advancement in the digital era of the province and the country as a whole. \n
-           The college was established in 1998 at MSC Boac Campus through BOT Resolution No. 35, s. 1998 as Institute of Information and Computing Sciences (IICS), a special program to offer Associate in Computer Technology (ACT). Believing that the province needs IT Human Resources, after two years, IICS was adopted as the School of Information and Computing Sciences (SICS), offering two emerging degree programs Bachelor of Science in Information Management and Bachelor of Science in Information Technology to cater to the graduates of ACT. Bachelor of Science in Information Management was also offered in Sta. Cruz Campus. The Bachelor of Science in Information Management (BSIM) was renamed to the Bachelor of Science in Information Systems (BSIS) to adapt to CHED Memorandum Order No. 53 series of 2006.  \n 
-          After a decade, the Marinduque State College had an organizational restructuring wherein two of the big schools in the college were merged. The School of Industrial Technology and the School of Information and Computing Sciences convergence paved the way for the School of Technology's birth in 2016. After three years of being together, the two schools parted ways due to another organizational restructuring and SICS was re-birth in 2019.  \n 
-          In 2021, however, SICS was converted to the Institute of Information Systems and Technology (IIST) and became part of the College of Engineering, Information and Industrial Technology (CEIIT) together with the Institute of Engineering and Department of Industrial Technology to centralize the resources of these three into a single college. But once again, fate has plans for this institute and let it navigate its ship on its own. Finally, the former school was converted into a college, banning the name of the College of Information and Computing Sciences (CICS).  \n
-           In 25 years of its existence, CICS has contributed significantly to MSC's mandates in Instruction, Research, Extension, and Production. Currently, both the BS in Information Systems and BS in Information Technology in Boac Campus are Level III Re-Accredited by the Accrediting Agency of Chartered Colleges and Universities in the Philippines (AACCUP), while the BS in Information Systems in Sta. Cruz Campus is Level II Re-Accredited. CICS has produced thousands of IT professionals serving in the province, other parts of the country, and even the global industry. Faculty and students are also actively engaged in research through various local and international presentations and publications. CICS also serves the community by providing relevant extension projects and activities.  \n 
-           For the years to come, CICS still commits to giving what their stakeholders deserve through quality education and public service with their mantra, `WORK IN SILENCE AND LET OUR SUCCESS MAKE OUR NOISE!`",
-          "goals": "The teacher education degree programs aim to develop highly motivated and competent teachers specializing in the content and pedagogy for elementary education, secondary education, culture and arts education, technology and livelihood education, and other fields of specialization.",
-          "objectives": "Develop elementary and secondary teachers who are personally and professionally equipped with 21st century skills which include critical thinking, creativity & innovation, collaboration, cross-cultural understanding, communication, computing technology, and career learning. Produce graduates who demonstrate desired values and morals in the practice of their profession. Develop mastery of subject matter and practice pedagogies in their fields of specialization. Integrate and promote awareness of the mandated government policies in relevant courses Inculcate the value of professional growth and lifelong learning.",
-          "awards": [
-            {
-              "id": 1,
-              "title": "BEST PERFORMING COLLEGE IN THE LICENSURE EXAMINATION",
-              "year": 2024,
-              "description": ""
-            },
-            {
-              "id": 2,
-              "title": "BEST PERFORMING DEAN",
-              "year": 2024,
-              "description": ""
-            },
-            {
-              "id": 3,
-              "title": "BEST PERFORMING COLLEGE",
-              "year": 2024,
-              "description": ""
-            }
-          ]
-        }
-      ],
-      "programOffer": [
+      "tagline": "Creating Innovation Cultivating Success",
+      "history": "The College of Information and Computing Sciences is one of the premier colleges in the province for IT Education and services. It aims to produce competitive IT professionals and IT-enabled individuals who will encourage real innovation for the advancement in the digital era of the province and the country as a whole. The college was established in 1998 at MSC Boac Campus through BOT Resolution No. 35, s. 1998 as Institute of Information and Computing Sciences (IICS), a special program to offer Associate in Computer Technology (ACT). Believing that the province needs IT Human Resources, after two years, IICS was adopted as the School of Information and Computing Sciences (SICS), offering two emerging degree programs Bachelor of Science in Information Management and Bachelor of Science in Information Technology to cater to the graduates of ACT. Bachelor of Science in Information Management was also offered in Sta. Cruz Campus. The Bachelor of Science in Information Management (BSIM) was renamed to the Bachelor of Science in Information Systems (BSIS) to adapt to CHED Memorandum Order No. 53 series of 2006. After a decade, the Marinduque State College had an organizational restructuring wherein two of the big schools in the college were merged. The School of Industrial Technology and the School of Information and Computing Sciences convergence paved the way for the School of Technology's birth in 2016. After three years of being together, the two schools parted ways due to another organizational restructuring and SICS was re-birth in 2019. In 2021, however, SICS was converted to the Institute of Information Systems and Technology (IIST) and became part of the College of Engineering, Information and Industrial Technology (CEIIT) together with the Institute of Engineering and Department of Industrial Technology to centralize the resources of these three into a single college. But once again, fate has plans for this institute and let it navigate its ship on its own. Finally, the former school was converted into a college, banning the name of the College of Information and Computing Sciences (CICS). In 25 years of its existence, CICS has contributed significantly to MSC's mandates in Instruction, Research, Extension, and Production. Currently, both the BS in Information Systems and BS in Information Technology in Boac Campus are Level III Re-Accredited by the Accrediting Agency of Chartered Colleges and Universities in the Philippines (AACCUP), while the BS in Information Systems in Sta. Cruz Campus is Level II Re-Accredited. CICS has produced thousands of IT professionals serving in the province, other parts of the country, and even the global industry. Faculty and students are also actively engaged in research through various local and international presentations and publications. CICS also serves the community by providing relevant extension projects and activities. For the years to come, CICS still commits to giving what their stakeholders deserve through quality education and public service with their mantra, WORK IN SILENCE AND LET OUR SUCCESS MAKE OUR NOISE!",
+      "goals": "The teacher education degree programs aim to develop highly motivated and competent teachers specializing in the content and pedagogy for elementary education, secondary education, culture and arts education, technology and livelihood education, and other fields of specialization.",
+      "objectives": "Develop elementary and secondary teachers who are personally and professionally equipped with 21st century skills which include critical thinking, creativity & innovation, collaboration, cross-cultural understanding, communication, computing technology, and career learning. Produce graduates who demonstrate desired values and morals in the practice of their profession. Develop mastery of subject matter and practice pedagogies in their fields of specialization. Integrate and promote awareness of the mandated government policies in relevant courses Inculcate the value of professional growth and lifelong learning.",
+      "awards": [
         {
           "id": 1,
-          "programName": "Bachelor of Science in Information Systems",
-          "programDescription":"",
-          "curriculum": [
-            {
-              "id": 1,
-              "Year": "1st Year",
-              "Semester": [
-                {
-                  "id": 1,
-                  "SemesterName": "1st Semester",
-                  "CourseSubject": [
-                    {
-                      "id": 1,
-                      "courseName": "introduction to computing",
-                      "courseCode": "CC101",
-                      "units": 3,
-                      "prerequisite": "None"
-                    },
-                    {
-                      "id": 2,
-                      "courseName": "mathematics in the modern world",
-                      "courseCode": "ISP101",
-                      "units": 3,
-                      "prerequisite": "None"
-                    },
-                    {
-                      "id": 3,
-                      "courseName": "Science, Technology and Society",
-                      "courseCode": "GE-STS",
-                      "units": 3,
-                      "prerequisite": "None"
-                    },
-                    {
-                      "id": 4,
-                      "courseName": "Purposive Communication",
-                      "courseCode": "GE-PurCom",
-                      "units": 3,
-                      "prerequisite": "None"
-                    },
-                    {
-                      "id": 5,
-                      "courseName": "Arts Appreciation",
-                      "courseCode": "GE-ArtApp",
-                      "units": 3,
-                      "prerequisite": "None"
-                    },
-                    {
-                      "id": 6,
-                      "courseName": "Understanding the self",
-                      "courseCode": "GE-UTS",
-                      "units": 3,
-                      "prerequisite": "None"
-                    },
-                    {
-                      "id": 7,
-                      "courseName": "Logic and critical Thinking",
-                      "courseCode": "GEE101",
-                      "units": 3,
-                      "prerequisite": "None"
-                    },
-                    {
-                      "id": 8,
-                      "courseName": "Movement Competency Training",
-                      "courseCode": "PATHFIT",
-                      "units": 2,
-                      "prerequisite": "None"
-                    },
-                    {
-                      "id": 9,
-                      "courseName": "National Service Training Program 1",
-                      "courseCode": "NSTP1",
-                      "units": 3,
-                      "prerequisite": "None"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "programOutcome": [
-            {
-              "id": 1,
-              "outcome": "Demonstrate broad and coherent knowledge and understanding in the core areas of information systems, including systems analysis and design, database management, networking, and information security.\nApply critical thinking and problem-solving skills to analyze complex information systems problems and develop effective solutions.\nDesign, implement, and manage information systems that meet organizational needs while adhering to ethical standards and legal requirements.\nCommunicate effectively with diverse audiences, both orally and in writing, to convey technical information related to information systems.\nWork collaboratively in teams to achieve common goals in the development and implementation of information systems projects.\nDemonstrate a commitment to lifelong learning by staying current with emerging technologies and trends in the field of information systems."
-            }
-          ],
-          "studyPlan": [
-
-          ],
-          "careerOpportunity": [
-            {
-              "id": 1,
-              "career": "",
-              "description": "",
-              "salaryRange": ""
-            }
-          ]
-        }
-      ],
-      "workForce": [
-        {
-          "faculty": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": "",
-              "attainment": "",
-              "publication": ""
-            }
-          ]
-        },
-        {
-          "staff": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": ""
-            }
-          ]
-        }
-      ],
-      "research": [
-        {
-          "research": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completionYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ],
-          "extension": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completioYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ]
-        }
-      ],
-      "studentAchievement": [
-        {
-          "id": 1,
-          "type": "",
+          "title": "BEST PERFORMING COLLEGE IN THE LICENSURE EXAMINATION",
+          "year": 2024,
           "description": ""
-        }
-      ],
-      "studentProfile": [
-        {
-          "id": 1,
-          "programName": "Bachelor of Science in Information Technology",
-          "rate": "",
-          "image": ""
         },
         {
           "id": 2,
-          "programName": "Bachelor of Science in Information Systems",
-          "rate": "",
-          "image": ""
-        }
-      ],
-      "studentPublication": [
-        {
-          "studentOrg": [
-            {
-              "id": 1,
-              "name": "",
-              "designation": "",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "accomplishements": [
-            {
-              "id": 1,
-              "title": "",
-              "description": "",
-              "image": ""
-            }
-          ]
-        }
-      ],
-      "alumni": [
-        {
-          "tracer": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "career": ""
-            }
-          ]
-        },
-        {
-          "testimonials": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "story": ""
-            }
-          ]
-        }
-      ]
-    },
-    /*coed*/
-    {
-      "id": 3,
-      "collegeName": "College of Education",
-      "collegeProfile": [
-        {
-          "tagline": "BUILDING THE NATION MOLDING THE FUTURE",
-          "history": "The College of Education at Marinduque State University has a rich history, with the university beginning as the Marinduque School of Arts and Trades (MSAT) in 1952, offering vocational and technical programs. It evolved significantly over the years, introducing the Bachelor of Science in Industrial Education (BSIE) in 1976 under the Professional Industrial Education Department (PIED), which laid the foundation for the School of Education. Through legislative actions, the institution transformed into the Marinduque Institute of Science and Technology (MSIT) in 1983 and later Marinduque State College (MSC) in 1992, expanding its programs. \n\nThe BSIE curriculum was enhanced into the Bachelor of Secondary Education (BSEd) with specializations in Industrial Arts, Mathematics, Social Studies, and Science, further solidifying the institution's role in producing competent educators. In 1992, the integration of Marinduque Community College (MCC) in Sta. Cruz into MSC expanded the School of Education’s reach, incorporating the Bachelor of Elementary Education (BEEd). \n\nThe college continued to refine its offerings, introducing Music, Arts, Physical Education, and Health (MAPHE) in 2006–2007 and launching the Bachelor of Secondary Education major in Music Education in 2009. With evolving educational reforms, the College of Education aligned its curriculum with CHED guidelines, offering BSEd programs with specializations in Mathematics, Science, and Social Studies; Bachelor of Culture and Arts Education; and Bachelor of Technology and Livelihood Education by 2018–2019. \n\nThe BEEd program remains housed in the Sta. Cruz branch, emphasizing the institution’s commitment to quality teacher education and academic excellence.",
-          "goals": "The teacher education degree programs aim to develop highly motivated and competent teachers specializing in the content and pedagogy for elementary education, secondary education, culture and arts education, technology and livelihood education, and other fields of specialization.",
-          "Objectives": "Develop elementary and secondary teachers who are personally and professionally equipped with 21st century skills, which include critical thinking, creativity & innovation, collaboration, cross-cultural understanding, communication, computing technology, and career learning. Produce graduates who demonstrate desired values and morals in the practice of their profession.",
-          "awards": [
-            {
-              "id": 1,
-              "title": "THE 1ST DANGAL NG MARSU AWARDS",
-              "year": "2022",
-              "description": "BEST PERFORMING COLLEGE IN THE LICENSURE EXAMINATION"
-            },
-            {
-              "id": 2,
-              "title": "THE 1ST DANGAL NG MARSU AWARDS",
-              "year": "2023",
-              "description": "BEST PERFORMING DEAN"
-            },
-            {
-              "id": 3,
-              "title": "THE 1ST DANGAL NG MARSU AWARDS",
-              "year": "2024",
-              "description": "BEST PERFORMING COLLEGE"
-            }
-          ]
-        }
-      ],
-      "programOffer": [
-        {
-          "id": 1,
-          "programName": "",
-          "programDescription":"",
-          "curriculum": [
-            {
-              "id": 1,
-              "Year": "",
-              "Semester": [
-                {
-                  "id": 1,
-                  "SemesterName": "",
-                  "CourseSubject": [
-                    {
-                      "id": 1,
-                      "courseName": "",
-                      "courseCode": "",
-                      "units": 3,
-                      "prerequisite": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "programOutcome": [
-            {
-              "id": 1,
-              "outcomes":""
-            }
-          ],
-          "studyPlan": [
-            {
-              /*ano to*/
-            }
-          ],
-          "careerOpportunity": [
-            {
-              "id": 1,
-              "career": "",
-              "description": "",
-              "salaryRange": ""
-            }
-          ]
-        }
-      ],
-      "workForce": [
-        {
-          "faculty": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": "",
-              "educationalAttainment": [
-                {
-                  "id": 1,
-                  "attainment": ""
-                }
-              ],
-              "publication": [
-                {
-                  "id": 1,
-                  "title": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "staff": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": ""
-            }
-          ]
-        }
-      ],
-      "research": [
-        {
-          "research": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completionYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ],
-          "extension": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completioYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ]
-        }
-      ],
-      "studentAchievement": [
-        {
-          "id": 1,
-          "type": "",
+          "title": "BEST PERFORMING DEAN",
+          "year": 2024,
           "description": ""
-        }
-      ],
-      "studentProfile": [
-        {
-          "id": 1,
-          "Programname": "Bachelor of Secondary Education",
-          "rate": "",
-          "image": ""
-        },
-        {
-          "id": 2,
-          "Programname": "BACHELOR OF CULTURE AND ARTS EDUCATION",
-          "rate": "",
-          "image": ""
         },
         {
           "id": 3,
-          "Programname": "Bachelor of Technology and Livelihood Education",
-          "rate": "",
-          "image": ""
+          "title": "BEST PERFORMING COLLEGE",
+          "year": 2024,
+          "description": ""
         }
-      ],
-      "studentPublication": [
+      ]
+    }
+  ],
+  "programOffer": [
+    {
+      "id": 1,
+      "programName": "Bachelor of Science in Information Systems",
+      "programDescription": "",
+      "curriculum": [
         {
-          "studentOrg": [
+          "id": 1,
+          "Year": "1st Year",
+          "Semester": [
             {
               "id": 1,
-              "name": "",
-              "designation": "",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "accomplishements": [
-            {
-              "id": 1,
-              "title": "",
-              "description": "",
-              "image": ""
-            }
-          ]
-        }
-      ],
-      "alumni": [
-        {
-          "tracer": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "career": ""
-            }
-          ]
-        },
-        {
-          "testimonials": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "story": ""
+              "SemesterName": "1st Semester",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "introduction to computing",
+                  "courseCode": "CC101",
+                  "units": 3,
+                  "prerequisite": "None"
+                },
+                {
+                  "id": 2,
+                  "courseName": "mathematics in the modern world",
+                  "courseCode": "ISP101",
+                  "units": 3,
+                  "prerequisite": "None"
+                },
+                {
+                  "id": 3,
+                  "courseName": "Science, Technology and Society",
+                  "courseCode": "GE-STS",
+                  "units": 3,
+                  "prerequisite": "None"
+                },
+                {
+                  "id": 4,
+                  "courseName": "Purposive Communication",
+                  "courseCode": "GE-PurCom",
+                  "units": 3,
+                  "prerequisite": "None"
+                },
+                {
+                  "id": 5,
+                  "courseName": "Arts Appreciation",
+                  "courseCode": "GE-ArtApp",
+                  "units": 3,
+                  "prerequisite": "None"
+                },
+                {
+                  "id": 6,
+                  "courseName": "Understanding the self",
+                  "courseCode": "GE-UTS",
+                  "units": 3,
+                  "prerequisite": "None"
+                },
+                {
+                  "id": 7,
+                  "courseName": "Logic and critical Thinking",
+                  "courseCode": "GEE101",
+                  "units": 3,
+                  "prerequisite": "None"
+                },
+                {
+                  "id": 8,
+                  "courseName": "Movement Competency Training",
+                  "courseCode": "PATHFIT",
+                  "units": 2,
+                  "prerequisite": "None"
+                },
+                {
+                  "id": 9,
+                  "courseName": "National Service Training Program 1",
+                  "courseCode": "NSTP1",
+                  "units": 3,
+                  "prerequisite": "None"
+                }
+              ]
             }
           ]
         }
       ]
     },
-    /*cit*/
     {
+      "programOutcome": [
+        {
+          "id": 1,
+          "outcome": "Demonstrate broad and coherent knowledge and understanding in the core areas of information systems, including systems analysis and design, database management, networking, and information security. Apply critical thinking and problem-solving skills to analyze complex information systems problems and develop effective solutions. Design, implement, and manage information systems that meet organizational needs while adhering to ethical standards and legal requirements. Communicate effectively with diverse audiences, both orally and in writing, to convey technical information related to information systems. Work collaboratively in teams to achieve common goals in the development and implementation of information systems projects. Demonstrate a commitment to lifelong learning by staying current with emerging technologies and trends in the field of information systems."
+        }
+      ],
+      "studyPlan": [],
+      "careerOpportunity": [
+        {
+          "id": 1,
+          "career": "",
+          "description": "",
+          "salaryRange": ""
+        }
+      ]
+    }
+  ],
+  "workForce": [
+    {
+      "faculty": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": "",
+          "educationalAttainment": [
+            {
+              "id": 1,
+              "attainment": ""
+            }
+          ],
+          "publication": [
+            {
+              "id": 1,
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "staff": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": ""
+        }
+      ]
+    }
+  ],
+  "research": [
+    {
+      "research": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completionYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ],
+      "extension": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completioYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ]
+    }
+  ],
+  "studentAchievement": [
+    {
+      "id": 1,
+      "type": "",
+      "description": ""
+    }
+  ],
+  "studentProfile": [
+    {
+      "id": 1,
+      "programName": "Bachelor of Science in Information Technology",
+      "rate": "",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "programName": "Bachelor of Science in Information Systems",
+      "rate": "",
+      "image": ""
+    }
+  ],
+  "studentPublication": [
+    {
+      "studentOrg": [
+        {
+          "id": 1,
+          "name": "",
+          "designation": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "accomplishements": [
+        {
+          "id": 1,
+          "title": "",
+          "description": "",
+          "image": ""
+        }
+      ]
+    }
+  ],
+  "alumni": [
+    {
+      "tracer": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "career": ""
+        }
+      ]
+    },
+    {
+      "testimonials": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "story": ""
+        }
+      ]
+    }
+  ]
+},
+    /*coed*/
+  {
+  "id": 3,
+  "collegeName": "College of Education",
+  "collegeProfile": [
+    {
+      "tagline": "BUILDING THE NATION MOLDING THE FUTURE",
+      "history": "The College of Education at Marinduque State University has a rich history, with the university beginning as the Marinduque School of Arts and Trades (MSAT) in 1952, offering vocational and technical programs. It evolved significantly over the years, introducing the Bachelor of Science in Industrial Education (BSIE) in 1976 under the Professional Industrial Education Department (PIED), which laid the foundation for the School of Education. Through legislative actions, the institution transformed into the Marinduque Institute of Science and Technology (MSIT) in 1983 and later Marinduque State College (MSC) in 1992, expanding its programs. \n\nThe BSIE curriculum was enhanced into the Bachelor of Secondary Education (BSEd) with specializations in Industrial Arts, Mathematics, Social Studies, and Science, further solidifying the institution's role in producing competent educators. In 1992, the integration of Marinduque Community College (MCC) in Sta. Cruz into MSC expanded the School of Education’s reach, incorporating the Bachelor of Elementary Education (BEEd). \n\nThe college continued to refine its offerings, introducing Music, Arts, Physical Education, and Health (MAPHE) in 2006–2007 and launching the Bachelor of Secondary Education major in Music Education in 2009. With evolving educational reforms, the College of Education aligned its curriculum with CHED guidelines, offering BSEd programs with specializations in Mathematics, Science, and Social Studies; Bachelor of Culture and Arts Education; and Bachelor of Technology and Livelihood Education by 2018–2019. \n\nThe BEEd program remains housed in the Sta. Cruz branch, emphasizing the institution’s commitment to quality teacher education and academic excellence.",
+      "goals": "The teacher education degree programs aim to develop highly motivated and competent teachers specializing in the content and pedagogy for elementary education, secondary education, culture and arts education, technology and livelihood education, and other fields of specialization.",
+      "Objectives": "Develop elementary and secondary teachers who are personally and professionally equipped with 21st century skills, which include critical thinking, creativity & innovation, collaboration, cross-cultural understanding, communication, computing technology, and career learning. Produce graduates who demonstrate desired values and morals in the practice of their profession.",
+      "awards": [
+        {
+          "id": 1,
+          "title": "THE 1ST DANGAL NG MARSU AWARDS",
+          "year": "2022",
+          "description": "BEST PERFORMING COLLEGE IN THE LICENSURE EXAMINATION"
+        },
+        {
+          "id": 2,
+          "title": "THE 1ST DANGAL NG MARSU AWARDS",
+          "year": "2023",
+          "description": "BEST PERFORMING DEAN"
+        },
+        {
+          "id": 3,
+          "title": "THE 1ST DANGAL NG MARSU AWARDS",
+          "year": "2024",
+          "description": "BEST PERFORMING COLLEGE"
+        }
+      ]
+    }
+  ],
+  "programOffer": [
+    {
+      "id": 1,
+      "programName": "",
+      "programDescription": "",
+      "curriculum": [
+        {
+          "id": 1,
+          "Year": "",
+          "Semester": [
+            {
+              "id": 1,
+              "SemesterName": "",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "",
+                  "courseCode": "",
+                  "units": 3,
+                  "prerequisite": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programOutcome": [
+        {
+          "id": 1,
+          "outcomes": ""
+        }
+      ],
+      "studyPlan": [],
+      "careerOpportunity": [
+        {
+          "id": 1,
+          "career": "",
+          "description": "",
+          "salaryRange": ""
+        }
+      ]
+    }
+  ],
+  "workForce": [
+    {
+      "faculty": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": "",
+          "educationalAttainment": [
+            {
+              "id": 1,
+              "attainment": ""
+            }
+          ],
+          "publication": [
+            {
+              "id": 1,
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "staff": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": ""
+        }
+      ]
+    }
+  ],
+  "research": [
+    {
+      "research": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completionYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ],
+      "extension": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completioYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ]
+    }
+  ],
+  "studentAchievement": [
+    {
+      "id": 1,
+      "type": "",
+      "description": ""
+    }
+  ],
+  "studentProfile": [
+    {
+      "id": 1,
+      "Programname": "Bachelor of Secondary Education",
+      "rate": "",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "Programname": "BACHELOR OF CULTURE AND ARTS EDUCATION",
+      "rate": "",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "Programname": "Bachelor of Technology and Livelihood Education",
+      "rate": "",
+      "image": ""
+    }
+  ],
+  "studentPublication": [
+    {
+      "studentOrg": [
+        {
+          "id": 1,
+          "name": "",
+          "designation": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "accomplishements": [
+        {
+          "id": 1,
+          "title": "",
+          "description": "",
+          "image": ""
+        }
+      ]
+    }
+  ],
+  "alumni": [
+    {
+      "tracer": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "career": ""
+        }
+      ]
+    },
+    {
+      "testimonials": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "story": ""
+        }
+      ]
+    }
+  ]
+},
+    /*cit*/
+  {
       "id": 3,
       "collegeName": "College of Industrial Technology",
       "collegeProfile": [
@@ -668,2208 +667,2167 @@
           ]
         }
       ]
-    },
+},
     /*ces*/
+   {
+  "id": 4,
+  "collegeName": "College of Environmental Studies",
+  "collegeProfile": [
     {
-      "id": 4,
-      "collegeName": "College of Environmental Studies",
-      "collegeProfile": [
-        {
-          "tagline": "Soar High Enbaysay",
-          "history": "The Bachelor of Science in Environmental Science (BSES) program was granted to Marinduque State University (MarSU), then Marinduque State College (MSC), in AY 2013–2014 per CHED IV-B Order No. 0012, s. 2013. Initially offered at the School of Fisheries (Gasan Campus), the program was transferred to the School of Arts and Sciences (Boac Campus) in 2015 with 32 enrollees. The program was first headed by Assoc. Prof. Emma Cabildo. The pioneering class graduated under the School of Agriculture, Fisheries, and Natural Sciences (SAFNS) in 2019.
-                      BOT Resolution No. 25, s. 2013, confirmed the offering of new programs at MSC, including the BSES, which took effect in AY 2013–2014. \n
-                       The program was evaluated by CHED’s Regional Quality Assessment Team (RQAT) and was granted a Certificate of Program Compliance, effective AY 2019-2020. Due to the growing relevance of the field, the School of Environmental Sciences was created as per BOT Res. No. 12, s. 2020. Former MSC President Dr. Merian P. Catajay-Mani (2015-2020) designated Dr. Evangeline B. Mandia as the first Dean of the School of Environmental Sciences, beginning on May 18, 2020, per BOT Res No. 15 s. 2020. \n
-                      On September 1, 2021, the School of Environmental Sciences was renamed the Department of Environmental Sciences under the newly formed College of Natural and Allied Health Sciences (CNAHS). MSC President Prof. Dr. Diosdado P. Zulueta designated Inst. Christian Russel M. Rabi as the Department Head on September 1, 2021, per MSC Office of the President Memorandum No. 536 s. 2021.
-                      Recently, Dr. Evangeline B. Mandia was designated as the Dean of the newly-named College of Environmental Studies, as approved by MSC BOT Res. 33, S. 2023, which took effect on February 7, 2023, SY 2023-2024. Inst. Ronnel C. Nolos was designated as the new program head starting January 2024. Currently, the research-driven school has seven core faculty members and more than 200 students.
-                      ",
-          "goals": "",
-          "awards": [
-            {
-              "id": 1,
-              "title": "",
-              "year": "",
-              "description": ""
-            }
-          ]
-        }
-      ],
-      "programOffer": [
+      "tagline": "Soar High Enbaysay",
+      "history": "The Bachelor of Science in Environmental Science (BSES) program was granted to Marinduque State University (MarSU), then Marinduque State College (MSC), in AY 2013–2014 per CHED IV-B Order No. 0012, s. 2013. Initially offered at the School of Fisheries (Gasan Campus), the program was transferred to the School of Arts and Sciences (Boac Campus) in 2015 with 32 enrollees. The program was first headed by Assoc. Prof. Emma Cabildo. The pioneering class graduated under the School of Agriculture, Fisheries, and Natural Sciences (SAFNS) in 2019. BOT Resolution No. 25, s. 2013, confirmed the offering of new programs at MSC, including the BSES, which took effect in AY 2013–2014. The program was evaluated by CHED’s Regional Quality Assessment Team (RQAT) and was granted a Certificate of Program Compliance, effective AY 2019-2020. Due to the growing relevance of the field, the School of Environmental Sciences was created as per BOT Res. No. 12, s. 2020. Former MSC President Dr. Merian P. Catajay-Mani (2015-2020) designated Dr. Evangeline B. Mandia as the first Dean of the School of Environmental Sciences, beginning on May 18, 2020, per BOT Res No. 15 s. 2020. On September 1, 2021, the School of Environmental Sciences was renamed the Department of Environmental Sciences under the newly formed College of Natural and Allied Health Sciences (CNAHS). MSC President Prof. Dr. Diosdado P. Zulueta designated Inst. Christian Russel M. Rabi as the Department Head on September 1, 2021, per MSC Office of the President Memorandum No. 536 s. 2021. Recently, Dr. Evangeline B. Mandia was designated as the Dean of the newly-named College of Environmental Studies, as approved by MSC BOT Res. 33, S. 2023, which took effect on February 7, 2023, SY 2023-2024. Inst. Ronnel C. Nolos was designated as the new program head starting January 2024. Currently, the research-driven school has seven core faculty members and more than 200 students.",
+      "goals": "",
+      "awards": [
         {
           "id": 1,
-          "programName": "BACHELOR OF SCIENCE IN ENVIRONMENTAL SCIENCE",
-          "programDescription": "The Bachelor of Science in Environmental Science is based on the major disciplines
-          of science, such as biology, chemistry, physics, earth and marine sciences, and
-          mathematics. In addition, the BS ES program includes training in the social science in
-          order that its graduates will be equipped to understand the important roles of ethics,
-          society, and culture in the environment (CMO No. 35 s. 2005)."
-          "curriculum": [
-            {
-              "id": 1,
-              "Year": "",
-              "Semester": [
-                {
-                  "id": 1,
-                  "SemesterName": "",
-                  "CourseSubject": [
-                    {
-                      "id": 1,
-                      "courseName": "",
-                      "courseCode": "",
-                      "units": 3,
-                      "prerequisite": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "programOutcome": [
-            {
-              "id": 1,
-              "outcome": "Demonstrate broad and coherent knowledge and understanding in the core areas of
-                          physical and natural sciences.
-                          Apply critical and problem-solving skills using the scientific method.
-                          Interpret relevant scientific data and make judgements that include reflection on
-                          relevant scientific and ethical issues.
-                          Carry out basic mathematical and statistical computations and use appropriate
-                          technologies in (a) the analysis of data; and (b) in pattern recognition, generalization,
-                          abstraction, critical analysis, and problem solving.
-                          Communicate information, ideas problems and solutions, both, orally and in writing to
-                          other scientists, decision makers and the public.
-                          Relate science and mathematics to the other disciplines.
-                          Design and perform safe and responsible techniques and procedures in laboratory or
-                          field practices.
-                          Critically evaluate input from others.
-                          Appreciate the limitations and implications of science in everyday life.
-                          Commit to the integrity of data.
-                          Demonstrate broad and coherent knowledge and understanding in the core areas of
-                          environmental science.
-                          Disseminate effectively knowledge pertaining to sound environmental protection,
-                          conservation, utilization, and management.
-                          Demonstrate the ability to contribute to the protection and management of the
-                          environment; and
-                          Analyze local environmental issues and problems in the regional and global context.
-                          Apply appropriate knowledge and innovation related to the environment."
-                                                    
-            }
-          ],
-          "studyPlan": [
-            {
-              /*ano to*/
-            }
-          ],
-          "careerOpportunity": [
-            {
-              "id": 1,
-              "career": "",
-              "description": "",
-              "salaryRange": ""
-            }
-          ]
-        }
-      ],
-      "workForce": [
-        {
-          "faculty": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": "",
-              "educationalAttainment": [
-                {
-                  "id": 1,
-                  "attainment": ""
-                }
-              ],
-              "publication": [
-                {
-                  "id": 1,
-                  "title": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "staff": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": ""
-            }
-          ]
-        }
-      ],
-      "research": [
-        {
-          "research": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completionYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ],
-          "extension": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completioYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ]
-        }
-      ],
-      "studentAchievement": [
-        {
-          "id": 1,
-          "type": "",
+          "title": "",
+          "year": "",
           "description": ""
-        }
-      ],
-      "studentProfile": [
-        {
-          "id": 1,
-          "programName": "",
-          "rate": "",
-          "image": ""
-        }
-      ],
-      "studentPublication": [
-        {
-          "studentOrg": [
-            {
-              "id": 1,
-              "name": "",
-              "designation": "",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "accomplishements": [
-            {
-              "id": 1,
-              "title": "",
-              "description": "",
-              "image": ""
-            }
-          ]
-        }
-      ],
-      "alumni": [
-        {
-          "tracer": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "career": ""
-            }
-          ]
-        },
-        {
-          "testimonials": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "story": ""
-            }
-          ]
-        }
-      ]
-    },
-    /*ccje*/
-    {
-      "id": 5,
-      "collegeName": "College of Business Administration",
-      "collegeProfile": [
-        {
-          "tagline": "PUSO AT KATAPATAN, PARA SA KATARUNGAN AT BAYAN",
-          "history": "Back when this college was still the Institute of Criminal Justice Education, in assuring our clients and stakeholders of the standard of education offered by BS LEAd program, it was subjected to accreditation visits and is now Level II Re-Accredited Program by AACCUP, Inc. However, consistent findings of accreditation visits showed the non-issuance of Certificate of Program Compliance (COPC) of BS LEAd program due to non-availability of applicable CMO on policies, standards and guidelines for BS Law Enforcement Administration program. 
-          Hence, with the absence of these guidelines and the implementation of the Philippine Qualification Framework (PQF), the institution's offering of BS LEAd would place the program outside the PQF's coverage, potentially disadvantaging our graduates in terms of local and international recognition. \n
-          Further, on 18 October 2021, CHED MIMAROPA Director, Atty. Joselito C. Alisuag, Ph.D., CESE, communicated his recommendation of gradually phasing out the program and to transition to one with PSG such as the BS CRIM (CMO. #5 s. of 2018) or BS ISM (CMO. #6 s. of 2018). With those concerns, on 06 February 2023, the MSC Board of Trustees, through MSC BOT Resolution No. 23, s. 2023, has approved the gradual phase-out of BS LEAd effective AY 2023-2024. \n
-          Thus, the College of Criminal Justice Education was established at the beginning of Academic Year 2024–2025. It was created by virtue of MSC-BOT Resolution No. 122, series of 2023, which highlights the operationalization of the CCJE as a separate academic unit from the College of Governance. This was also in response to the recommendation and results of the CHED RQAT Visit – Report on the Result of Preliminary Assessment (RRPA) No. 006, series of 2023, which coincided with the opening of a new program, the Bachelor of Science in Criminology. This move aims to comply with the requirements of CHED Memorandum Order No. 5, series of 2018 – Policies, Standards, and Guidelines for the Bachelor of Science in Criminology (BS Criminology) Program.
-          ",
-          "goals": "To equip students a well-rounded education that covers practical skills, criminological theories, criminal justice system, law enforcement procedures and legal framework that will prepare them with honor and pride for careers in the delivery of public service",
-          "awards": [
-            {
-              "id": 1,
-              "title": "",
-              "year": "",
-              "description": ""
-            }
-          ]
-        }
-      ],
-      "programOffer": [
-        {
-          "id": 1,
-          "programName": "",
-          "curriculum": [
-            {
-              "id": 1,
-              "Year": "",
-              "Semester": [
-                {
-                  "id": 1,
-                  "SemesterName": "",
-                  "CourseSubject": [
-                    {
-                      "id": 1,
-                      "courseName": "",
-                      "courseCode": "",
-                      "units": 3,
-                      "prerequisite": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "programOutcome": [
-            {
-              /*ano to*/
-            }
-          ],
-          "studyPlan": [
-            {
-              /*ano to*/
-            }
-          ],
-          "careerOpportunity": [
-            {
-              "id": 1,
-              "career": "",
-              "description": "",
-              "salaryRange": ""
-            }
-          ]
-        }
-      ],
-      "workForce": [
-        {
-          "faculty": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": "",
-              "educationalAttainment": [
-                {
-                  "id": 1,
-                  "attainment": ""
-                }
-              ],
-              "publication": [
-                {
-                  "id": 1,
-                  "title": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "staff": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": ""
-            }
-          ]
-        }
-      ],
-      "research": [
-        {
-          "research": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completionYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ],
-          "extension": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completioYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ]
-        }
-      ],
-      "studentAchievement": [
-        {
-          "id": 1,
-          "type": "",
-          "description": ""
-        }
-      ],
-      "studentProfile": [
-        {
-          "id": 1,
-          "programName": "",
-          "rate": "",
-          "image": ""
-        }
-      ],
-      "studentPublication": [
-        {
-          "studentOrg": [
-            {
-              "id": 1,
-              "name": "",
-              "designation": "",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "accomplishements": [
-            {
-              "id": 1,
-              "title": "",
-              "description": "",
-              "image": ""
-            }
-          ]
-        }
-      ],
-      "alumni": [
-        {
-          "tracer": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "career": ""
-            }
-          ]
-        },
-        {
-          "testimonials": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "story": ""
-            }
-          ]
-        }
-      ]
-    },
-    /*cba*/
-    {
-      "id": 6,
-      "collegeName": "College of Business Administration",
-      "collegeProfile": [
-        {
-          "tagline": "Dunong, Sining, Lakas at Karangalan
-          CBA ikaw ang Hirang",
-          "history": "The College of Business and Accountancy (CBA) of Marinduque State College (MSC)
-          was formally established on February 6, 2023, through MSC Board of Trustees Resolution No. 31,
-          s. 2023, as part of MSC’s strategic move to become a full-fledged university. CBA emerged from
-          a series of institutional transitions, beginning as the School of Business and Management (SBM),
-          which was officially recognized in 2011 and launched during the second semester of the academic
-          year 2011–2012. Over time, SBM evolved into the Institute of Accountancy, Business
-          Administration, and Tourism Management (IABT) and was placed under the College of
-          Accountancy, Business, and Governance in 2021. The unit steadily expanded its academic
-          offerings, introducing the BS in Entrepreneurship in 2005, BS in Tourism Management in 2007,
-          BS in Accounting Technology (now Accounting Information System) in 2013, and in 2018,
-          seeking government approval to offer BS in Accountancy and BS in Business Administration with
-          specializations in Human Resource Management, Marketing Management, and Financial
-          Management. \n
-          The leadership of the business unit has seen a number of changes throughout its
-          development. Ms. Amelia M. Merano was the first Dean of SBM, succeeded by Ms. Verna Liza
-          L. Capina (2012 & 2016), Mr. Michael V. Capina (2013 & 2021), and Mr. Generoso E. Udanga
-          (2017). The role of Associate Dean was initially held by Mr. Mark Rey U. Tan, CPA, and was
-          passed on to Dr. Merryrose Red-Palma in 2022. In 2023, Ms. Verna Liza L. Capina resumed
-          leadership and continues to serve as Dean to the present. These leadership transitions reflect the
-          ongoing commitment to institutional growth, academic excellence, and program development
-          within the college.
-          ",
-          "goals": "To produce competent and ethical professionals and leaders in the fields of accountancy, Enterpreneurhip, Business,
-          administration, Tourism and other multi-disciplinary fields of Business management comitted to the service of the province and the global community",
-          "awards": [
-            {
-              "id": 1,
-              "title": "",
-              "year": "",
-              "description": ""
-            }
-          ]
-        }
-      ],
-      "programOffer": [
-        {
-          "id": 1,
-          "programName": "Bachelor of Science in Accountancy",
-          "programDescription": "This program provides general accounting education to students wanting to pursue a
-          professional career in Accountancy in general and in Public Accounting in particular.
-          Further, this is the program that complies with the latest competency framework for
-          professional accountants issued by the International Federation of Accountants (IFAC)
-          through the International Education Standards. Thus, this qualifies the graduate of this
-          program to take assessments leading to certifications in Accountancy given by the
-          Professional Regulatory Commission-Board of Accountancy (PRC-BOA) and other global
-          professional Accountancy organizations.
-          ",
-          "curriculum": [
-            {
-              "id": 1,
-              "Year": "",
-              "Semester": [
-                {
-                  "id": 1,
-                  "SemesterName": "",
-                  "CourseSubject": [
-                    {
-                      "id": 1,
-                      "courseName": "",
-                      "courseCode": "",
-                      "units": 3,
-                      "prerequisite": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "programOutcome": [
-            {
-              "id": 1,
-              "outcome": "Demonstrate knowledge and understanding of the concepts, principles, and theories of accounting, business, and finance.
-                          Apply accounting and business knowledge to solve complex problems in real-world scenarios.
-                          Analyze financial statements and reports to make informed decisions.
-                          Communicate effectively in both written and oral forms in a professional context.
-                          Demonstrate ethical behavior and social responsibility in business practices.
-                          Utilize information technology tools for accounting and business applications."
-            }
-          ],
-          "studyPlan": [
-            {
-              /*none*/
-            }
-          ],
-          "careerOpportunity": [
-            {
-              "id": 1,
-              "career": "Junior Analyst",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 2,
-              "career": "Consulting Staff",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 3,
-              "career": "Cost Analyst",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 4,
-              "career": "Accounting Information System Staff",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 5,
-              "career": "Tax Accounting Staff",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 6,
-              "career": "Financial Analyst",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 7,
-              "career": "Budget Analyst",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 8,
-              "career": "Credit Analyst",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 9,
-              "career": "Cost Accountanct",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 10,
-              "career": "State Accounting Examiner",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 11,
-              "career": "NBI Agent",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 12,
-              "career": "Treasury Agent",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 13,
-              "career": "State Accountant",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 14,
-              "career": "LGU Accountant",
-              "description": "",
-              "salaryRange": ""
-            },
-             {
-              "id": 15,
-              "career": "Revenue Officer",
-              "description": "",
-              "salaryRange": ""
-            },
-             {
-              "id": 16,
-              "career": "Audit Examiner",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 17,
-              "career": "Budget Office",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 18,
-              "career": "Financial Services Analyst",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 19,
-              "career": "Junior Accounting Instructor",
-              "description": "",
-              "salaryRange": ""
-            },
-          ]   
-        },
-        {
-          "id": 2,
-          "programName": "Bachelor of Science in Tourism
-          Management",
-          "programDescription": "The programs related to the fields of hospitality and tourism education will equip students
-            with competencies that are needed to execute operational tasks and management
-            functions in food production (culinary), accommodation, food and beverage service,
-            tourism planning and product development, events planning, transportation services, travel
-            and tour operations and other emerging sectors of hospitality and tourism industry.
-            ",
-        },
-        {
-          "curriculumn": "",
-            {
-              "id": 1,
-              "Year": "",
-              "Semester": [
-                {
-                  "id": 1,
-                  "SemesterName": "",
-                  "CourseSubject": [
-                    {
-                      "id": 1,
-                      "courseName": "",
-                      "courseCode": "",
-                      "units": 3,
-                      "prerequisite": ""
-                    }
-                  ]
-                }
-              ]
-            }
-        }
-        {
-          "programOutcome": [
-            {
-              "id": 1,
-              "outcome": "Demonstrate knowledge of tourism industry, local tourism products and services.
-              Interpret and apply relevant laws related to tourism industry
-              Observe and perform risk mitigation activities
-              Utilize information technology applications for tourism and hospitality
-              Manage and market a service-oriented business organization
-              Demonstrate administrative and managerial skills in a service-oriented
-              organization
-              Prepare and monitor industry specific financial transactions and reports
-              busines5
-              Perform human capital development functions of a tourism oriented organization
-              Utilize various communication channels proficiently with guests and colleagues "
-            }
-          ],
-           "studyPlan": [
-            {
-              /*none*/
-            }
-          ],
-          "careerOpportunity": [
-            {
-              "id": 1,
-              "career": "Air Cabin Crew",
-              "description": "",
-              "salaryRange": ""
-            },
-              {
-              "id": 2,
-              "career": "Hotel Manager",
-              "description": "",
-              "salaryRange": ""
-            },
-                   {
-              "id": 3,
-              "career": "Tour Manager",
-              "description": "",
-              "salaryRange": ""
-            },
-                         {
-              "id": 4,
-              "career": "Tourism Officer",
-              "description": "",
-              "salaryRange": ""
-            }
-            {
-              "id": 5,
-              "career": "Tourist information Centre Manager",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 6,
-              "career": "Travel Agency Manager",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 7,
-              "career": "Conference Centre Manager",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 8,
-              "career": "Customer Service Manager",
-              "description": "",
-              "salaryRange": ""
-            },
-            
-            {
-              "id": 9,
-              "career": "Event Manager",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 10,
-              "career": "Marketing Executive",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 11,
-              "career": "Passenger Transport Manager",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 12,
-              "career": "Sales Executive",
-              "description": "",
-              "salaryRange": ""
-            },
-            {
-              "id": 13,
-              "career": "Outdoor Activities/Education Manager",
-              "description": "",
-              "salaryRange": ""
-            },
-          ]   
-        }
-      ],
-      "workForce": [
-        {
-          "faculty": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": "",
-              "educationalAttainment": [
-                {
-                  "id": 1,
-                  "attainment": ""
-                }
-              ],
-              "publication": [
-                {
-                  "id": 1,
-                  "title": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "staff": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": ""
-            }
-          ]
-        }
-      ],
-      "research": [
-        {
-          "research": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completionYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ],
-          "extension": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completioYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ]
-        }
-      ],
-      "studentAchievement": [
-        {
-          "id": 1,
-          "type": "",
-          "description": ""
-        }
-      ],
-      "studentProfile": [
-        {
-          "id": 1,
-          "programName": "",
-          "rate": "",
-          "image": ""
-        }
-      ],
-      "studentPublication": [
-        {
-          "studentOrg": [
-            {
-              "id": 1,
-              "name": "",
-              "designation": "",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "accomplishements": [
-            {
-              "id": 1,
-              "title": "",
-              "description": "",
-              "image": ""
-            }
-          ]
-        }
-      ],
-      "alumni": [
-        {
-          "tracer": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "career": ""
-            }
-          ]
-        },
-        {
-          "testimonials": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "story": ""
-            }
-          ]
-        }
-      ]
-    },
-    /*cgov*/
-    {
-      "id": 7,
-      "collegeName": "College of Engineering",
-      "collegeProfile": [
-        {
-          "tagline": "",
-          "history": "",
-          "goals": "",
-          "awards": [
-            {
-              "id": 1,
-              "title": "",
-              "year": "",
-              "description": ""
-            }
-          ]
-        }
-      ],
-      "programOffer": [
-        {
-          "id": 1,
-          "programName": "",
-          "curriculum": [
-            {
-              "id": 1,
-              "Year": "",
-              "Semester": [
-                {
-                  "id": 1,
-                  "SemesterName": "",
-                  "CourseSubject": [
-                    {
-                      "id": 1,
-                      "courseName": "",
-                      "courseCode": "",
-                      "units": 3,
-                      "prerequisite": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "programOutcome": [
-            {
-              /*ano to*/
-            }
-          ],
-          "studyPlan": [
-            {
-              /*ano to*/
-            }
-          ],
-          "careerOpportunity": [
-            {
-              "id": 1,
-              "career": "",
-              "description": "",
-              "salaryRange": ""
-            }
-          ]
-        }
-      ],
-      "workForce": [
-        {
-          "faculty": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": "",
-              "educationalAttainment": [
-                {
-                  "id": 1,
-                  "attainment": ""
-                }
-              ],
-              "publication": [
-                {
-                  "id": 1,
-                  "title": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "staff": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": ""
-            }
-          ]
-        }
-      ],
-      "research": [
-        {
-          "research": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completionYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ],
-          "extension": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completioYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ]
-        }
-      ],
-      "studentAchievement": [
-        {
-          "id": 1,
-          "type": "",
-          "description": ""
-        }
-      ],
-      "studentProfile": [
-        {
-          "id": 1,
-          "programName": "",
-          "rate": "",
-          "image": ""
-        }
-      ],
-      "studentPublication": [
-        {
-          "studentOrg": [
-            {
-              "id": 1,
-              "name": "",
-              "designation": "",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "accomplishements": [
-            {
-              "id": 1,
-              "title": "",
-              "description": "",
-              "image": ""
-            }
-          ]
-        }
-      ],
-      "alumni": [
-        {
-          "tracer": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "career": ""
-            }
-          ]
-        },
-        {
-          "testimonials": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "story": ""
-            }
-          ]
-        }
-      ]
-    },
-    /*ceng*/
-    {
-      "id": 8,
-      "collegeName": "College of Business Administration",
-      "collegeProfile": [
-        {
-          "tagline": "",
-          "history": "",
-          "goals": "",
-          "awards": [
-            {
-              "id": 1,
-              "title": "",
-              "year": "",
-              "description": ""
-            }
-          ]
-        }
-      ],
-      "programOffer": [
-        {
-          "id": 1,
-          "programName": "",
-          "curriculum": [
-            {
-              "id": 1,
-              "Year": "",
-              "Semester": [
-                {
-                  "id": 1,
-                  "SemesterName": "",
-                  "CourseSubject": [
-                    {
-                      "id": 1,
-                      "courseName": "",
-                      "courseCode": "",
-                      "units": 3,
-                      "prerequisite": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "programOutcome": [
-            {
-              /*ano to*/
-            }
-          ],
-          "studyPlan": [
-            {
-              /*ano to*/
-            }
-          ],
-          "careerOpportunity": [
-            {
-              "id": 1,
-              "career": "",
-              "description": "",
-              "salaryRange": ""
-            }
-          ]
-        }
-      ],
-      "workForce": [
-        {
-          "faculty": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": "",
-              "educationalAttainment": [
-                {
-                  "id": 1,
-                  "attainment": ""
-                }
-              ],
-              "publication": [
-                {
-                  "id": 1,
-                  "title": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "staff": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": ""
-            }
-          ]
-        }
-      ],
-      "research": [
-        {
-          "research": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completionYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ],
-          "extension": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completioYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ]
-        }
-      ],
-      "studentAchievement": [
-        {
-          "id": 1,
-          "type": "",
-          "description": ""
-        }
-      ],
-      "studentProfile": [
-        {
-          "id": 1,
-          "programName": "",
-          "rate": "",
-          "image": ""
-        }
-      ],
-      "studentPublication": [
-        {
-          "studentOrg": [
-            {
-              "id": 1,
-              "name": "",
-              "designation": "",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "accomplishements": [
-            {
-              "id": 1,
-              "title": "",
-              "description": "",
-              "image": ""
-            }
-          ]
-        }
-      ],
-      "alumni": [
-        {
-          "tracer": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "career": ""
-            }
-          ]
-        },
-        {
-          "testimonials": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "story": ""
-            }
-          ]
-        }
-      ]
-    },
-    /*cfas*/
-    {
-      "id": 9,
-      "collegeName": "College of Allied Health Studies",
-      "collegeProfile": [
-        {
-          "tagline": "",
-          "history": "",
-          "goals": "",
-          "awards": [
-            {
-              "id": 1,
-              "title": "",
-              "year": "",
-              "description": ""
-            }
-          ]
-        }
-      ],
-      "programOffer": [
-        {
-          "id": 1,
-          "programName": "",
-          "curriculum": [
-            {
-              "id": 1,
-              "Year": "",
-              "Semester": [
-                {
-                  "id": 1,
-                  "SemesterName": "",
-                  "CourseSubject": [
-                    {
-                      "id": 1,
-                      "courseName": "",
-                      "courseCode": "",
-                      "units": 3,
-                      "prerequisite": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "programOutcome": [
-            {
-              /*ano to*/
-            }
-          ],
-          "studyPlan": [
-            {
-              /*ano to*/
-            }
-          ],
-          "careerOpportunity": [
-            {
-              "id": 1,
-              "career": "",
-              "description": "",
-              "salaryRange": ""
-            }
-          ]
-        }
-      ],
-      "workForce": [
-        {
-          "faculty": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": "",
-              "educationalAttainment": [
-                {
-                  "id": 1,
-                  "attainment": ""
-                }
-              ],
-              "publication": [
-                {
-                  "id": 1,
-                  "title": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "staff": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": ""
-            }
-          ]
-        }
-      ],
-      "research": [
-        {
-          "research": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completionYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ],
-          "extension": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completioYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ]
-        }
-      ],
-      "studentAchievement": [
-        {
-          "id": 1,
-          "type": "",
-          "description": ""
-        }
-      ],
-      "studentProfile": [
-        {
-          "id": 1,
-          "programName": "",
-          "rate": "",
-          "image": ""
-        }
-      ],
-      "studentPublication": [
-        {
-          "studentOrg": [
-            {
-              "id": 1,
-              "name": "",
-              "designation": "",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "accomplishements": [
-            {
-              "id": 1,
-              "title": "",
-              "description": "",
-              "image": ""
-            }
-          ]
-        }
-      ],
-      "alumni": [
-        {
-          "tracer": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "career": ""
-            }
-          ]
-        },
-        {
-          "testimonials": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "story": ""
-            }
-          ]
-        }
-      ]
-    },
-    /*cahs*/
-    {
-      "id": 10,
-      "collegeName": "College of Allied Health Sciences",
-      "collegeProfile": [
-        {
-          "tagline": "",
-          "history": "",
-          "goals": "",
-          "awards": [
-            {
-              "id": 1,
-              "title": "",
-              "year": "",
-              "description": ""
-            }
-          ]
-        }
-      ],
-      "programOffer": [
-        {
-          "id": 1,
-          "programName": "",
-          "curriculum": [
-            {
-              "id": 1,
-              "Year": "",
-              "Semester": [
-                {
-                  "id": 1,
-                  "SemesterName": "",
-                  "CourseSubject": [
-                    {
-                      "id": 1,
-                      "courseName": "",
-                      "courseCode": "",
-                      "units": 3,
-                      "prerequisite": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "programOutcome": [
-            {
-              /*ano to*/
-            }
-          ],
-          "studyPlan": [
-            {
-              /*ano to*/
-            }
-          ],
-          "careerOpportunity": [
-            {
-              "id": 1,
-              "career": "",
-              "description": "",
-              "salaryRange": ""
-            }
-          ]
-        }
-      ],
-      "workForce": [
-        {
-          "faculty": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": "",
-              "educationalAttainment": [
-                {
-                  "id": 1,
-                  "attainment": ""
-                }
-              ],
-              "publication": [
-                {
-                  "id": 1,
-                  "title": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "staff": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": ""
-            }
-          ]
-        }
-      ],
-      "research": [
-        {
-          "research": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completionYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ],
-          "extension": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completioYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ]
-        }
-      ],
-      "studentAchievement": [
-        {
-          "id": 1,
-          "type": "",
-          "description": ""
-        }
-      ],
-      "studentProfile": [
-        {
-          "id": 1,
-          "programName": "",
-          "rate": "",
-          "image": ""
-        }
-      ],
-      "studentPublication": [
-        {
-          "studentOrg": [
-            {
-              "id": 1,
-              "name": "",
-              "designation": "",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "accomplishements": [
-            {
-              "id": 1,
-              "title": "",
-              "description": "",
-              "image": ""
-            }
-          ]
-        }
-      ],
-      "alumni": [
-        {
-          "tracer": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "career": ""
-            }
-          ]
-        },
-        {
-          "testimonials": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "story": ""
-            }
-          ]
-        }
-      ]
-    },
-    /*cass*/
-    {
-      "id": 11,
-      "collegeName": "College of Arts and Social Sciences",
-      "collegeProfile": [
-        {
-          "tagline": "",
-          "history": "",
-          "goals": "",
-          "awards": [
-            {
-              "id": 1,
-              "title": "",
-              "year": "",
-              "description": ""
-            }
-          ]
-        }
-      ],
-      "programOffer": [
-        {
-          "id": 1,
-          "programName": "",
-          "curriculum": [
-            {
-              "id": 1,
-              "Year": "",
-              "Semester": [
-                {
-                  "id": 1,
-                  "SemesterName": "",
-                  "CourseSubject": [
-                    {
-                      "id": 1,
-                      "courseName": "",
-                      "courseCode": "",
-                      "units": 3,
-                      "prerequisite": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "programOutcome": [
-            {
-              /*ano to*/
-            }
-          ],
-          "studyPlan": [
-            {
-              /*ano to*/
-            }
-          ],
-          "careerOpportunity": [
-            {
-              "id": 1,
-              "career": "",
-              "description": "",
-              "salaryRange": ""
-            }
-          ]
-        }
-      ],
-      "workForce": [
-        {
-          "faculty": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": "",
-              "educationalAttainment": [
-                {
-                  "id": 1,
-                  "attainment": ""
-                }
-              ],
-              "publication": [
-                {
-                  "id": 1,
-                  "title": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "staff": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": ""
-            }
-          ]
-        }
-      ],
-      "research": [
-        {
-          "research": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completionYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ],
-          "extension": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completioYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ]
-        }
-      ],
-      "studentAchievement": [
-        {
-          "id": 1,
-          "type": "",
-          "description": ""
-        }
-      ],
-      "studentProfile": [
-        {
-          "id": 1,
-          "programName": "",
-          "rate": "",
-          "image": ""
-        }
-      ],
-      "studentPublication": [
-        {
-          "studentOrg": [
-            {
-              "id": 1,
-              "name": "",
-              "designation": "",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "accomplishements": [
-            {
-              "id": 1,
-              "title": "",
-              "description": "",
-              "image": ""
-            }
-          ]
-        }
-      ],
-      "alumni": [
-        {
-          "tracer": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "career": ""
-            }
-          ]
-        },
-        {
-          "testimonials": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "story": ""
-            }
-          ]
-        }
-      ]
-    },
-    /*ca*/
-    {
-      "id": 12,
-      "collegeName": "College of Business Administration",
-      "collegeProfile": [
-        {
-          "tagline": "",
-          "history": "",
-          "goals": "",
-          "awards": [
-            {
-              "id": 1,
-              "title": "",
-              "year": "",
-              "description": ""
-            }
-          ]
-        }
-      ],
-      "programOffer": [
-        {
-          "id": 1,
-          "programName": "",
-          "curriculum": [
-            {
-              "id": 1,
-              "Year": "",
-              "Semester": [
-                {
-                  "id": 1,
-                  "SemesterName": "",
-                  "CourseSubject": [
-                    {
-                      "id": 1,
-                      "courseName": "",
-                      "courseCode": "",
-                      "units": 3,
-                      "prerequisite": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "programOutcome": [
-            {
-              /*ano to*/
-            }
-          ],
-          "studyPlan": [
-            {
-              /*ano to*/
-            }
-          ],
-          "careerOpportunity": [
-            {
-              "id": 1,
-              "career": "",
-              "description": "",
-              "salaryRange": ""
-            }
-          ]
-        }
-      ],
-      "workForce": [
-        {
-          "faculty": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": "",
-              "educationalAttainment": [
-                {
-                  "id": 1,
-                  "attainment": ""
-                }
-              ],
-              "publication": [
-                {
-                  "id": 1,
-                  "title": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "staff": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": ""
-            }
-          ]
-        }
-      ],
-      "research": [
-        {
-          "research": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completionYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ],
-          "extension": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completioYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ]
-        }
-      ],
-      "studentAchievement": [
-        {
-          "id": 1,
-          "type": "",
-          "description": ""
-        }
-      ],
-      "studentProfile": [
-        {
-          "id": 1,
-          "programName": "",
-          "rate": "",
-          "image": ""
-        }
-      ],
-      "studentPublication": [
-        {
-          "studentOrg": [
-            {
-              "id": 1,
-              "name": "",
-              "designation": "",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "accomplishements": [
-            {
-              "id": 1,
-              "title": "",
-              "description": "",
-              "image": ""
-            }
-          ]
-        }
-      ],
-      "alumni": [
-        {
-          "tracer": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "career": ""
-            }
-          ]
-        },
-        {
-          "testimonials": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "story": ""
-            }
-          ]
-        }
-      ]
-    },
-    /*gs*/
-    {
-      "id": 13,
-      "collegeName": "Graduate Studies",
-      "collegeProfile": [
-        {
-          "tagline": "",
-          "history": "",
-          "goals": "",
-          "awards": [
-            {
-              "id": 1,
-              "title": "",
-              "year": "",
-              "description": ""
-            }
-          ]
-        }
-      ],
-      "programOffer": [
-        {
-          "id": 1,
-          "programName": "",
-          "curriculum": [
-            {
-              "id": 1,
-              "Year": "",
-              "Semester": [
-                {
-                  "id": 1,
-                  "SemesterName": "",
-                  "CourseSubject": [
-                    {
-                      "id": 1,
-                      "courseName": "",
-                      "courseCode": "",
-                      "units": 3,
-                      "prerequisite": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "programOutcome": [
-            {
-              /*ano to*/
-            }
-          ],
-          "studyPlan": [
-            {
-              /*ano to*/
-            }
-          ],
-          "careerOpportunity": [
-            {
-              "id": 1,
-              "career": "",
-              "description": "",
-              "salaryRange": ""
-            }
-          ]
-        }
-      ],
-      "workForce": [
-        {
-          "faculty": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": "",
-              "educationalAttainment": [
-                {
-                  "id": 1,
-                  "attainment": ""
-                }
-              ],
-              "publication": [
-                {
-                  "id": 1,
-                  "title": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "staff": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "designation": "",
-              "email": ""
-            }
-          ]
-        }
-      ],
-      "research": [
-        {
-          "research": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completionYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ],
-          "extension": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completioYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ]
-        }
-      ],
-      "studentAchievement": [
-        {
-          "id": 1,
-          "type": "",
-          "description": ""
-        }
-      ],
-      "studentProfile": [
-        {
-          "id": 1,
-          "programName": "",
-          "rate": "",
-          "image": ""
-        }
-      ],
-      "studentPublication": [
-        {
-          "studentOrg": [
-            {
-              "id": 1,
-              "name": "",
-              "designation": "",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "accomplishements": [
-            {
-              "id": 1,
-              "title": "",
-              "description": "",
-              "image": ""
-            }
-          ]
-        }
-      ],
-      "alumni": [
-        {
-          "tracer": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "career": ""
-            }
-          ]
-        },
-        {
-          "testimonials": [
-            {
-              "id": 1,
-              "image": "",
-              "name": "",
-              "story": ""
-            }
-          ]
         }
       ]
     }
+  ],
+  "programOffer": [
+    {
+      "id": 1,
+      "programName": "BACHELOR OF SCIENCE IN ENVIRONMENTAL SCIENCE",
+      "programDescription": "The Bachelor of Science in Environmental Science is based on the major disciplines of science, such as biology, chemistry, physics, earth and marine sciences, and mathematics. In addition, the BS ES program includes training in the social science in order that its graduates will be equipped to understand the important roles of ethics, society, and culture in the environment (CMO No. 35 s. 2005).",
+      "curriculum": [
+        {
+          "id": 1,
+          "Year": "",
+          "Semester": [
+            {
+              "id": 1,
+              "SemesterName": "",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "",
+                  "courseCode": "",
+                  "units": 3,
+                  "prerequisite": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programOutcome": [
+        {
+          "id": 1,
+          "outcome": "Demonstrate broad and coherent knowledge and understanding in the core areas of physical and natural sciences. Apply critical and problem-solving skills using the scientific method. Interpret relevant scientific data and make judgements that include reflection on relevant scientific and ethical issues. Carry out basic mathematical and statistical computations and use appropriate technologies in (a) the analysis of data; and (b) in pattern recognition, generalization, abstraction, critical analysis, and problem solving. Communicate information, ideas problems and solutions, both, orally and in writing to other scientists, decision makers and the public. Relate science and mathematics to the other disciplines. Design and perform safe and responsible techniques and procedures in laboratory or field practices. Critically evaluate input from others. Appreciate the limitations and implications of science in everyday life. Commit to the integrity of data. Demonstrate broad and coherent knowledge and understanding in the core areas of environmental science. Disseminate effectively knowledge pertaining to sound environmental protection, conservation, utilization, and management. Demonstrate the ability to contribute to the protection and management of the environment; and Analyze local environmental issues and problems in the regional and global context. Apply appropriate knowledge and innovation related to the environment."
+        }
+      ],
+      "studyPlan": [],
+      "careerOpportunity": [
+        {
+          "id": 1,
+          "career": "",
+          "description": "",
+          "salaryRange": ""
+        }
+      ]
+    }
+  ],
+  "workForce": [
+    {
+      "faculty": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": "",
+          "educationalAttainment": [
+            {
+              "id": 1,
+              "attainment": ""
+            }
+          ],
+          "publication": [
+            {
+              "id": 1,
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "staff": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": ""
+        }
+      ]
+    }
+  ],
+  "research": [
+    {
+      "research": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completionYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ],
+      "extension": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completioYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ]
+    }
+  ],
+  "studentAchievement": [
+    {
+      "id": 1,
+      "type": "",
+      "description": ""
+    }
+  ],
+  "studentProfile": [
+    {
+      "id": 1,
+      "programName": "",
+      "rate": "",
+      "image": ""
+    }
+  ],
+  "studentPublication": [
+    {
+      "studentOrg": [
+        {
+          "id": 1,
+          "name": "",
+          "designation": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "accomplishements": [
+        {
+          "id": 1,
+          "title": "",
+          "description": "",
+          "image": ""
+        }
+      ]
+    }
+  ],
+  "alumni": [
+    {
+      "tracer": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "career": ""
+        }
+      ]
+    },
+    {
+      "testimonials": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "story": ""
+        }
+      ]
+    }
+  ]
+  },
+    /*ccje*/
+   {
+  "id": 5,
+  "collegeName": "College of Business Administration",
+  "collegeProfile": [
+    {
+      "tagline": "PUSO AT KATAPATAN, PARA SA KATARUNGAN AT BAYAN",
+      "history": "Back when this college was still the Institute of Criminal Justice Education, in assuring our clients and stakeholders of the standard of education offered by BS LEAd program, it was subjected to accreditation visits and is now Level II Re-Accredited Program by AACCUP, Inc. However, consistent findings of accreditation visits showed the non-issuance of Certificate of Program Compliance (COPC) of BS LEAd program due to non-availability of applicable CMO on policies, standards and guidelines for BS Law Enforcement Administration program. Hence, with the absence of these guidelines and the implementation of the Philippine Qualification Framework (PQF), the institution's offering of BS LEAd would place the program outside the PQF's coverage, potentially disadvantaging our graduates in terms of local and international recognition. Further, on 18 October 2021, CHED MIMAROPA Director, Atty. Joselito C. Alisuag, Ph.D., CESE, communicated his recommendation of gradually phasing out the program and to transition to one with PSG such as the BS CRIM (CMO. #5 s. of 2018) or BS ISM (CMO. #6 s. of 2018). With those concerns, on 06 February 2023, the MSC Board of Trustees, through MSC BOT Resolution No. 23, s. 2023, has approved the gradual phase-out of BS LEAd effective AY 2023-2024. Thus, the College of Criminal Justice Education was established at the beginning of Academic Year 2024–2025. It was created by virtue of MSC-BOT Resolution No. 122, series of 2023, which highlights the operationalization of the CCJE as a separate academic unit from the College of Governance. This was also in response to the recommendation and results of the CHED RQAT Visit – Report on the Result of Preliminary Assessment (RRPA) No. 006, series of 2023, which coincided with the opening of a new program, the Bachelor of Science in Criminology. This move aims to comply with the requirements of CHED Memorandum Order No. 5, series of 2018 – Policies, Standards, and Guidelines for the Bachelor of Science in Criminology (BS Criminology) Program.",
+      "goals": "To equip students a well-rounded education that covers practical skills, criminological theories, criminal justice system, law enforcement procedures and legal framework that will prepare them with honor and pride for careers in the delivery of public service",
+      "awards": [
+        {
+          "id": 1,
+          "title": "",
+          "year": "",
+          "description": ""
+        }
+      ]
+    }
+  ],
+  "programOffer": [
+    {
+      "id": 1,
+      "programName": "",
+      "curriculum": [
+        {
+          "id": 1,
+          "Year": "",
+          "Semester": [
+            {
+              "id": 1,
+              "SemesterName": "",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "",
+                  "courseCode": "",
+                  "units": 3,
+                  "prerequisite": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programOutcome": [],
+      "studyPlan": [],
+      "careerOpportunity": [
+        {
+          "id": 1,
+          "career": "",
+          "description": "",
+          "salaryRange": ""
+        }
+      ]
+    }
+  ],
+  "workForce": [
+    {
+      "faculty": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": "",
+          "educationalAttainment": [
+            {
+              "id": 1,
+              "attainment": ""
+            }
+          ],
+          "publication": [
+            {
+              "id": 1,
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "staff": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": ""
+        }
+      ]
+    }
+  ],
+  "research": [
+    {
+      "research": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completionYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ],
+      "extension": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completioYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ]
+    }
+  ],
+  "studentAchievement": [
+    {
+      "id": 1,
+      "type": "",
+      "description": ""
+    }
+  ],
+  "studentProfile": [
+    {
+      "id": 1,
+      "programName": "",
+      "rate": "",
+      "image": ""
+    }
+  ],
+  "studentPublication": [
+    {
+      "studentOrg": [
+        {
+          "id": 1,
+          "name": "",
+          "designation": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "accomplishements": [
+        {
+          "id": 1,
+          "title": "",
+          "description": "",
+          "image": ""
+        }
+      ]
+    }
+  ],
+  "alumni": [
+    {
+      "tracer": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "career": ""
+        }
+      ]
+    },
+    {
+      "testimonials": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "story": ""
+        }
+      ]
+    }
+  ]
+},
+    /*cba*/
+   {
+  "id": 6,
+  "collegeName": "College of Business Administration",
+  "collegeProfile": [
+    {
+      "tagline": "Dunong, Sining, Lakas at Karangalan CBA ikaw ang Hirang",
+      "history": "The College of Business and Accountancy (CBA) of Marinduque State College (MSC) was formally established on February 6, 2023, through MSC Board of Trustees Resolution No. 31, s. 2023, as part of MSC’s strategic move to become a full-fledged university. CBA emerged from a series of institutional transitions, beginning as the School of Business and Management (SBM), which was officially recognized in 2011 and launched during the second semester of the academic year 2011–2012. Over time, SBM evolved into the Institute of Accountancy, Business Administration, and Tourism Management (IABT) and was placed under the College of Accountancy, Business, and Governance in 2021. The unit steadily expanded its academic offerings, introducing the BS in Entrepreneurship in 2005, BS in Tourism Management in 2007, BS in Accounting Technology (now Accounting Information System) in 2013, and in 2018, seeking government approval to offer BS in Accountancy and BS in Business Administration with specializations in Human Resource Management, Marketing Management, and Financial Management. The leadership of the business unit has seen a number of changes throughout its development. Ms. Amelia M. Merano was the first Dean of SBM, succeeded by Ms. Verna Liza L. Capina (2012 & 2016), Mr. Michael V. Capina (2013 & 2021), and Mr. Generoso E. Udanga (2017). The role of Associate Dean was initially held by Mr. Mark Rey U. Tan, CPA, and was passed on to Dr. Merryrose Red-Palma in 2022. In 2023, Ms. Verna Liza L. Capina resumed leadership and continues to serve as Dean to the present. These leadership transitions reflect the ongoing commitment to institutional growth, academic excellence, and program development within the college.",
+      "goals": "To produce competent and ethical professionals and leaders in the fields of accountancy, Enterpreneurhip, Business, administration, Tourism and other multi-disciplinary fields of Business management comitted to the service of the province and the global community",
+      "awards": [
+        {
+          "id": 1,
+          "title": "",
+          "year": "",
+          "description": ""
+        }
+      ]
+    }
+  ],
+  "programOffer": [
+    {
+      "id": 1,
+      "programName": "Bachelor of Science in Accountancy",
+      "programDescription": "This program provides general accounting education to students wanting to pursue a professional career in Accountancy in general and in Public Accounting in particular. Further, this is the program that complies with the latest competency framework for professional accountants issued by the International Federation of Accountants (IFAC) through the International Education Standards. Thus, this qualifies the graduate of this program to take assessments leading to certifications in Accountancy given by the Professional Regulatory Commission-Board of Accountancy (PRC-BOA) and other global professional Accountancy organizations.",
+      "curriculum": [
+        {
+          "id": 1,
+          "Year": "",
+          "Semester": [
+            {
+              "id": 1,
+              "SemesterName": "",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "",
+                  "courseCode": "",
+                  "units": 3,
+                  "prerequisite": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programOutcome": [
+        {
+          "id": 1,
+          "outcome": "Demonstrate knowledge and understanding of the concepts, principles, and theories of accounting, business, and finance. Apply accounting and business knowledge to solve complex problems in real-world scenarios. Analyze financial statements and reports to make informed decisions. Communicate effectively in both written and oral forms in a professional context. Demonstrate ethical behavior and social responsibility in business practices. Utilize information technology tools for accounting and business applications."
+        }
+      ],
+      "studyPlan": [],
+      "careerOpportunity": [
+        {
+          "id": 1,
+          "career": "Junior Analyst",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 2,
+          "career": "Consulting Staff",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 3,
+          "career": "Cost Analyst",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 4,
+          "career": "Accounting Information System Staff",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 5,
+          "career": "Tax Accounting Staff",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 6,
+          "career": "Financial Analyst",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 7,
+          "career": "Budget Analyst",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 8,
+          "career": "Credit Analyst",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 9,
+          "career": "Cost Accountanct",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 10,
+          "career": "State Accounting Examiner",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 11,
+          "career": "NBI Agent",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 12,
+          "career": "Treasury Agent",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 13,
+          "career": "State Accountant",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 14,
+          "career": "LGU Accountant",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 15,
+          "career": "Revenue Officer",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 16,
+          "career": "Audit Examiner",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 17,
+          "career": "Budget Office",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 18,
+          "career": "Financial Services Analyst",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 19,
+          "career": "Junior Accounting Instructor",
+          "description": "",
+          "salaryRange": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "programName": "Bachelor of Science in Tourism Management",
+      "programDescription": "The programs related to the fields of hospitality and tourism education will equip students with competencies that are needed to execute operational tasks and management functions in food production (culinary), accommodation, food and beverage service, tourism planning and product development, events planning, transportation services, travel and tour operations and other emerging sectors of hospitality and tourism industry.",
+      "curriculum": [
+        {
+          "id": 1,
+          "Year": "",
+          "Semester": [
+            {
+              "id": 1,
+              "SemesterName": "",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "",
+                  "courseCode": "",
+                  "units": 3,
+                  "prerequisite": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programOutcome": [
+        {
+          "id": 1,
+          "outcome": "Demonstrate knowledge of tourism industry, local tourism products and services. Interpret and apply relevant laws related to tourism industry. Observe and perform risk mitigation activities. Utilize information technology applications for tourism and hospitality. Manage and market a service-oriented business organization. Demonstrate administrative and managerial skills in a service-oriented organization. Prepare and monitor industry specific financial transactions and reports. Perform human capital development functions of a tourism oriented organization. Utilize various communication channels proficiently with guests and colleagues."
+        }
+      ],
+      "studyPlan": [],
+      "careerOpportunity": [
+        {
+          "id": 1,
+          "career": "Air Cabin Crew",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 2,
+          "career": "Hotel Manager",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 3,
+          "career": "Tour Manager",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 4,
+          "career": "Tourism Officer",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 5,
+          "career": "Tourist information Centre Manager",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 6,
+          "career": "Travel Agency Manager",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 7,
+          "career": "Conference Centre Manager",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 8,
+          "career": "Customer Service Manager",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 9,
+          "career": "Event Manager",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 10,
+          "career": "Marketing Executive",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 11,
+          "career": "Passenger Transport Manager",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 12,
+          "career": "Sales Executive",
+          "description": "",
+          "salaryRange": ""
+        },
+        {
+          "id": 13,
+          "career": "Outdoor Activities/Education Manager",
+          "description": "",
+          "salaryRange": ""
+        }
+      ]
+    }
+  ],
+  "workForce": [
+    {
+      "faculty": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": "",
+          "educationalAttainment": [
+            {
+              "id": 1,
+              "attainment": ""
+            }
+          ],
+          "publication": [
+            {
+              "id": 1,
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "staff": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": ""
+        }
+      ]
+    }
+  ],
+  "research": [
+    {
+      "research": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completionYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ],
+      "extension": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completioYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ]
+    }
+  ],
+  "studentAchievement": [
+    {
+      "id": 1,
+      "type": "",
+      "description": ""
+    }
+  ],
+  "studentProfile": [
+    {
+      "id": 1,
+      "programName": "",
+      "rate": "",
+      "image": ""
+    }
+  ],
+  "studentPublication": [
+    {
+      "studentOrg": [
+        {
+          "id": 1,
+          "name": "",
+          "designation": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "accomplishements": [
+        {
+          "id": 1,
+          "title": "",
+          "description": "",
+          "image": ""
+        }
+      ]
+    }
+  ],
+  "alumni": [
+    {
+      "tracer": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "career": ""
+        }
+      ]
+    },
+    {
+      "testimonials": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "story": ""
+        }
+      ]
+    }
+  ]
+    },
+    /*cgov*/
+   {
+  "id": 7,
+  "collegeName": "College of Governance",
+  "collegeProfile": [
+    {
+      "tagline": "Muli at muli ay para sa Bayan, Palagi ay para sa Bayan!",
+      "history": "Recognizing the need to provide a stronger and more focused institutional vehicle that develop students become life-long learners, multi-skilled and professional public leaders and servants, who initiates reform and promotes good governance, who embodies the values of ethical standards, accountability, discipline and excellence, the College of Governance (CGov) was shape as one among the newest College in Marinduque State University. The birth of the College, as School of Governance (SGov), is by virtue of MSC-Board of Trustees Resolution No. 15-B, series of 2020, approved during the 127th Regular Meeting held on May 7, 2020. Beginning Academic Year 2020-2021, SGov offers the programs of Bachelor of Public Administration (BPA), Bachelor of Science in Law Enforcement Administration (BS LEAd) and Bachelor of Arts in Political Science (BA PoS). Dr. Anne Grace Labatete, a graduate of Doctor of Government Management from Pamantasan ng Lungsod ng Maynila was appointed to be the first designated Dean. Prior to creation of CGov, the program of Bachelor of Public Administration, per MSC-BOT Resolution No. 47, series of 2011 was first offered by the College in Academic Year 2012-2013 under the School of Business and Management. While, the program of Bachelor of Arts in Political Science in June 1993 when Marinduque Community College was absorbed by Marinduque State College by virtue of Republic Act No. 7319, with the program being offered under the School of Liberal Arts at Sta. Cruz Campus. BS LEAd, on the other hand, had its beginning on March 18, 2008 when the Board of Trustees approved the offering of the program starting first semester, Academic Year 2008 – 2009 through BOT Resolution No. 14, s. 2008 under the School of Arts and Sciences, Boac Campus. In February 2023, MSC-BOT Resolution No. 31, s. 2023 Institute of Governance and Public Affairs (IGPA) under the College of Accountancy, Business and Governance (CABG) was converted into a separate College of Governance. And, in 2024, the program of Bachelor of Science in Law Enforcement Administration was transferred to the newly created College of Criminal Justice Education. At present, BPA remain to be offered at MarSU Boac Campus while the BA PoS at the MarSU Sta. Cruz Branch. Its respective designated Program Heads are Dr. Anne Grace M. Labatete and Dr. Hilarion R. Elegado.",
+      "goals": "Produce graduates who are professionally equipped, morally upright and committed life-long learners; who can deliver effective and ethical public service driven by socio-political and legal researches and supports world decision-making; who can respond to the challenges of the contemporary society and complements the need for transformative knowledge and actions across the fields of administrative, law enforcement, political affairs and other multi-disciplinary fields of governance.",
+      "awards": [
+        {
+          "id": 1,
+          "title": "",
+          "year": "",
+          "description": ""
+        }
+      ]
+    }
+  ],
+  "programOffer": [
+    {
+      "id": 1,
+      "programName": "BACHELOR OF PUBLIC ADMINISTRATION",
+      "curriculum": [
+        {
+          "id": 1,
+          "Year": "",
+          "Semester": [
+            {
+              "id": 1,
+              "SemesterName": "",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "",
+                  "courseCode": "",
+                  "units": 3,
+                  "prerequisite": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "programOutcome": [
+        {
+          "id": 1,
+          "outcome": "Adequate knowledge and understanding of fundamentals of good governance; High appreciation for the demands and challenges of public services; High ethical values for public service, accountability, nationalism and sustainability; Strong sense of duty to promote and protect public interest especially for the depressed and the marginalized communities; Adequate skills in management including planning, implementation, monitoring and human, material and resource management for government and civil society organizations; Adequate ability to engage in scientific research and national."
+        }
+      ],
+      "studyPlan": [],
+      "careerOpportunity": [
+        {
+          "id": 1,
+          "career": "",
+          "description": "",
+          "salaryRange": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "programName": "BACHELOR OF ARTS IN POLITICAL SCIENCE",
+      "curriculum": [
+        {
+          "id": 1,
+          "Year": "",
+          "Semester": [
+            {
+              "id": 1,
+              "SemesterName": "",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "",
+                  "courseCode": "",
+                  "units": 3,
+                  "prerequisite": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "programOutcome": [
+        {
+          "id": 1,
+          "outcome": "Compare, contrast and classify the major concepts in the discipline; Recognize and define the distinctiveness of the discipline, its sub-fields, theories and methods; Design and execute research inquiries using appropriate quantitative and qualitative methods guided by theories of conceptual frameworks; Demonstrate written, visual and oral presentation skills to produce and present analytical reports; Critique, judge and respond to current issues and problems based on a substantive understanding of the historical and contemporary developments in the national and global contexts; Develop a predisposition towards ethical political involvement and practice in various forms and on different levels of engagement."
+        }
+      ],
+      "studyPlan": [],
+      "careerOpportunity": [
+        {
+          "id": 1,
+          "career": "",
+          "description": "",
+          "salaryRange": ""
+        }
+      ]
+    }
+  ],
+  "workForce": [
+    {
+      "faculty": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": "",
+          "educationalAttainment": [
+            {
+              "id": 1,
+              "attainment": ""
+            }
+          ],
+          "publication": [
+            {
+              "id": 1,
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "staff": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": ""
+        }
+      ]
+    }
+  ],
+  "research": [
+    {
+      "research": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completionYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ],
+      "extension": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completioYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ]
+    }
+  ],
+  "studentAchievement": [
+    {
+      "id": 1,
+      "type": "",
+      "description": ""
+    }
+  ],
+  "studentProfile": [
+    {
+      "id": 1,
+      "programName": "",
+      "rate": "",
+      "image": ""
+    }
+  ],
+  "studentPublication": [
+    {
+      "studentOrg": [
+        {
+          "id": 1,
+          "name": "",
+          "designation": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "accomplishements": [
+        {
+          "id": 1,
+          "title": "",
+          "description": "",
+          "image": ""
+        }
+      ]
+    }
+  ],
+  "alumni": [
+    {
+      "tracer": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "career": ""
+        }
+      ]
+    },
+    {
+      "testimonials": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "story": ""
+        }
+      ]
+    }
+  ]
+},
+    /*ceng*/
+   {
+  "id": 8,
+  "collegeName": "College of Engineering",
+  "collegeProfile": [
+    {
+      "tagline": "DISCIPLINE IS THE FOUNDATION OF SUCCESS IN ENGINEERING",
+      "history": "The School of Engineering started its operations in Academic Year (AY) 1986–1987 with 40 enrollees to the Bachelor of Science in Civil Engineering. MSC was then known as Marinduque School of Arts and Trades. Upon its conversion into Marinduque Institute of Science and Technology through RA 377 in 1998, a ladderized Civil Engineering curriculum was offered with 44 first graduates by March 2003. Simultaneously, a ladderized curriculum for the BS in Electrical Engineering was also offered. In a ladderized curriculum, a student may opt to graduate under the three-year Associate program in Civil Engineering or Electrical Engineering. This ladderized curriculum was enhanced sometime in 2008 to contain additional skills subjects thus enabling students to opt to graduate with either a Diploma in a one-year Building Electrician Course, a Diploma in a two-year Industrial Electrician course, or a Diploma in a three-year Automation Technician course. Similarly, students can also choose a two-year Computer Technician course, or a three-year Electronics Technician course. In AY 2013–2014, the ladderized curriculum for the Bachelor of Science in Mechanical Engineering was also offered, giving a chance for students unable to finish with an NCII TESDA Certificate as a Welding & Fabrications Technician or as a Refrigeration and Airconditioning Technician.",
+      "goals": "BECOME THE LEADING PRODUCER OF DISCIPLINED ENGINEERING PROFESSIONALS, WHO ARE LIFELONG LEARNERS, WITH HUMANE VALUES AND TECHNOLOGICALLY ADVANCED KNOWLEDGE AND SKILLS, THROUGH ITS CURRICULAR PROGRAMS DESIGNED TO MEET CLIENTS’ AND STAKEHOLDERS’ HIGHEST LEVEL OF SATISFACTION IN TERMS OF QUALITY OF INSTRUCTIONS, SCIENTIFIC RESEARCHES AND RESEARCH-BASED EXTENSION PROJECTS.",
+      "awards": [
+        {
+          "id": 1,
+          "title": "",
+          "year": "",
+          "description": ""
+        }
+      ]
+    }
+  ],
+  "programOffer": [
+    {
+      "id": 1,
+      "programName": "",
+      "curriculum": [
+        {
+          "id": 1,
+          "Year": "",
+          "Semester": [
+            {
+              "id": 1,
+              "SemesterName": "",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "",
+                  "courseCode": "",
+                  "units": 3,
+                  "prerequisite": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programOutcome": [],
+      "studyPlan": [],
+      "careerOpportunity": [
+        {
+          "id": 1,
+          "career": "",
+          "description": "",
+          "salaryRange": ""
+        }
+      ]
+    }
+  ],
+  "workForce": [
+    {
+      "faculty": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": "",
+          "educationalAttainment": [
+            {
+              "id": 1,
+              "attainment": ""
+            }
+          ],
+          "publication": [
+            {
+              "id": 1,
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "staff": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": ""
+        }
+      ]
+    }
+  ],
+  "research": [
+    {
+      "research": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completionYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ],
+      "extension": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completioYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ]
+    }
+  ],
+  "studentAchievement": [
+    {
+      "id": 1,
+      "type": "",
+      "description": ""
+    }
+  ],
+  "studentProfile": [
+    {
+      "id": 1,
+      "programName": "",
+      "rate": "",
+      "image": ""
+    }
+  ],
+  "studentPublication": [
+    {
+      "studentOrg": [
+        {
+          "id": 1,
+          "name": "",
+          "designation": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "accomplishements": [
+        {
+          "id": 1,
+          "title": "",
+          "description": "",
+          "image": ""
+        }
+      ]
+    }
+  ],
+  "alumni": [
+    {
+      "tracer": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "career": ""
+        }
+      ]
+    },
+    {
+      "testimonials": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "story": ""
+        }
+      ]
+    }
+  ]
+},
+    /*cfas*/
+   {
+  "id": 9,
+  "collegeName": "College of Fisheries and Aquatic Sciences",
+  "collegeProfile": [
+    {
+      "tagline": "",
+      "history": "",
+      "goals": "",
+      "awards": [
+        {
+          "id": 1,
+          "title": "",
+          "year": "",
+          "description": ""
+        }
+      ]
+    }
+  ],
+  "programOffer": [
+    {
+      "id": 1,
+      "programName": "",
+      "curriculum": [
+        {
+          "id": 1,
+          "Year": "",
+          "Semester": [
+            {
+              "id": 1,
+              "SemesterName": "",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "",
+                  "courseCode": "",
+                  "units": 3,
+                  "prerequisite": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programOutcome": [],
+      "studyPlan": [],
+      "careerOpportunity": [
+        {
+          "id": 1,
+          "career": "",
+          "description": "",
+          "salaryRange": ""
+        }
+      ]
+    }
+  ],
+  "workForce": [
+    {
+      "faculty": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": "",
+          "educationalAttainment": [
+            {
+              "id": 1,
+              "attainment": ""
+            }
+          ],
+          "publication": [
+            {
+              "id": 1,
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "staff": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": ""
+        }
+      ]
+    }
+  ],
+  "research": [
+    {
+      "research": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completionYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ],
+      "extension": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completioYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ]
+    }
+  ],
+  "studentAchievement": [
+    {
+      "id": 1,
+      "type": "",
+      "description": ""
+    }
+  ],
+  "studentProfile": [
+    {
+      "id": 1,
+      "programName": "",
+      "rate": "",
+      "image": ""
+    }
+  ],
+  "studentPublication": [
+    {
+      "studentOrg": [
+        {
+          "id": 1,
+          "name": "",
+          "designation": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "accomplishements": [
+        {
+          "id": 1,
+          "title": "",
+          "description": "",
+          "image": ""
+        }
+      ]
+    }
+  ],
+  "alumni": [
+    {
+      "tracer": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "career": ""
+        }
+      ]
+    },
+    {
+      "testimonials": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "story": ""
+        }
+      ]
+    }
+  ]
+},
+    /*cahs*/
+    {
+  "id": 10,
+  "collegeName": "College of Allied Health Sciences",
+  "collegeProfile": [
+    {
+      "tagline": "",
+      "history": "",
+      "goals": "",
+      "awards": [
+        {
+          "id": 1,
+          "title": "",
+          "year": "",
+          "description": ""
+        }
+      ]
+    }
+  ],
+  "programOffer": [
+    {
+      "id": 1,
+      "programName": "",
+      "curriculum": [
+        {
+          "id": 1,
+          "Year": "",
+          "Semester": [
+            {
+              "id": 1,
+              "SemesterName": "",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "",
+                  "courseCode": "",
+                  "units": 3,
+                  "prerequisite": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programOutcome": [],
+      "studyPlan": [],
+      "careerOpportunity": [
+        {
+          "id": 1,
+          "career": "",
+          "description": "",
+          "salaryRange": ""
+        }
+      ]
+    }
+  ],
+  "workForce": [
+    {
+      "faculty": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": "",
+          "educationalAttainment": [
+            {
+              "id": 1,
+              "attainment": ""
+            }
+          ],
+          "publication": [
+            {
+              "id": 1,
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "staff": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": ""
+        }
+      ]
+    }
+  ],
+  "research": [
+    {
+      "research": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completionYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ],
+      "extension": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completioYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ]
+    }
+  ],
+  "studentAchievement": [
+    {
+      "id": 1,
+      "type": "",
+      "description": ""
+    }
+  ],
+  "studentProfile": [
+    {
+      "id": 1,
+      "programName": "",
+      "rate": "",
+      "image": ""
+    }
+  ],
+  "studentPublication": [
+    {
+      "studentOrg": [
+        {
+          "id": 1,
+          "name": "",
+          "designation": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "accomplishements": [
+        {
+          "id": 1,
+          "title": "",
+          "description": "",
+          "image": ""
+        }
+      ]
+    }
+  ],
+  "alumni": [
+    {
+      "tracer": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "career": ""
+        }
+      ]
+    },
+    {
+      "testimonials": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "story": ""
+        }
+      ]
+    }
+  ]
+},
+    /*cass*/
+   {
+  "id": 11,
+  "collegeName": "College of Arts and Social Sciences",
+  "collegeProfile": [
+    {
+      "tagline": "",
+      "history": "Established in 1995 through BOT Resolution no. 15 s. 2000, the School of Arts and Sciences (SAS) was responsive to offer programs adherent to the expanding curricular offerings of the College. CASS primarily aims to strengthen instruction in General Education (GE) subjects and to offer Arts and Social Sciences-related courses. In 2021, the School of Arts and Sciences became part of the College of Education, Arts and Social Sciences under the new name of Institute of Arts and Social Sciences through MSC BOT no. 66, s. 2021 and Office of the College President Memorandum no. 536, s. 2021. And by the virtue of MSC BOT no. 33, s. 2023, Institute of Arts and Social Sciences became College of Arts and Social Sciences with Dr. Ernesto L. Largado as College Dean through Special Order no. 5 s. 2023. Over the years since its establishment, the present-day College of Arts and Social Sciences is home to students specializing in three different fields: Bachelor of Arts in Communication (BAC), Bachelor of Arts in English Language Studies (BAELS), and Bachelor of Science in Social Work (BSSW).",
+      "goals": "Academic Excellence: Deliver high-quality education and develop curricula aligned with global standards and industry practices. Innovative Research: Cultivate a research-oriented culture and support interdisciplinary projects that address contemporary issues and contribute to societal development. Community Engagement: Extend expertise to the community through outreach programs and partnerships, addressing local and national needs. Professional Development: Equip students with essential skills and ethics for professional success and provide ongoing development opportunities for faculty and staff. Global Competence: Prepare students for global competitiveness and cultural awareness, fostering international collaborations to enhance educational and research opportunities.",
+      "awards": [
+        {
+          "id": 1,
+          "title": "",
+          "year": "",
+          "description": ""
+        }
+      ]
+    }
+  ],
+  "programOffer": [
+    {
+      "id": 1,
+      "programName": "BACHELOR OF ARTS IN ENGLISH LANGUAGE STUDIES",
+      "curriculum": [
+        {
+          "id": 1,
+          "Year": "",
+          "Semester": [
+            {
+              "id": 1,
+              "SemesterName": "",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "",
+                  "courseCode": "",
+                  "units": 3,
+                  "prerequisite": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "programOutcome": [
+        {
+          "id": 1,
+          "outcome": "1. Articulate a comprehensive and contextualized view of the English language system and development. 2. Communicate in English (both oral and written) fluently, accurately, and creatively in diverse social, cultural, academic, and professional settings. 3. Facilitate English language learning in diverse social, cultural, academic and professional settings. 4. Teach English communication skills using knowledge of best practices. 5. Enhance literacy development and critical/ creative thinking among students using different types of texts. 6. Participate effectively in oral communication situations where language systems (phonological, morphological, syntactic, semantic) vary. 7. Engage in English language research relevant to the school and workplace settings."
+        }
+      ],
+      "studyPlan": [],
+      "careerOpportunity": [
+        {
+          "id": 1,
+          "career": "",
+          "description": "",
+          "salaryRange": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "programName": "BACHELOR OF ARTS IN COMMUNICATION",
+      "curriculum": [
+        {
+          "id": 1,
+          "Year": "",
+          "Semester": [
+            {
+              "id": 1,
+              "SemesterName": "",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "",
+                  "courseCode": "",
+                  "units": 3,
+                  "prerequisite": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "programOutcome": [
+        {
+          "id": 1,
+          "outcome": "Define and access information needs; assess and organize information and knowledge. Produce, share and utilize information and knowledge. Communicate in different formats and platforms (print, broadcast, and online). Prepare communication/media plan. Conduct communication and media research and evaluation. Develop and produce communication materials in different formats and platforms. Demonstrate communication management and leadership skills. Develop entrepreneurial capabilities. Adhere to ethical standards and practices. Know and practice rights and responsibilities and accountabilities in the communication profession. Demonstrate a development orientation in communication work. Apply communication theories/models, principles, practices, and tools in development work."
+        }
+      ],
+      "studyPlan": [],
+      "careerOpportunity": [
+        {
+          "id": 1,
+          "career": "",
+          "description": "",
+          "salaryRange": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "programName": "BACHELOR OF SCIENCE IN SOCIAL WORK",
+      "curriculum": [
+        {
+          "id": 1,
+          "Year": "",
+          "Semester": [
+            {
+              "id": 1,
+              "SemesterName": "",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "",
+                  "courseCode": "",
+                  "units": 3,
+                  "prerequisite": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "programOutcome": [
+        {
+          "id": 1,
+          "outcome": "Demonstrate knowledge, skills, and attitude in engaging in a generalist helping process and planned change process for therapeutic, protective, preventive, and transformative purposes. Analyze critically the origin, development, and purposes of social work in the Philippines. Critique the impact of global and national socio-cultural inadequacies, discrimination, and oppression on quality of life. Apply knowledge of human behavior and social environment with emphasis on the person-in-situation dynamic for social work assessment and intervention. Critique social welfare policies, programs, and services of the locality, country and/or region in terms of relevance, responsiveness, accessibility and availability to target populations. Engage in advocacy work to promote socio-economic and cultural rights and well-being. Generate resources for networking and partnership development. Identify with the social work profession and conduct oneself in accordance with social work values and ethical principles. Engage in social work practices that promote diversity and difference in client system. Use supervision to develop critical self-reflective practice for personal and professional growth. Produce a portfolio of recordings, case studies and other social work documentation to reflect the quality and progress of practice."
+        }
+      ],
+      "studyPlan": [],
+      "careerOpportunity": [
+        {
+          "id": 1,
+          "career": "",
+          "description": "",
+          "salaryRange": ""
+        }
+      ]
+    }
+  ],
+  "workForce": [
+    {
+      "faculty": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": "",
+          "educationalAttainment": [
+            {
+              "id": 1,
+              "attainment": ""
+            }
+          ],
+          "publication": [
+            {
+              "id": 1,
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "staff": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": ""
+        }
+      ]
+    }
+  ],
+  "research": [
+    {
+      "research": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completionYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ],
+      "extension": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completioYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ]
+    }
+  ],
+  "studentAchievement": [
+    {
+      "id": 1,
+      "type": "",
+      "description": ""
+    }
+  ],
+  "studentProfile": [
+    {
+      "id": 1,
+      "programName": "",
+      "rate": "",
+      "image": ""
+    }
+  ],
+  "studentPublication": [
+    {
+      "studentOrg": [
+        {
+          "id": 1,
+          "name": "",
+          "designation": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "accomplishements": [
+        {
+          "id": 1,
+          "title": "",
+          "description": "",
+          "image": ""
+        }
+      ]
+    }
+  ],
+  "alumni": [
+    {
+      "tracer": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "career": ""
+        }
+      ]
+    },
+    {
+      "testimonials": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "story": ""
+        }
+      ]
+    }
+  ]
+},
+    /*ca*/
+   {
+  "id": 12,
+  "collegeName": "",
+  "collegeProfile": [
+    {
+      "tagline": "",
+      "history": "",
+      "goals": "",
+      "awards": [
+        {
+          "id": 1,
+          "title": "",
+          "year": "",
+          "description": ""
+        }
+      ]
+    }
+  ],
+  "programOffer": [
+    {
+      "id": 1,
+      "programName": "",
+      "curriculum": [
+        {
+          "id": 1,
+          "Year": "",
+          "Semester": [
+            {
+              "id": 1,
+              "SemesterName": "",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "",
+                  "courseCode": "",
+                  "units": 3,
+                  "prerequisite": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programOutcome": [],
+      "studyPlan": [],
+      "careerOpportunity": [
+        {
+          "id": 1,
+          "career": "",
+          "description": "",
+          "salaryRange": ""
+        }
+      ]
+    }
+  ],
+  "workForce": [
+    {
+      "faculty": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": "",
+          "educationalAttainment": [
+            {
+              "id": 1,
+              "attainment": ""
+            }
+          ],
+          "publication": [
+            {
+              "id": 1,
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "staff": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": ""
+        }
+      ]
+    }
+  ],
+  "research": [
+    {
+      "research": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completionYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ],
+      "extension": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completioYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ]
+    }
+  ],
+  "studentAchievement": [
+    {
+      "id": 1,
+      "type": "",
+      "description": ""
+    }
+  ],
+  "studentProfile": [
+    {
+      "id": 1,
+      "programName": "",
+      "rate": "",
+      "image": ""
+    }
+  ],
+  "studentPublication": [
+    {
+      "studentOrg": [
+        {
+          "id": 1,
+          "name": "",
+          "designation": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "accomplishements": [
+        {
+          "id": 1,
+          "title": "",
+          "description": "",
+          "image": ""
+        }
+      ]
+    }
+  ],
+  "alumni": [
+    {
+      "tracer": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "career": ""
+        }
+      ]
+    },
+    {
+      "testimonials": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "story": ""
+        }
+      ]
+    }
+  ]
+},
+    /*gs*/
+   {
+  "id": 13,
+  "collegeName": "Graduate Studies",
+  "collegeProfile": [
+    {
+      "tagline": "",
+      "history": "",
+      "goals": "",
+      "awards": [
+        {
+          "id": 1,
+          "title": "",
+          "year": "",
+          "description": ""
+        }
+      ]
+    }
+  ],
+  "programOffer": [
+    {
+      "id": 1,
+      "programName": "",
+      "curriculum": [
+        {
+          "id": 1,
+          "Year": "",
+          "Semester": [
+            {
+              "id": 1,
+              "SemesterName": "",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "",
+                  "courseCode": "",
+                  "units": 3,
+                  "prerequisite": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "programOutcome": [],
+      "studyPlan": [],
+      "careerOpportunity": [
+        {
+          "id": 1,
+          "career": "",
+          "description": "",
+          "salaryRange": ""
+        }
+      ]
+    }
+  ],
+  "workForce": [
+    {
+      "faculty": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": "",
+          "educationalAttainment": [
+            {
+              "id": 1,
+              "attainment": ""
+            }
+          ],
+          "publication": [
+            {
+              "id": 1,
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "staff": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "designation": "",
+          "email": ""
+        }
+      ]
+    }
+  ],
+  "research": [
+    {
+      "research": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completionYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ],
+      "extension": [
+        {
+          "id": 1,
+          "title": "",
+          "publicationYear": "",
+          "completioYear": "",
+          "authors": "",
+          "indices": "",
+          "abstract": ""
+        }
+      ]
+    }
+  ],
+  "studentAchievement": [
+    {
+      "id": 1,
+      "type": "",
+      "description": ""
+    }
+  ],
+  "studentProfile": [
+    {
+      "id": 1,
+      "programName": "",
+      "rate": "",
+      "image": ""
+    }
+  ],
+  "studentPublication": [
+    {
+      "studentOrg": [
+        {
+          "id": 1,
+          "name": "",
+          "designation": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "accomplishements": [
+        {
+          "id": 1,
+          "title": "",
+          "description": "",
+          "image": ""
+        }
+      ]
+    }
+  ],
+  "alumni": [
+    {
+      "tracer": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "career": ""
+        }
+      ]
+    },
+    {
+      "testimonials": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "",
+          "story": ""
+        }
+      ]
+    }
+  ]
+}
   ]
 }
