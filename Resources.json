@@ -1185,12 +1185,30 @@
           "extension": [
             {
               "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completioYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
+              "title": "Implementation Brigada Pagbasa – Teacher’s Undertaking Reinforcement of Learning (BP-TUROL) for 2024-2025",
+              "publicationYear": " 2024",
+              "completioYear": "N/A",
+              "authors": "N/A",
+              "indices": "N/A",
+              "abstract": "N/A"
+            }, 
+            {
+              "id": 2,
+              "title": "Project Management Team for Extension Project",
+              "publicationYear": " 2024",
+              "completioYear": "N/A",
+              "authors": "N/A",
+              "indices": "N/A",
+              "abstract": "N/A"
+            },
+                        {
+              "id": 3,
+              "title": "Brigada Pagbasa – Teacher’s Undertaking Reinforcement of Learning",
+              "publicationYear": " 2025",
+              "completioYear": "N/A",
+              "authors": "Dr. Susan B. Pineda",
+              "indices": "N/A",
+              "abstract": "N/A"
             }
           ]
         }
