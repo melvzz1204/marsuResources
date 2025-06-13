@@ -127,7 +127,9 @@
               "outcome": "Demonstrate broad and coherent knowledge and understanding in the core areas of information systems, including systems analysis and design, database management, networking, and information security.\nApply critical thinking and problem-solving skills to analyze complex information systems problems and develop effective solutions.\nDesign, implement, and manage information systems that meet organizational needs while adhering to ethical standards and legal requirements.\nCommunicate effectively with diverse audiences, both orally and in writing, to convey technical information related to information systems.\nWork collaboratively in teams to achieve common goals in the development and implementation of information systems projects.\nDemonstrate a commitment to lifelong learning by staying current with emerging technologies and trends in the field of information systems."
             }
           ],
-          "studyPlan": [],
+          "studyPlan": [
+
+          ],
           "careerOpportunity": [
             {
               "id": 1,
@@ -1793,9 +1795,32 @@
       "collegeName": "College of Business Administration",
       "collegeProfile": [
         {
-          "tagline": "",
-          "history": "",
-          "goals": "",
+          "tagline": "Dunong, Sining, Lakas at Karangalan
+          CBA ikaw ang Hirang",
+          "history": "The College of Business and Accountancy (CBA) of Marinduque State College (MSC)
+          was formally established on February 6, 2023, through MSC Board of Trustees Resolution No. 31,
+          s. 2023, as part of MSC’s strategic move to become a full-fledged university. CBA emerged from
+          a series of institutional transitions, beginning as the School of Business and Management (SBM),
+          which was officially recognized in 2011 and launched during the second semester of the academic
+          year 2011–2012. Over time, SBM evolved into the Institute of Accountancy, Business
+          Administration, and Tourism Management (IABT) and was placed under the College of
+          Accountancy, Business, and Governance in 2021. The unit steadily expanded its academic
+          offerings, introducing the BS in Entrepreneurship in 2005, BS in Tourism Management in 2007,
+          BS in Accounting Technology (now Accounting Information System) in 2013, and in 2018,
+          seeking government approval to offer BS in Accountancy and BS in Business Administration with
+          specializations in Human Resource Management, Marketing Management, and Financial
+          Management. \n
+          The leadership of the business unit has seen a number of changes throughout its
+          development. Ms. Amelia M. Merano was the first Dean of SBM, succeeded by Ms. Verna Liza
+          L. Capina (2012 & 2016), Mr. Michael V. Capina (2013 & 2021), and Mr. Generoso E. Udanga
+          (2017). The role of Associate Dean was initially held by Mr. Mark Rey U. Tan, CPA, and was
+          passed on to Dr. Merryrose Red-Palma in 2022. In 2023, Ms. Verna Liza L. Capina resumed
+          leadership and continues to serve as Dean to the present. These leadership transitions reflect the
+          ongoing commitment to institutional growth, academic excellence, and program development
+          within the college.
+          ",
+          "goals": "To produce competent and ethical professionals and leaders in the fields of accountancy, Enterpreneurhip, Business,
+          administration, Tourism and other multi-disciplinary fields of Business management comitted to the service of the province and the global community",
           "awards": [
             {
               "id": 1,
@@ -1809,7 +1834,16 @@
       "programOffer": [
         {
           "id": 1,
-          "programName": "",
+          "programName": "Bachelor of Science in Accountancy",
+          "programDescription": "This program provides general accounting education to students wanting to pursue a
+          professional career in Accountancy in general and in Public Accounting in particular.
+          Further, this is the program that complies with the latest competency framework for
+          professional accountants issued by the International Federation of Accountants (IFAC)
+          through the International Education Standards. Thus, this qualifies the graduate of this
+          program to take assessments leading to certifications in Accountancy given by the
+          Professional Regulatory Commission-Board of Accountancy (PRC-BOA) and other global
+          professional Accountancy organizations.
+          ",
           "curriculum": [
             {
               "id": 1,
@@ -1835,22 +1869,273 @@
         {
           "programOutcome": [
             {
-              /*ano to*/
+              "id": 1,
+              "outcome": "Demonstrate knowledge and understanding of the concepts, principles, and theories of accounting, business, and finance.
+                          Apply accounting and business knowledge to solve complex problems in real-world scenarios.
+                          Analyze financial statements and reports to make informed decisions.
+                          Communicate effectively in both written and oral forms in a professional context.
+                          Demonstrate ethical behavior and social responsibility in business practices.
+                          Utilize information technology tools for accounting and business applications."
             }
           ],
           "studyPlan": [
             {
-              /*ano to*/
+              /*none*/
             }
           ],
           "careerOpportunity": [
             {
               "id": 1,
-              "career": "",
+              "career": "Junior Analyst",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 2,
+              "career": "Consulting Staff",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 3,
+              "career": "Cost Analyst",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 4,
+              "career": "Accounting Information System Staff",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 5,
+              "career": "Tax Accounting Staff",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 6,
+              "career": "Financial Analyst",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 7,
+              "career": "Budget Analyst",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 8,
+              "career": "Credit Analyst",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 9,
+              "career": "Cost Accountanct",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 10,
+              "career": "State Accounting Examiner",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 11,
+              "career": "NBI Agent",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 12,
+              "career": "Treasury Agent",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 13,
+              "career": "State Accountant",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 14,
+              "career": "LGU Accountant",
+              "description": "",
+              "salaryRange": ""
+            },
+             {
+              "id": 15,
+              "career": "Revenue Officer",
+              "description": "",
+              "salaryRange": ""
+            },
+             {
+              "id": 16,
+              "career": "Audit Examiner",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 17,
+              "career": "Budget Office",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 18,
+              "career": "Financial Services Analyst",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 19,
+              "career": "Junior Accounting Instructor",
+              "description": "",
+              "salaryRange": ""
+            },
+          ]   
+        },
+        {
+          "id": 2,
+          "programName": "Bachelor of Science in Tourism
+          Management",
+          "programDescription": "The programs related to the fields of hospitality and tourism education will equip students
+            with competencies that are needed to execute operational tasks and management
+            functions in food production (culinary), accommodation, food and beverage service,
+            tourism planning and product development, events planning, transportation services, travel
+            and tour operations and other emerging sectors of hospitality and tourism industry.
+            ",
+        },
+        {
+          "curriculumn": "",
+            {
+              "id": 1,
+              "Year": "",
+              "Semester": [
+                {
+                  "id": 1,
+                  "SemesterName": "",
+                  "CourseSubject": [
+                    {
+                      "id": 1,
+                      "courseName": "",
+                      "courseCode": "",
+                      "units": 3,
+                      "prerequisite": ""
+                    }
+                  ]
+                }
+              ]
+            }
+        }
+        {
+          "programOutcome": [
+            {
+              "id": 1,
+              "outcome": "Demonstrate knowledge of tourism industry, local tourism products and services.
+              Interpret and apply relevant laws related to tourism industry
+              Observe and perform risk mitigation activities
+              Utilize information technology applications for tourism and hospitality
+              Manage and market a service-oriented business organization
+              Demonstrate administrative and managerial skills in a service-oriented
+              organization
+              Prepare and monitor industry specific financial transactions and reports
+              busines5
+              Perform human capital development functions of a tourism oriented organization
+              Utilize various communication channels proficiently with guests and colleagues "
+            }
+          ],
+           "studyPlan": [
+            {
+              /*none*/
+            }
+          ],
+          "careerOpportunity": [
+            {
+              "id": 1,
+              "career": "Air Cabin Crew",
+              "description": "",
+              "salaryRange": ""
+            },
+              {
+              "id": 2,
+              "career": "Hotel Manager",
+              "description": "",
+              "salaryRange": ""
+            },
+                   {
+              "id": 3,
+              "career": "Tour Manager",
+              "description": "",
+              "salaryRange": ""
+            },
+                         {
+              "id": 4,
+              "career": "Tourism Officer",
               "description": "",
               "salaryRange": ""
             }
-          ]
+            {
+              "id": 5,
+              "career": "Tourist information Centre Manager",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 6,
+              "career": "Travel Agency Manager",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 7,
+              "career": "Conference Centre Manager",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 8,
+              "career": "Customer Service Manager",
+              "description": "",
+              "salaryRange": ""
+            },
+            
+            {
+              "id": 9,
+              "career": "Event Manager",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 10,
+              "career": "Marketing Executive",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 11,
+              "career": "Passenger Transport Manager",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 12,
+              "career": "Sales Executive",
+              "description": "",
+              "salaryRange": ""
+            },
+            {
+              "id": 13,
+              "career": "Outdoor Activities/Education Manager",
+              "description": "",
+              "salaryRange": ""
+            },
+          ]   
         }
       ],
       "workForce": [
