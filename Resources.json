@@ -355,6 +355,58 @@
                                    {
                           "id": 6,
                             "courseName": "Elective 3: Advance Database System",
+                            "prerequisite": "PATHFIT3"
+                           }
+                    ]
+                }
+              ]       
+            },
+            {
+              "id": 4,
+              "Year": "3rd Year",
+              "Semester": [
+                {
+                    "id": 5,
+                    "SemesterName": "1st Semester",
+                    "CourseSubject": [
+                        {
+                            "id": 1,
+                            "courseName": "Application Development and Emerging Technologies",
+                            "courseCode": "CC301",
+                            "units": 3,
+                            "prerequisite": "CC201, Com prog 2"
+                        },
+                        {
+                          "id": 2,
+                            "courseName": "Financial Management",
+                            "courseCode": "ISP301",
+                            "units": 3,
+                            "prerequisite": "None"
+                        },
+                        {
+                          "id": 3,
+                            "courseName": "Information System Project Management 1",
+                            "courseCode": "ISP302",
+                            "units": 3,
+                            "prerequisite": "All Courses passed prior in all previous semester"
+                        },
+                           {
+                          "id": 4,
+                            "courseName": "Methods of Research in Information System",
+                            "courseCode": "ISP304",
+                            "units": 3,
+                            "prerequisite": "All Courses passed prior in all previous semester"
+                           },
+                                {
+                          "id": 5,
+                            "courseName": "Elective 2: Web System and Technologys",
+                            "courseCode": "ISE301",
+                            "units": 3,
+                            "prerequisite": "CC201"
+                           },
+                                   {
+                          "id": 6,
+                            "courseName": "Elective 3: Advance Database System",
                             "courseCode": "ISE302",
                             "units": 3,
                             "prerequisite": "CC202"
@@ -2036,6 +2088,236 @@
           "extension": []
         }
       ]
+    }, 
+{
+  "id": 4,
+  "collegeName": "College of Environmental Studies",
+  "research": [
+    {
+      "research": [
+        {
+          "id": 1,
+          "collegeId": 4,
+          "title": "Phytosuccession and Phytosociology of Plants in Ino-Capayang Mined-out Area for Possible Phytoremediation Activities in Marinduque",
+          "publicationYear": "2017",
+          "completionYear": "",
+          "authors": "Medianista, R. L., & Labay, P. M.",
+          "indices": "",
+          "abstract": "",
+          "citations": 5
+        },
+        {
+          "id": 2,
+          "collegeId": 4,
+          "title": "Sea-deposited Mine Tailings in Calancan Bay, Marinduque, Philippines-An Environmental Mineralogical Study",
+          "publicationYear": "2020",
+          "completionYear": "",
+          "authors": "Medianista, R. L.",
+          "indices": "",
+          "abstract": "",
+          "citations": ""
+        },
+        {
+          "id": 3,
+          "collegeId": 4,
+          "title": "Spatial Distribution of Hydrogeological Attributes in the Small Island Province of the Philippines: A Tool for Risk Analysis and Reduction Strategy",
+          "publicationYear": "2020",
+          "completionYear": "",
+          "authors": "Senoro, D. B., De Jesus, K. L., Chyan, J. M., Lamac, M. R. L., Bonifacio, P. B., Natal, P., & Yanuaria, C. A. S.",
+          "indices": "Proceedings of the Climate Smart and Disaster Resilient International Conference",
+          "abstract": "",
+          "citations": ""
+        },
+        {
+          "id": 4,
+          "collegeId": 4,
+          "title": "Mineralogical study of the redeposited near-shore STD waste in Calancan causeway, Philippines",
+          "publicationYear": "2021",
+          "completionYear": "",
+          "authors": "Medianista, R. L., Irshad, I., Weiszburg, T. G., & Harman-Tóth, E.",
+          "indices": "",
+          "abstract": "",
+          "citations": ""
+        },
+        {
+          "id": 5,
+          "collegeId": 4,
+          "title": "Spatial distribution of agricultural yields with elevated metal concentration of the island exposed to acid mine drainage",
+          "publicationYear": "2021",
+          "completionYear": "",
+          "authors": "Senoro, D. B., Bonifacio, P. B., Mascareñas, D. R., Tabelin, C. B., Ney, F. P., Lamac, M. R. L., & Tan, F. J.",
+          "indices": "Journal of Degraded and Mining Lands Management, Scopus",
+          "abstract": "",
+          "citations": 25
+        },
+        {
+          "id": 6,
+          "collegeId": 4,
+          "title": "Transition metals in freshwater crustaceans, tilapia, and inland water: Hazardous to the population of the small island province",
+          "publicationYear": "2021",
+          "completionYear": "",
+          "authors": "Agarin, C. J. M., Mascareñas, D. R., Nolos, R., Chan, E., & Senoro, D. B.",
+          "indices": "Toxics, Scopus, Web of Science",
+          "abstract": "",
+          "citations": 23
+        },
+        {
+          "id": 7,
+          "collegeId": 4,
+          "title": "In situ measurements of domestic water quality and health risks by elevated concentration of heavy metals and metalloids using Monte Carlo and MLGI methods",
+          "publicationYear": "2022",
+          "completionYear": "",
+          "authors": "Senoro, D. B., de Jesus, K. L. M., Nolos, R. C., Lamac, M. R. L., Deseo, K. M., & Tabelin, C. B.",
+          "indices": "Toxics, Scopus, Web of Science",
+          "abstract": "",
+          "citations": 27
+        },
+        {
+          "id": 8,
+          "collegeId": 4,
+          "title": "Health risks due to metal concentrations in soil and vegetables from the six municipalities of the Island Province in the Philippines",
+          "publicationYear": "2022",
+          "completionYear": "",
+          "authors": "Nolos, R. C., Agarin, C. J. M., Domino, M. Y. R., Bonifacio, P. B., Chan, E. B., Mascareñas, D. R., & Senoro, D. B.",
+          "indices": "International Journal of Environmental Research and Public Health, Scopus, Web of Science",
+          "abstract": "",
+          "citations": 40
+        },
+        {
+          "id": 9,
+          "collegeId": 4,
+          "title": "Color and image analysis approach in determination of soluble copper in water using tannic reaction analysis",
+          "publicationYear": "2022",
+          "completionYear": "",
+          "authors": "Historillo, J. F., Rosales, M., Merlin, M., & Mandia, E. B.",
+          "indices": "International Conference on Intelligent Computing & Optimization",
+          "abstract": "",
+          "citations": ""
+        },
+        {
+          "id": 10,
+          "collegeId": 4,
+          "title": "Drivers of deforestation and forest degradation in Palawan, Philippines: an analysis using social-ecological systems (SES) and institutional analysis and development (IAD) approaches",
+          "publicationYear": "2023",
+          "completionYear": "",
+          "authors": "Nolos, R. C., Zamroni, A., & Evina, K. F. P.",
+          "indices": "Geography, Environment, Sustainability, Scopus",
+          "abstract": "",
+          "citations": 16
+        },
+        {
+          "id": 11,
+          "collegeId": 4,
+          "title": "Detection of heavy metals, their distribution in Tilapia spp., and health risks assessment",
+          "publicationYear": "2023",
+          "completionYear": "",
+          "authors": "Mendoza, L. C., Nolos, R. C., Villaflores, O. B., Apostol, E. M. D., & Senoro, D. B.",
+          "indices": "Toxics, Scopus, Web of Science",
+          "abstract": "",
+          "citations": 15
+        },
+        {
+          "id": 12,
+          "collegeId": 4,
+          "title": "Metals and metalloid concentrations in fish, its spatial distribution in PPC, Philippines and the attributable risks",
+          "publicationYear": "2023",
+          "completionYear": "",
+          "authors": "Senoro, D. B., Plasus, M. M. G., Gorospe, A. F. B., Nolos, R. C., Baaco, A. T., & Lin, C.",
+          "indices": "Toxics, Scopus, Web of Science",
+          "abstract": "",
+          "citations": 6
+        },
+        {
+          "id": 13,
+          "collegeId": 4,
+          "title": "Global Overview on the Recent Studies of Geohazards: A Dynamic Population Approach",
+          "publicationYear": "2023",
+          "completionYear": "",
+          "authors": "Suprapto, N., Zamroni, A., Faustino-Eslava, D. V., Calzeta, E. C., Tiburan Jr, C. L., Rachmawati, Y., & Nolos, R. C.",
+          "indices": "Science of Tsunami Hazards, Scopus",
+          "abstract": "",
+          "citations": 2
+        },
+        {
+          "id": 14,
+          "collegeId": 4,
+          "title": "Challenges and recommendations for long-term rehabilitation of Boac River, Marinduque, Philippines, 20 years after the Marcopper mining disaster",
+          "publicationYear": "2023",
+          "completionYear": "",
+          "authors": "Serquiña, R. A. B., Dangcalan, R. J. P., Dapito, M., Buella-Mandia, E., & Sandoval, D. S. M.",
+          "indices": "Asian Journal of Resilience",
+          "abstract": "",
+          "citations": ""
+        },
+        {
+          "id": 15,
+          "collegeId": 4,
+          "title": "Understanding the knowledge of Mogpog residents about heavy metal pollution due to mining and its associated health risk",
+          "publicationYear": "2024",
+          "completionYear": "",
+          "authors": "Nolos, R. C., Sevilla-Nastor, J. B., Villanueva-Peyraube, J. D., & Sobremisana, M. J.",
+          "indices": "Journal of Degraded and Mining Lands Management, Scopus",
+          "abstract": "",
+          "citations": 1
+        },
+        {
+          "id": 16,
+          "collegeId": 4,
+          "title": "Distribution of potentially toxic elements (PTEs) and health risk assessment of soil in an island province in the Philippines",
+          "publicationYear": "2025",
+          "completionYear": "",
+          "authors": "Nolos, R., Sevilla-Nastor, J., & Villanueva-Peyraube, J.",
+          "indices": "Environmental Geochemistry and Health, Scopus, Web of Science",
+          "abstract": "",
+          "citations": ""
+        },
+        {
+          "id": 17,
+          "collegeId": 4,
+          "title": "Nature-based Solutions for Agricultural Drought Adaptation Strategies in the Karst Area of Gunungkidul Regency, Indonesia",
+          "publicationYear": "2025",
+          "completionYear": "",
+          "authors": "Zamroni, A., Putri, W. E. C., Nolos, R., & Ceballos, R.",
+          "indices": "Southeastern Philippines Journal of Research and Development, Scopus",
+          "abstract": "",
+          "citations": ""
+        },
+        {
+          "id": 18,
+          "collegeId": 4,
+          "title": "Heavy Metals Accumulation in the Agricultural Soils around the Limestone-Mining Area of Gunungkidul Regency, Indonesia",
+          "publicationYear": "2025",
+          "completionYear": "",
+          "authors": "Asih, A. S., Zamroni, A., Prasetya, H. N. E., Nolos, R. C., Hartono, H. G., Prahutama, A., & Ceballos, R. F.",
+          "indices": "Jordan Journal of Earth and Environmental Sciences, Scopus",
+          "abstract": "",
+          "citations": ""
+        },
+        {
+          "id": 19,
+          "collegeId": 4,
+          "title": "Acid Drainage From Sulphidic Mine Wastes: Comparing Continental Climate Mainland And Tropical Climate Sea Deposition Settings",
+          "publicationYear": "",
+          "completionYear": "",
+          "authors": "Medianista, R., Harman-Tóth, E., Irshad, I., & Weiszburg, T.",
+          "indices": "",
+          "abstract": "",
+          "citations": ""
+        }
+      ],"extension": [
+            {
+              "id": 1,
+              "title": "",
+              "publicationYear": "",
+              "completioYear": "",
+              "authors": "",
+              "indices": "",
+              "abstract": ""
+            }
+          ]
     }
+  ]
+}
 
+  ]
 }
