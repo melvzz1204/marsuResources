@@ -181,6 +181,270 @@
               ]
             }
           ]
+        },
+        {
+          "id": 2,
+          "Year": "2nd Year",
+          "Semester": [
+            {
+              "id": 1,
+              "SemesterName": "1st Semester",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "Computer Programming 2",
+                  "courseCode": "CC201",
+                  "units": 3,
+                  "prerequisite": "CC102"
+                },
+                {
+                  "id": 2,
+                  "courseName": "Information Management",
+                  "courseCode": "CC202",
+                  "units": 3,
+                  "prerequisite": "CC101"
+                },
+                {
+                  "id": 3,
+                  "courseName": "Professional Issues in Information System",
+                  "courseCode": "ISP201",
+                  "units": 3,
+                  "prerequisite": "GE-Ethics"
+                },
+                {
+                  "id": 4,
+                  "courseName": "Information technology Infrastructure and Network Technology",
+                  "courseCode": "ISP203",
+                  "units": 3,
+                  "prerequisite": "cc101"
+                },
+                {
+                  "id": 5,
+                  "courseName": "Elective 1: Presentation Skills Using Information Technology",
+                  "courseCode": "ISE201",
+                  "units": 3,
+                  "prerequisite": "GEE 103"
+                },
+                {
+                  "id": 6,
+                  "courseName": "Reading in Philippine History",
+                  "courseCode": "GE-RPH",
+                  "units": 3,
+                  "prerequisite": "None"
+                },
+                {
+                  "id": 7,
+                  "courseName": "Sports",
+                  "courseCode": "PATHFIT3",
+                  "units": 3,
+                  "prerequisite": "PATHFIT2"
+                }         
+              ]
+            },
+             {
+              "id": 2,
+              "SemesterName": "2nd Semester",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "Data Structure and Algorithms",
+                  "courseCode": "CC203",
+                  "units": 3,
+                  "prerequisite": "CC201"
+                },
+                {
+                  "id": 2,
+                  "courseName": "System Analysis and Design",
+                  "courseCode": "ISP204",
+                  "units": 3,
+                  "prerequisite": "All Courses passed prior in all previous semester"
+                },
+                {
+                  "id": 3,
+                  "courseName": "Quantitative Methods",
+                  "courseCode": "ISP205",
+                  "units": 3,
+                  "prerequisite": "GE-MMW"
+                },
+                {
+                  "id": 4,
+                  "courseName": "Introduction to Human-Computer Interaction",
+                  "courseCode": "ISP206",
+                  "units": 3,
+                  "prerequisite": "cC101"
+                },
+                {
+                  "id": 5,
+                  "courseName": "Evaluation of Business Performance",
+                  "courseCode": "iSP207",
+                  "units": 3,
+                  "prerequisite": "ISP102, ISP103, CC202"
+                },
+                {
+                  "id": 6,
+                  "courseName": "The Contemporary World",
+                  "courseCode": "GE202",
+                  "units": 3,
+                  "prerequisite": "None"
+                },
+                {
+                  "id": 7,
+                  "courseName": "Life and Works of Rizal",
+                  "courseCode": "GEM-Rizal",
+                  "units": 3,
+                  "prerequisite": "None"
+                },
+                {
+                  "id": 8,
+                  "courseName": "Sports",
+                  "courseCode": "PATHFIT4",
+                  "units": 2,
+                  "prerequisite": "PATHFIT3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "Year": "3rd Year",
+          "Semester": [
+            {
+              "id": 1,
+              "SemesterName": "1st Semester",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "Application Development and Emerging Technologies",
+                  "courseCode": "CC301",
+                  "units": 3,
+                  "prerequisite": "CC201, Com prog 2"
+                },
+                {
+                  "id": 2,
+                  "courseName": "Financial Management",
+                  "courseCode": "ISP301",
+                  "units": 3,
+                  "prerequisite": "None"
+                },
+                {
+                  "id": 3,
+                  "courseName": "Information System Project Management 1",
+                  "courseCode": "ISP302",
+                  "units": 3,
+                  "prerequisite": "All Courses passed prior in all previous semester"
+                },
+                {
+                  "id": 4,
+                  "courseName": "Methods of Research in Information System",
+                  "courseCode": "ISP304",
+                  "units": 3,
+                  "prerequisite": "All Courses passed prior in all previous semester"
+                },
+                {
+                  "id": 5,
+                  "courseName": "Elective 2: Web System and Technology",
+                  "courseCode": "ISE301",
+                  "units": 3,
+                  "prerequisite": "CC201"
+                },
+                {
+                  "id": 6,
+                  "courseName": "Elective 3: Advance Database System",
+                  "courseCode": "ISE302",
+                  "units": 3,
+                  "prerequisite": "CC202"
+                }        
+              ]
+            },
+             {
+              "id": 2,
+              "SemesterName": "2nd Semester",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "Capstone Project 1 – Proposal Writing and Presentation",
+                  "courseCode": "ISCAP301",
+                  "units": 3,
+                  "prerequisite": "All Courses passed prior in all previous semester"
+                },
+                {
+                  "id": 2,
+                  "courseName": "Information System Project Management 2",
+                  "courseCode": "ISP305",
+                  "units": 3,
+                  "prerequisite": "ISP303"
+                },
+                {
+                  "id": 3,
+                  "courseName": "Enterprise Resource Plan",
+                  "courseCode": "ISP205",
+                  "units": 3,
+                  "prerequisite": "ISP302, ISP104"
+                },
+                {
+                  "id": 4,
+                  "courseName": "Data Mining",
+                  "courseCode": "ISP307",
+                  "units": 3,
+                  "prerequisite": "ISP302"
+                },
+                {
+                  "id": 5,
+                  "courseName": "Elective 4: Seminar in Special Information System Topic",
+                  "courseCode": "ISE303",
+                  "units": 3,
+                  "prerequisite": "ISP101"
+                }
+              ]
+            }
+          ]
+        },
+         {
+          "id": 4,
+          "Year": "4th Year",
+          "Semester": [
+            {
+              "id": 1,
+              "SemesterName": "1st Semester",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "Capstone Project 2- Development and Implementation",
+                  "courseCode": "iSCAP401",
+                  "units": 3,
+                  "prerequisite": "ISCAP301"
+                },
+                {
+                  "id": 2,
+                  "courseName": "Information System Strategy Management and Acquisition",
+                  "courseCode": "ISP401",
+                  "units": 3,
+                  "prerequisite": "All Courses passed prior in all previous semester"
+                },
+                {
+                  "id": 3,
+                  "courseName": "Information Audit and Control",
+                  "courseCode": "ISP402",
+                  "units": 3,
+                  "prerequisite": "All Courses passed prior in all previous semester"
+                }        
+              ]
+            },
+             {
+              "id": 2,
+              "SemesterName": "2nd Semester",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "On the Job Training – 486 Hours",
+                  "courseCode": "ISOJT",
+                  "units": 6,
+                  "prerequisite": "All Courses passed prior in all previous semester"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
