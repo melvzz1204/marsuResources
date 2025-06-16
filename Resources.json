@@ -110,6 +110,75 @@
                   "prerequisite": "None"
                 }
               ]
+            },
+             {
+              "id": 2,
+              "SemesterName": "2nd Semester",
+              "CourseSubject": [
+                {
+                  "id": 1,
+                  "courseName": "Computer Programming 1",
+                  "courseCode": "CC102",
+                  "units": 3,
+                  "prerequisite": "CC101"
+                },
+                {
+                  "id": 2,
+                  "courseName": "Fundamentals of Information System",
+                  "courseCode": "ISP101",
+                  "units": 3,
+                  "prerequisite": "CC101"
+                },
+                {
+                  "id": 3,
+                  "courseName": "Organization and Management Concepts",
+                  "courseCode": "ISP103",
+                  "units": 3,
+                  "prerequisite": "None"
+                },
+                {
+                  "id": 4,
+                  "courseName": "Business Process Management",
+                  "courseCode": "ISP102",
+                  "units": 3,
+                  "prerequisite": "None"
+                },
+                {
+                  "id": 5,
+                  "courseName": "Living In IT Era",
+                  "courseCode": "GEE102",
+                  "units": 3,
+                  "prerequisite": "None"
+                },
+                {
+                  "id": 6,
+                  "courseName": "Modern Communication and Technical Writing",
+                  "courseCode": "GEE103",
+                  "units": 3,
+                  "prerequisite": "None"
+                },
+                {
+                  "id": 7,
+                  "courseName": "Ethics",
+                  "courseCode": "GE-Ethics",
+                  "units": 3,
+                  "prerequisite": "None"
+                },
+                {
+                  "id": 8,
+                  "courseName": "Exercise-base Fitness Activities",
+                  "courseCode": "PATHFIT2",
+                  "units": 2,
+                  "prerequisite": "PATHFIT1"
+                },
+                {
+                  "id": 9,
+                  "courseName": "National Service Training Program 2",
+                  "courseCode": "NSTP",
+                  "units": 3,
+                  "prerequisite": "NSTP1"
+                }
+              ]
             }
           ]
         }
