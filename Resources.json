@@ -934,11 +934,11 @@
             {
               "id":2,
               "attainment":"Master of Education in Educational Management"
-            }
+            },
             {
               "id":3,
               "attainment":"Master in Information Systems (15 units)"
-            }
+            },
             {
               "id":4,
               "attainment":"Doctor of Philosophy in Computer Science"
@@ -3802,30 +3802,151 @@
           ]
         }
       ],
-      "research": [
+       "research": [
         {
           "research": [
             {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
+            "id": 1,
+            "collegeId": 3,
+            "title": "Determination of Soluble Metals in Water Using RGB Component Analysis and Machine Learning Models",
+              "publicationYear": "2024",
               "completionYear": "",
-              "authors": "",
-              "indices": "",
+              "authors": "Jan Fern Historillo, Robert G. De Luna, Menandro M. Merlin, Marife Rosales, Gerhard P. Tan",
+              "indices": "IEEE Xplore R10 Conference Proceedings, October 2024, For Presentation",
+              "abstract": ""
+            },
+            {
+              "id": 2,
+              "collegeId": 3,
+              "title": "The Use of Generative Artificial Intelligence in English Language Education as Perceived by Filipino ESL Teachers",
+              "publicationYear": "2024",
+              "completionYear": "",
+              "authors": "Nikka Mae J. Adling",
+              "indices": "2024 International Research Conference on Interdisciplinary Perspectives, September 2024, For Presentation",
+              "abstract": ""
+            },
+            {
+              "id": 3,
+              "collegeId": 3,
+              "title": "Effectiveness of using Various Machine Learning Prediction Models in Determining Soluble Metals in Water through RGB Color Component Analysis",
+              "publicationYear": "2024",
+              "completionYear": "",
+              "authors": "Jan Fern Historillo, Menandro M. Merlin, Evangeline B. Mandia",
+              "indices": "International Conference on Science, Technology and AI Applications, September 2024, For Presentation",
+              "abstract": ""
+            },
+            {
+              "id": 4,
+              "collegeId": 3,
+             "title": "Installation And Capability Testing of An Improvised Micro Hydro-Electric Generator at Banhigan Falls, Duyay, Boac, Marinduque",
+              "publicationYear": "2024",
+              "completionYear": "",
+              "authors": "Ulysses J. Landoy",
+              "indices": "International Conference on Science, Technology and AI Applications, September 2024, For Presentation",
+              "abstract": ""
+            },
+            {
+              "id": 5,
+              "collegeId": 3,
+              "title": "Energy-Harvesting Capability of Tulip-Type Turbine With Photovoltaic Module",
+              "publicationYear": "2024",
+              "completionYear": "",
+              "authors": "Alexander Del Mundo",
+              "indices": "International Conference on Science, Technology and AI Applications, September 2024, For Presentation",
+              "abstract": ""
+            },
+            {
+              "id": 6,
+              "collegeId": 3,
+              "title": "Efficiency Capability of an AC-Powered Multilayered Sieving Machine",
+              "publicationYear": "2024",
+              "completionYear": "",
+              "authors": "John Carlo Lasac",
+              "indices": "International Conference on Science, Technology and AI Applications, September 2024, For Presentation",
+              "abstract": ""
+            },
+            {
+              "id": 7,
+              "collegeId": 3,
+              "title": "Development And Performance Evaluation of Biomass Briquetting Machine",
+              "publicationYear": "2024",
+              "completionYear": "",
+              "authors": "Jade Julius N. Liguit, John Romeo Mendros",
+              "indices": "International Conference on Science, Technology and AI Applications, September 2024, For Presentation",
+              "abstract": ""
+            },
+            {
+              "id": 8,
+              "collegeId": 3,
+              "title": "Assessing The Curriculum Relevance of The Employment Status of Bachelor of Science in Industrial Technology Graduates Batch 2017 To 2022: Basis for Curriculum Enhancement",
+              "publicationYear": "2024",
+              "completionYear": "",
+              "authors": "Nikka Mae Adling, Rose Ann Pestano, Darlene Melecia, Lyca Chavez",
+              "indices": "International Conference on Science, Technology and AI Applications, September 2024, For Presentation",
+              "abstract": ""
+            },
+            {
+              "id": 9,
+              "collegeId": 3,
+              "title": "Monitoring And Evaluation of Physical Plant & Facilities of Marinduque State College: Basis for Formulating Comprehensive Facility Management Policy",
+              "publicationYear": "2024",
+              "completionYear": "",
+              "authors": "Armando H. Reyes",
+              "indices": "International Conference on Science, Technology and AI Applications, September 2024, For Presentation",
+              "abstract": ""
+            },
+            {
+              "id": 10,
+              "collegeId": 3,
+              "title": "Plant-Based Milk From Breadnut (Artocarpus Camansi, Blanco) Seeds And Peanut (Arachis Hypogaea) Composite",
+              "publicationYear": "2024",
+              "completionYear": "",
+              "authors": "Melgar Mabuti",
+              "indices": "International Conference on Science, Technology and AI Applications, September 2024, For Presentation",
+              "abstract": ""
+            },
+            {
+              "id": 11,
+              "collegeId": 3,
+              "title": "Ang Epektibong Pamumuno sa Kaisipang Moral ng mga Pilipino",
+              "publicationYear": "2024",
+              "completionYear": "",
+              "authors": "Joseph Erwin G. Silangil",
+              "indices": "2024 PAP Annual International Philosophy Conference, July 20, 2024, Presented and Published",
+              "abstract": ""
+            },
+            {
+              "id": 12,
+              "collegeId": 3,
+              "title": "Lived Experiences of FL Students in Nihongo: Basis for a Proposed Program for Teachers About Providing Corrective Feedback",
+              "publicationYear": "2023",
+              "completionYear": "",
+              "authors": "Nikka Mae Adling, Bea Patrizia Santos, Leo Vigil Batuctoc, Anthony Avendaño, Aifel Joy Francisco, Roberto Salvador, Sherlyn Saspa, Jeremias Rivera, Ma. Marietta Alvarez, Mee AnnMae Tungol",
+              "indices": "International Journal of Arts, Sciences and Education, 2023, pp. 122-131",
+              "abstract": "https://drive.google.com/file/d/1VfzODSJRVkpCPR2p7Ek8QWW7JFtWz2h_/view?usp=drive_link"
+            },
+            {
+              "id": 13,
+              "collegeId": 3,
+              "title": "Determination of Soluble Copper in Water Through Tannic Reaction Analysis Using an Optical Color Sensor and Machine Learning",
+              "publicationYear": "2023",
+              "completionYear": "",
+              "authors": "Jan Fern Historillo, Robert Gallena de Luna, Gerhard P. Tan",
+              "indices": "IEEE Xplore, 2023, pp. 490-494",
+              "abstract": ""
+            },
+            {
+              "id": 14,
+              "collegeId": 3,
+              "title": "Financial Literacy Of Teachers And School Heads In The Division Of Marinduque: Basis For Financial Education Enhancement Program",
+              "publicationYear": "2023",
+              "completionYear": "",
+              "authors": "Ganny Rey M. Macdon, Menandro M. Merlin",
+              "indices": "Psychology and Education: A Multidisciplinary Journal, 2023, pp. 1035-1046",
               "abstract": ""
             }
           ],
-          "extension": [
-            {
-              "id": 1,
-              "title": "",
-              "publicationYear": "",
-              "completioYear": "",
-              "authors": "",
-              "indices": "",
-              "abstract": ""
-            }
-          ]
+          "extension": []
         }
       ],
       "studentAchievement": [
@@ -3988,30 +4109,229 @@
       ]
     }
   ],
-  "research": [
+   "research": [
     {
       "research": [
         {
           "id": 1,
-          "title": "",
+          "collegeId": 4,
+          "title": "Phytosuccession and Phytosociology of Plants in Ino-Capayang Mined-out Area for Possible Phytoremediation Activities in Marinduque",
+          "publicationYear": "2017",
+          "completionYear": "",
+          "authors": "Medianista, R. L., & Labay, P. M.",
+          "indices": "",
+          "abstract": "",
+          "citations": 5
+        },
+        {
+          "id": 2,
+          "collegeId": 4,
+          "title": "Sea-deposited Mine Tailings in Calancan Bay, Marinduque, Philippines-An Environmental Mineralogical Study",
+          "publicationYear": "2020",
+          "completionYear": "",
+          "authors": "Medianista, R. L.",
+          "indices": "",
+          "abstract": "",
+          "citations": ""
+        },
+        {
+          "id": 3,
+          "collegeId": 4,
+          "title": "Spatial Distribution of Hydrogeological Attributes in the Small Island Province of the Philippines: A Tool for Risk Analysis and Reduction Strategy",
+          "publicationYear": "2020",
+          "completionYear": "",
+          "authors": "Senoro, D. B., De Jesus, K. L., Chyan, J. M., Lamac, M. R. L., Bonifacio, P. B., Natal, P., & Yanuaria, C. A. S.",
+          "indices": "Proceedings of the Climate Smart and Disaster Resilient International Conference",
+          "abstract": "",
+          "citations": ""
+        },
+        {
+          "id": 4,
+          "collegeId": 4,
+          "title": "Mineralogical study of the redeposited near-shore STD waste in Calancan causeway, Philippines",
+          "publicationYear": "2021",
+          "completionYear": "",
+          "authors": "Medianista, R. L., Irshad, I., Weiszburg, T. G., & Harman-Tóth, E.",
+          "indices": "",
+          "abstract": "",
+          "citations": ""
+        },
+        {
+          "id": 5,
+          "collegeId": 4,
+          "title": "Spatial distribution of agricultural yields with elevated metal concentration of the island exposed to acid mine drainage",
+          "publicationYear": "2021",
+          "completionYear": "",
+          "authors": "Senoro, D. B., Bonifacio, P. B., Mascareñas, D. R., Tabelin, C. B., Ney, F. P., Lamac, M. R. L., & Tan, F. J.",
+          "indices": "Journal of Degraded and Mining Lands Management, Scopus",
+          "abstract": "",
+          "citations": 25
+        },
+        {
+          "id": 6,
+          "collegeId": 4,
+          "title": "Transition metals in freshwater crustaceans, tilapia, and inland water: Hazardous to the population of the small island province",
+          "publicationYear": "2021",
+          "completionYear": "",
+          "authors": "Agarin, C. J. M., Mascareñas, D. R., Nolos, R., Chan, E., & Senoro, D. B.",
+          "indices": "Toxics, Scopus, Web of Science",
+          "abstract": "",
+          "citations": 23
+        },
+        {
+          "id": 7,
+          "collegeId": 4,
+          "title": "In situ measurements of domestic water quality and health risks by elevated concentration of heavy metals and metalloids using Monte Carlo and MLGI methods",
+          "publicationYear": "2022",
+          "completionYear": "",
+          "authors": "Senoro, D. B., de Jesus, K. L. M., Nolos, R. C., Lamac, M. R. L., Deseo, K. M., & Tabelin, C. B.",
+          "indices": "Toxics, Scopus, Web of Science",
+          "abstract": "",
+          "citations": 27
+        },
+        {
+          "id": 8,
+          "collegeId": 4,
+          "title": "Health risks due to metal concentrations in soil and vegetables from the six municipalities of the Island Province in the Philippines",
+          "publicationYear": "2022",
+          "completionYear": "",
+          "authors": "Nolos, R. C., Agarin, C. J. M., Domino, M. Y. R., Bonifacio, P. B., Chan, E. B., Mascareñas, D. R., & Senoro, D. B.",
+          "indices": "International Journal of Environmental Research and Public Health, Scopus, Web of Science",
+          "abstract": "",
+          "citations": 40
+        },
+        {
+          "id": 9,
+          "collegeId": 4,
+          "title": "Color and image analysis approach in determination of soluble copper in water using tannic reaction analysis",
+          "publicationYear": "2022",
+          "completionYear": "",
+          "authors": "Historillo, J. F., Rosales, M., Merlin, M., & Mandia, E. B.",
+          "indices": "International Conference on Intelligent Computing & Optimization",
+          "abstract": "",
+          "citations": ""
+        },
+        {
+          "id": 10,
+          "collegeId": 4,
+          "title": "Drivers of deforestation and forest degradation in Palawan, Philippines: an analysis using social-ecological systems (SES) and institutional analysis and development (IAD) approaches",
+          "publicationYear": "2023",
+          "completionYear": "",
+          "authors": "Nolos, R. C., Zamroni, A., & Evina, K. F. P.",
+          "indices": "Geography, Environment, Sustainability, Scopus",
+          "abstract": "",
+          "citations": 16
+        },
+        {
+          "id": 11,
+          "collegeId": 4,
+          "title": "Detection of heavy metals, their distribution in Tilapia spp., and health risks assessment",
+          "publicationYear": "2023",
+          "completionYear": "",
+          "authors": "Mendoza, L. C., Nolos, R. C., Villaflores, O. B., Apostol, E. M. D., & Senoro, D. B.",
+          "indices": "Toxics, Scopus, Web of Science",
+          "abstract": "",
+          "citations": 15
+        },
+        {
+          "id": 12,
+          "collegeId": 4,
+          "title": "Metals and metalloid concentrations in fish, its spatial distribution in PPC, Philippines and the attributable risks",
+          "publicationYear": "2023",
+          "completionYear": "",
+          "authors": "Senoro, D. B., Plasus, M. M. G., Gorospe, A. F. B., Nolos, R. C., Baaco, A. T., & Lin, C.",
+          "indices": "Toxics, Scopus, Web of Science",
+          "abstract": "",
+          "citations": 6
+        },
+        {
+          "id": 13,
+          "collegeId": 4,
+          "title": "Global Overview on the Recent Studies of Geohazards: A Dynamic Population Approach",
+          "publicationYear": "2023",
+          "completionYear": "",
+          "authors": "Suprapto, N., Zamroni, A., Faustino-Eslava, D. V., Calzeta, E. C., Tiburan Jr, C. L., Rachmawati, Y., & Nolos, R. C.",
+          "indices": "Science of Tsunami Hazards, Scopus",
+          "abstract": "",
+          "citations": 2
+        },
+        {
+          "id": 14,
+          "collegeId": 4,
+          "title": "Challenges and recommendations for long-term rehabilitation of Boac River, Marinduque, Philippines, 20 years after the Marcopper mining disaster",
+          "publicationYear": "2023",
+          "completionYear": "",
+          "authors": "Serquiña, R. A. B., Dangcalan, R. J. P., Dapito, M., Buella-Mandia, E., & Sandoval, D. S. M.",
+          "indices": "Asian Journal of Resilience",
+          "abstract": "",
+          "citations": ""
+        },
+        {
+          "id": 15,
+          "collegeId": 4,
+          "title": "Understanding the knowledge of Mogpog residents about heavy metal pollution due to mining and its associated health risk",
+          "publicationYear": "2024",
+          "completionYear": "",
+          "authors": "Nolos, R. C., Sevilla-Nastor, J. B., Villanueva-Peyraube, J. D., & Sobremisana, M. J.",
+          "indices": "Journal of Degraded and Mining Lands Management, Scopus",
+          "abstract": "",
+          "citations": 1
+        },
+        {
+          "id": 16,
+          "collegeId": 4,
+          "title": "Distribution of potentially toxic elements (PTEs) and health risk assessment of soil in an island province in the Philippines",
+          "publicationYear": "2025",
+          "completionYear": "",
+          "authors": "Nolos, R., Sevilla-Nastor, J., & Villanueva-Peyraube, J.",
+          "indices": "Environmental Geochemistry and Health, Scopus, Web of Science",
+          "abstract": "",
+          "citations": ""
+        },
+        {
+          "id": 17,
+          "collegeId": 4,
+          "title": "Nature-based Solutions for Agricultural Drought Adaptation Strategies in the Karst Area of Gunungkidul Regency, Indonesia",
+          "publicationYear": "2025",
+          "completionYear": "",
+          "authors": "Zamroni, A., Putri, W. E. C., Nolos, R., & Ceballos, R.",
+          "indices": "Southeastern Philippines Journal of Research and Development, Scopus",
+          "abstract": "",
+          "citations": ""
+        },
+        {
+          "id": 18,
+          "collegeId": 4,
+          "title": "Heavy Metals Accumulation in the Agricultural Soils around the Limestone-Mining Area of Gunungkidul Regency, Indonesia",
+          "publicationYear": "2025",
+          "completionYear": "",
+          "authors": "Asih, A. S., Zamroni, A., Prasetya, H. N. E., Nolos, R. C., Hartono, H. G., Prahutama, A., & Ceballos, R. F.",
+          "indices": "Jordan Journal of Earth and Environmental Sciences, Scopus",
+          "abstract": "",
+          "citations": ""
+        },
+        {
+          "id": 19,
+          "collegeId": 4,
+          "title": "Acid Drainage From Sulphidic Mine Wastes: Comparing Continental Climate Mainland And Tropical Climate Sea Deposition Settings",
           "publicationYear": "",
           "completionYear": "",
-          "authors": "",
+          "authors": "Medianista, R., Harman-Tóth, E., Irshad, I., & Weiszburg, T.",
           "indices": "",
-          "abstract": ""
+          "abstract": "",
+          "citations": ""
         }
-      ],
-      "extension": [
-        {
-          "id": 1,
-          "title": "",
-          "publicationYear": "",
-          "completioYear": "",
-          "authors": "",
-          "indices": "",
-          "abstract": ""
-        }
-      ]
+      ],"extension": [
+            {
+              "id": 1,
+              "title": "",
+              "publicationYear": "",
+              "completioYear": "",
+              "authors": "",
+              "indices": "",
+              "abstract": ""
+            }
+          ]
     }
   ],
   "studentAchievement": [
@@ -5028,14 +5348,195 @@
     {
       "research": [
         {
-          "id": 1,
-          "title": "",
-          "publicationYear": "",
-          "completionYear": "",
-          "authors": "",
-          "indices": "",
-          "abstract": ""
-        }
+      "id": 1,
+      "collegeId": 6,
+      "title": "Level of Satisfaction of the Residents of Barangay Pili, Mogpog, Marinduque",
+      "publicationYear": "2023",
+      "completionYear": "",
+      "authors": "Generoso E. Udanga, MBA",
+      "indices": "PSU BIMP-EAGA International Research Conference, February 9, 2023, City State Austrias, Puerto Princesa City, Palawan, Philippines",
+      "abstract": ""
+    },
+    {
+      "id": 2,
+      "collegeId": 6,
+      "title": "Lived Experiences of Selected MSMEs on Technological Assistance",
+      "publicationYear": "2023",
+      "completionYear": "",
+      "authors": "Michael V. Capiña, Ph.D-M",
+      "indices": "ICSAVED, March 14-17, 2023, Mariano Marcos State University",
+      "abstract": ""
+    },
+    {
+      "id": 3,
+      "collegeId": 6,
+      "title": "Evaluating Resident Satisfaction with Tourism Promotion Program in Barangay Pili, Mogpog, Marinduque: Implications to Local Tourism Management",
+      "publicationYear": "2023",
+      "completionYear": "",
+      "authors": "Generoso E. Udanga, MBA",
+      "indices": "AMPAYAG 2023, May 18-19, 2023, Laoag City, Ilocos Norte",
+      "abstract": ""
+    },
+    {
+      "id": 4,
+      "collegeId": 6,
+      "title": "Towards Achieving the Sustainable Development Goals",
+      "publicationYear": "2023",
+      "completionYear": "",
+      "authors": "Generoso E. Udanga, MBA",
+      "indices": "6th International Multidisciplinary Research Conference, June 27-29, 2023, Leyte Normal University",
+      "abstract": ""
+    },
+    {
+      "id": 5,
+      "collegeId": 6,
+      "title": "The Impact of Investment Fraud Victimization to the Wellbeing of Selected College Students: A Basis in Developing Interventions",
+      "publicationYear": "2023",
+      "completionYear": "",
+      "authors": "Ronalyn M. Motol",
+      "indices": "APCORE 2023 Hybrid International Conference, August 29-31, 2023, Via Zoom",
+      "abstract": ""
+    },
+    {
+      "id": 6,
+      "collegeId": 6,
+      "title": "MSMEs Diagnostic Framework: Basis for Policy Development",
+      "publicationYear": "2023",
+      "completionYear": "",
+      "authors": "Michael V. Capiña, Ph.D",
+      "indices": "ICESMED 2023, November 28-29, 2023, UP Diliman, Quezon City",
+      "abstract": ""
+    },
+    {
+      "id": 7,
+      "collegeId": 6,
+      "title": "Effectiveness of Microfinance Services on Poverty Alleviation Among Members in Selected Rural Areas in Mogpog Marinduque",
+      "publicationYear": "2024",
+      "completionYear": "",
+      "authors": "Generoso E. Udanga, MBA",
+      "indices": "Sinag at Balag, June 25-27, 2024, Sevilla Resort and Hotel, Lucena City",
+      "abstract": ""
+    },
+    {
+      "id": 8,
+      "collegeId": 6,
+      "title": "DTI Kapatid Mentor Me Program: An Entrepreneurial guide for Micro and Small Enterprises in the Province of Marinduque",
+      "publicationYear": "2024",
+      "completionYear": "",
+      "authors": "Michael Jaye P. Ribleza, MBA",
+      "indices": "2nd Nemesio Prudente International Research Conference, July 18-19, 2024, Via Zoom",
+      "abstract": ""
+    },
+    {
+      "id": 9,
+      "collegeId": 6,
+      "title": "Factors Affecting the Continuation of Business Start-Ups Among BS Entrepreneurship Students in Marinduque State University",
+      "publicationYear": "2024",
+      "completionYear": "",
+      "authors": "Donabel T. Magahis, MBA",
+      "indices": "ENEDA International Conference 2024, September 13-14, 2024, Miriam College – Henry Sy, Sr. Innovation Center",
+      "abstract": ""
+    },
+    {
+      "id": 10,
+      "collegeId": 6,
+      "title": "Level of Awareness in Digital Marketing Among Offline Sellers in Santa Cruz, Marinduque",
+      "publicationYear": "2024",
+      "completionYear": "",
+      "authors": "Generoso E. Udanga, MBA, Marvelous Marvin R. Pondevida, Glendel Ann P. Puente",
+      "indices": "ENEDA International Conference 2024, September 13-14, 2024, Miriam College – Henry Sy, Sr. Innovation Center",
+      "abstract": ""
+    },
+    {
+      "id": 11,
+      "collegeId": 6,
+      "title": "Arrowroot Industry in Marinduque: Its By-Products Innovation and Management",
+      "publicationYear": "2024",
+      "completionYear": "",
+      "authors": "Michael V. Capiña, Ph.D.",
+      "indices": "ENEDA International Conference 2024, September 13-14, 2024, Miriam College – Henry Sy, Sr. Innovation Center",
+      "abstract": ""
+    },
+    {
+      "id": 12,
+      "collegeId": 6,
+      "title": "Analyzing Key Factors Influencing Business Feasibility in Small Enterprises in Boac, Marinduque",
+      "publicationYear": "2024",
+      "completionYear": "",
+      "authors": "Margarette F. Guilmo, MBA, Paolo D. Ramos, Melody A. Malitao, Jesiel N. Maring, Rose Mae P. Recaña, Ronaly M. Motol",
+      "indices": "ENEDA International Conference 2024, September 13-14, 2024, Miriam College – Henry Sy, Sr. Innovation Center",
+      "abstract": ""
+    },
+    {
+      "id": 13,
+      "collegeId": 6,
+      "title": "Assessment of Best Practices of Different Successful Business Enterprises: Basis for Training and Development Plan",
+      "publicationYear": "2024",
+      "completionYear": "",
+      "authors": "Merryrose R. Palma, Ph.D - BM",
+      "indices": "ENEDA International Conference 2024, September 13-14, 2024, Miriam College – Henry Sy, Sr. Innovation Center",
+      "abstract": ""
+    },
+    {
+      "id": 14,
+      "collegeId": 6,
+      "title": "The Role of Digital Payment Methods in the Traditional Retail: Implications for Business Innovation",
+      "publicationYear": "2024",
+      "completionYear": "",
+      "authors": "Merryrose R. Palma, Ph.D - BM",
+      "indices": "ENEDA International Conference 2024, September 13-14, 2024, Miriam College – Henry Sy, Sr. Innovation Center",
+      "abstract": ""
+    },
+    {
+      "id": 15,
+      "collegeId": 6,
+      "title": "Financial Management Practices and their Influence on the Business Performance of the Food Business",
+      "publicationYear": "2024",
+      "completionYear": "",
+      "authors": "Merryrose R. Palma, Ph.D – BM, Joyce Ann Marie R. Padilla, Heart P. Forfieda",
+      "indices": "6th Adventist Colleges Research Association (ACRA) Annual Research Conference, September 23-24, 2024, Northeast Luzon Adventist College Inc.",
+      "abstract": ""
+    },
+    {
+      "id": 16,
+      "collegeId": 6,
+      "title": "Arrowroot Farming in Marinduque: Its Challenges and Opportunities",
+      "publicationYear": "2024",
+      "completionYear": "",
+      "authors": "Michael V. Capiña, Ph.D.",
+      "indices": "4th GAME 2024 Conference and Expo, October 24-25, 2024, Conrad Hotel and SMX Convention Center, Pasay City",
+      "abstract": ""
+    },
+    {
+      "id": 17,
+      "collegeId": 6,
+      "title": "Perceptions of Multi-Generational Gap Among Entrepreneurs in Marinduque Island: Basis for Educational Tools and Workshops",
+      "publicationYear": "2025",
+      "completionYear": "",
+      "authors": "Lynle N. Mendoza, MBA",
+      "indices": "National Marketing Research Congress 2025, March 28, 2025, Jose Rizal University, Mandaluyong, Manila",
+      "abstract": ""
+    },
+    {
+      "id": 18,
+      "collegeId": 6,
+      "title": "Opportunities and Challenges in Implementing AIS Practices: Insights from Boac, Marinduque’s Tourism Business",
+      "publicationYear": "2023",
+      "completionYear": "",
+      "authors": "Jenyza B. Dimacali-Rojo, MBA",
+      "indices": "International Journal of Scientific and Management Research, DOAJ, June 2023, ISSN: 2581-6888, DOI: http://doi.org/10.37502/IJSMR.2023.6601",
+      "abstract": ""
+    },
+    {
+      "id": 19,
+      "collegeId": 6,
+      "title": "Marinduque Island: Where Culture and Adventure Meet for Sustainable Tourism",
+      "publicationYear": "2023",
+      "completionYear": "",
+      "authors": "Lynle N. Mendoza, MBA",
+      "indices": "International Journal of Scientific and Management Research, DOAJ, June 2023, ISSN: 2581-6888, DOI: http://doi.org/10.37502/IJSMR.2023.6601",
+      "abstract": ""
+    }
       ],
       "extension": [
         {
