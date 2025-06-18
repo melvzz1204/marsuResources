@@ -2245,8 +2245,7 @@
       ]
     }
   ],
-   "research": [
-        {
+  
           "research": [
         {
           "id": 2,
@@ -3365,9 +3364,7 @@
         "narrative_report": "https://drive.google.com/drive/folders/158cogSzfO1rsyeqjM5K5PTcJGf6u3UR7?usp=sharing"
       }
     }
-  ]
-        }
-      ],
+  ],
   "studentAchievement": [
     {
       "id": 1,
@@ -3550,8 +3547,7 @@
           ]
         }
       ],
-       "research": [
-        {
+
           "research": [
             {
             "id": 1,
@@ -3694,9 +3690,7 @@
               "abstract": ""
             }
           ],
-          "extension": []
-        }
-      ],
+          "extension": [],
       "studentAchievement": [
         {
           "id": 1,
@@ -3857,8 +3851,7 @@
       ]
     }
   ],
-   "research": [
-    {
+
       "research": [
         {
           "id": 1,
@@ -4079,9 +4072,7 @@
               "indices": "",
               "abstract": ""
             }
-          ]
-    }
-  ],
+          ],
   "studentAchievement": [
     {
       "id": 1,
@@ -4236,8 +4227,7 @@
       ]
     }
   ],
-  "research": [
-    {
+
       "research": [
         {
           "id": 1,
@@ -4259,8 +4249,7 @@
           "indices": "",
           "abstract": ""
         }
-      ]
-    }
+      
   ],
   "studentAchievement": [
     {
@@ -5092,8 +5081,6 @@
       ]
     }
   ],
-  "research": [
-    {
       "research": [
         {
       "id": 1,
@@ -5296,9 +5283,7 @@
           "indices": "",
           "abstract": ""
         }
-      ]
-    }
-  ],
+      ],
   "studentAchievement": [
     {
       "id": 1,
@@ -5496,8 +5481,7 @@
       ]
     }
   ],
-  "research": [
-    {
+
       "research": [
         {
           "id": 1,
@@ -5519,9 +5503,7 @@
           "indices": "",
           "abstract": ""
         }
-      ]
-    }
-  ],
+      ],
   "studentAchievement": [
     {
       "id": 1,
@@ -5856,8 +5838,7 @@
       ]
     }
   ],
-  "research": [
-    {
+
       "research": [
         {
           "id": 1,
@@ -5879,9 +5860,7 @@
           "indices": "",
           "abstract": ""
         }
-      ]
-    }
-  ],
+      ],
   "studentAchievement": [
     {
       "id": 1,
@@ -6036,8 +6015,7 @@
       ]
     }
   ],
-  "research": [
-    {
+
       "research": [
         {
           "id": 1,
@@ -6060,8 +6038,7 @@
           "abstract": ""
         }
       ]
-    }
-  ],
+    ,
   "studentAchievement": [
     {
       "id": 1,
@@ -6553,8 +6530,7 @@
       ]
     }
   ],
-  "research": [
-    {
+  
       "research": [
         {
           "id": 1,
@@ -6576,9 +6552,7 @@
           "indices": "",
           "abstract": ""
         }
-      ]
-    }
-  ],
+      ],
   "studentAchievement": [
     {
       "id": 1,
@@ -6733,8 +6707,7 @@
       ]
     }
   ],
-  "research": [
-    {
+  
       "research": [
         {
           "id": 1,
@@ -6756,9 +6729,7 @@
           "indices": "",
           "abstract": ""
         }
-      ]
-    }
-  ],
+      ],
   "studentAchievement": [
     {
       "id": 1,
@@ -6913,8 +6884,7 @@
       ]
     }
   ],
-  "research": [
-    {
+  
       "research": [
         {
           "id": 1,
@@ -6936,9 +6906,7 @@
           "indices": "",
           "abstract": ""
         }
-      ]
-    }
-  ],
+      ],
   "studentAchievement": [
     {
       "id": 1,
