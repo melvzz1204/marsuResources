@@ -1770,8 +1770,7 @@
       ]
     }
   ],
-   "research": [
-  {
+  
     "research": [
         {
           "id": 1,
@@ -1900,8 +1899,6 @@
         "narrative_report": "https://drive.google.com/drive/folders/158cogSzfO1rsyeqjM5K5PTcJGf6u3UR7?usp=sharing"
       }
     }
-  ]
-  }
 ],
   
   "studentAchievement": [
